@@ -1,0 +1,27 @@
+STUDYID,DOMAIN,IETESTCD,IETEST,IECAT
+EFC10547,TI,I01,Cytologically or histologically confirmed evidence of epithelial cancer (adenocarcinoma) of the exocrine pancreas.,INCLUSION
+EFC10547,TI,I02,"Metastatic disease. Patients with measurable and with non-measurable disease, as per RECIST criteria are eligible",INCLUSION
+EFC10547,TI,I03,"No prior chemotherapy for pancreatic disease. Prior treatment with 5-fluoruoracil, capecitabine or gemcitabine, in which the chemotherapy was used as radio-sensitizing agent, is allowed if the",INCLUSION
+EFC10547,TI,E01,Chemotherapy or other systemic therapy for pancreatic cancer,EXCLUSION
+EFC10547,TI,E02,Less than 42 days elapsed from prior major surgery (28 days from other surgery) to the time of randomization. Less than 28 days elapsed from prior radiation therapy.,EXCLUSION
+EFC10547,TI,E03,Prior treatment with anti-VEGF or VEGF-Receptor-inhibitors.,EXCLUSION
+EFC10547,TI,E04,Age < 18 years.,EXCLUSION
+EFC10547,TI,E05,ECOG performance status (PS) of 3-4,EXCLUSION
+EFC10547,TI,E06,"History of brain metastases, uncontrolled spinal cord compression, or carcinomatous meningitis, or new evidence of brain or leptomeningeal disease",EXCLUSION
+EFC10547,TI,E07,"History of another neoplasm.  Adequately treated basal cell or squamous cell skin cancers, carcinoma in situ of the cervix, or any other cancer from which the patient has been disease free",EXCLUSION
+EFC10547,TI,E08,Participation in other clinical trial and any concurrent treatment with any investigational drug within 30 days prior to randomization.,EXCLUSION
+EFC10547,TI,E09,"Any of the following events within the 3 months prior to randomization: treatment resistant peptic ulcer disease, erosive oesophagitis or gastritis, grade 3 or 4 gastrointestinal",EXCLUSION
+EFC10547,TI,E10,"Any of the following events within the 6 months prior to randomization: myocardial infarction, severe/unstable angina pectoris, coronary/peripheral artery bypass graft surgery,",EXCLUSION
+EFC10547,TI,E11,Occurrence of deep vein thrombosis within 4 weeks prior to randomization.,EXCLUSION
+EFC10547,TI,E12,Known human immunodeficiency virus (HIV) infection requiring antiretroviral treatment or acquired immunodeficiency-syndrome (AIDS)-related illness.,EXCLUSION
+EFC10547,TI,E13,"Other severe acute or chronic medical condition, which could impair the ability of the patient to participate to the study or to interfere with interpretation of study results.",EXCLUSION
+EFC10547,TI,E14,Absence of signed and dated Institutional Review Board (IRB)-/Independent Ethical Committee (IEC)-approved patient informed consent form prior to enrollment into the study,EXCLUSION
+EFC10547,TI,E15,Pregnant or breast-feeding woman. Positive serum or urine pregnancy test for women of reproductive potential prior to randomization.,EXCLUSION
+EFC10547,TI,E16,"Patient with reproductive potential (male, female) who do not agree to use accepted and effective method of contraception during the study treatment period and for at least 3 months after the",EXCLUSION
+EFC10547,TI,E17,Urine Protein-Creatinine ratio (UPCR) > 1 on morning spot urinalysis or proteinuria > 500 mg/24 hours.,EXCLUSION
+EFC10547,TI,E18,"Serum Creatinine > 1.5 x ULN. If creatinine 1.0 - 1.5 x ULN, creatinine clearance calculated according to Cockcroft-Gault formula < 60 mL/min will exclude the patient",EXCLUSION
+EFC10547,TI,E19,"Uncontrolled hypertension defined as blood pressure > 150/100 mmHg (>= grade 2 according to NCI CTCAE v. 3.0), or systolic blood pressure >180 mmHg if diastolic blood pressure < 90 mmHg,",EXCLUSION
+EFC10547,TI,E20,Patients on anticoagulants therapy with unstable dose of warfarin and/or having an out-of-therapeutic range INR (>3) within the 4 weeks prior to randomization,EXCLUSION
+EFC10547,TI,E21,"Evidence of clinically significant bleeding diathesis, non-healing wound or underlying coagulopathy (e.g. INR >1.5 without vitamin K antagonist therapy).",EXCLUSION
+EFC10547,TI,E22,"Inadequate bone marrow function: Absolute neutrophil counts (ANC) < 1,500/mm3, Platelet count < 100,000/mm3, Hemoglobin < 9.0 g/dL",EXCLUSION
+EFC10547,TI,E23,"Inadequate liver function tests: Total bilirubin > 1.5 ULN, Transaminases (SGOT/SGPT) > 2.5 x ULN (unless liver metastasis are present, 5 x ULN in that case), Alkaline phosphatase > 3 x ULN",EXCLUSION

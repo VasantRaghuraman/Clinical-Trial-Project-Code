@@ -1,0 +1,757 @@
+CMTRT,CMDECOD,Anatomical Class,Anatomical Class Code,Therapeutic Class,Therapeutic Class Code,Pharmacological Class,Pharmacological Class Code,Chemical Class,ATC Code
+ACARBOSE,Acarbose,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,Alpha glucosidase inhibitors,A10BF
+ACEBUTOLOL HYDROCHLORIDE,Acebutolol Hydrochloride,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Selective",C07AB
+ACECLOFENAC,Aceclofenac,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,Acetic Acid Derivatives And Related Substances,M01AB
+ACENOCOUMAROL,Acenocoumarol,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Vitamin K Antagonists,B01AA
+ACETAZOLAMIDE,Acetazolamide,Cardiovascular System,C,Diuretics,C03,,,Carbonic anhydrase inhibitors,S01EC
+ACETORPHAN,Acetorphan,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Other Antidiarrheals,A07X,Other Antidiarrheals,A07XA
+ACETYLCARNITINE HYDROCHLORIDE,Acetylcarnitine Hydrochloride,Nervous System,N,Psychoanaleptics,N06,"Psychostim., Agents Used For Adhd And Nootropics",N06B,Other Psychostimulants And Nootropics,N06BX
+ACETYLCYSTEINE,Acetylcysteine,Respiratory System,R,Cough And Cold Preparations,R05,"Expectorants,Excl Combinations With Cough Suppr.",R05C,Mucolytics,R05CB
+ACETYLSALICYLATE LYSINE,Acetylsalicylate Lysine,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Platelet Aggregation Inhibitors Excl. Heparin,B01AC
+ACETYLSALICYLIC ACID,Acetylsalicylic Acid,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Other Agents For Local Oral Treatment,A01AD
+ACICLOVIR,Aciclovir,Dermatologicals,D,Antibiotics And Chemother. For Dermatological Use,D06,Chemotherapeutics For Topical Use,D06B,Antivirals,D06BB
+ACICLOVIR SODIUM,Aciclovir Sodium,Antiinfectives For Systemic Use,J,Antivirals For Systemic Use,J05,Direct Acting Antivirals,J05A,Nucleosides And Nucleotides Excl Rev.Transcr.Inhib,J05AB
+ADEMETIONINE,Ademetionine,Alimentary Tract And Metabolism,A,Other Alimentary Tract And Metabolism Products,A16,Other Alimentary Tract And Metabolism Products,A16A,Amino Acids And Derivatives,A16AA
+AKTIFERRIN,Aktiferrin,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Iron Preparations,B03A,"Iron Bivalent, Oral Preparations",B03AA
+ALBUMIN,Albumin,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,Blood And Related Products,B05A,Blood Substitutes And Plasma Protein Fractions,B05AA
+ALENDRONATE SODIUM,Alendronate Sodium,Musculo-Skeletal System,M,Drugs For Treatment Of Bone Diseases,M05,Drugs Affecting Bone Structure And Mineralization,M05B,Bisphosphonates,M05BA
+ALFUZOSIN,Alfuzosin,Cardiovascular System,C,Antihypertensives,C02,"Antiadrenergic Agents, Peripherally Acting",C02C,Alpha-Adrenoreceptor Antagonists,C02CA
+ALFUZOSIN HYDROCHLORIDE,Alfuzosin Hydrochloride,Cardiovascular System,C,Antihypertensives,C02,"Antiadrenergic Agents, Peripherally Acting",C02C,Alpha-Adrenoreceptor Antagonists,C02CA
+ALGIFEN,Algifen,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Antispasmodics In Combination With Analgesics,A03D,Other Antispasmodics In Combination W/ Analgesics,A03DC
+ALISKIREN,Aliskiren,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,Other Agents Acting On The Renin-Angiotensin Syste,C09X,Renin-Inhibitors,C09XA
+ALIZAPRIDE,Alizapride,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Propulsives,A03F,Propulsives,A03FA
+ALIZAPRIDE HYDROCHLORIDE,Alizapride Hydrochloride,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Propulsives,A03F,Propulsives,A03FA
+ALKONIUM BROMIDE,Alkonium Bromide,Dermatologicals,D,Antiseptics And Disinfectants,D08,Antiseptics And Disinfectants,D08A,Quaternary Ammonium Compounds,D08AJ
+ALLEGRA-D,Allegra-D,Respiratory System,R,Nasal Preparations,R01,Nasal Decongestants For Systemic Use,R01B,Sympathomimetics,R01BA
+ALLERGY MEDICATION,Allergy Medication,Respiratory System,R,,,,,"Antiallergic agents, excl. corticosteroids",R01AC
+ALLIUM SATIVUM,Allium Sativum,Various,V,Unspecified Herbal,V90,,,,V90
+ALLOPURINOL,Allopurinol,Musculo-Skeletal System,M,Antigout Preparations,M04,Antigout Preparations,M04A,Preparations Inhibiting Uric Acid Production,M04AA
+ALPRAZOLAM,Alprazolam,Nervous System,N,Psycholeptics,N05,Anxiolytics,N05B,Benzodiazepine Derivatives,N05BA
+ALUPENT-SED,Alupent-Sed,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,Adrenergics For Systemic Use,R03C,Non-Selective Beta-Adrenoreceptor Agonists,R03CB
+AMBROXOL,Ambroxol,Respiratory System,R,Throat Preparations,R02,Throat Preparations,R02A,"Anesthetics, Local",R02AD
+AMBROXOL HYDROCHLORIDE,Ambroxol Hydrochloride,Respiratory System,R,Throat Preparations,R02,Throat Preparations,R02A,"Anesthetics, Local",R02AD
+AMIKACIN,Amikacin,Dermatologicals,D,Antibiotics And Chemother. For Dermatological Use,D06,Antibiotics For Topical Use,D06A,Other Antibiotics For Topical Use,D06AX
+AMIKACIN SULFATE,Amikacin Sulfate,Dermatologicals,D,Antibiotics And Chemother. For Dermatological Use,D06,Antibiotics For Topical Use,D06A,Other Antibiotics For Topical Use,D06AX
+AMINOCAPROIC ACID,Aminocaproic Acid,Blood And Blood Forming Organs,B,Antihemorrhagics,B02,Antifibrinolytics,B02A,Amino Acids,B02AA
+AMINOSTERIL,Aminosteril,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions For Parenteral Nutrition,B05BA
+AMITRIPTYLINE,Amitriptyline,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Non-Selective Monoamine Reuptake Inhibitors,N06AA
+AMITRIPTYLINE HYDROCHLORIDE,Amitriptyline Hydrochloride,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Non-Selective Monoamine Reuptake Inhibitors,N06AA
+AMLODIPINE,Amlodipine,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Mainly Vasc. Eff.,C08C,Dihydropyridine Derivatives,C08CA
+AMLODIPINE BESILATE,Amlodipine Besilate,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Mainly Vasc. Eff.,C08C,Dihydropyridine Derivatives,C08CA
+AMOXICILLIN,Amoxicillin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,Penicillins With Extended Spectrum,J01CA
+AMOXICILLIN W/CLAVULANATE POTASSIUM,Amoxicillin W/Clavulanate Potassium,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,"Comb Of Penicillins, Incl. Beta-Lactamase Inhib.",J01CR
+AMPHOTERICIN B,Amphotericin B,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Antiinfect. And Antisept. For Local Oral Treatment,A01AB
+AMPICILLIN,Ampicillin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,Penicillins With Extended Spectrum,J01CA
+ANCATROPINE,Ancatropine,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Antacids,A02A,Antacids With Antispasmodics,A02AG
+ANEMIDOX FERRUM,Anemidox Ferrum,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Iron Preparations,B03A,Iron In Other Combinations,B03AE
+ANTACIDS,Antacids,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Antacids,A02A,ANTACIDS,A02A
+ANTIBIOTICS,Antibiotics,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinfectives,A07A,Antibiotics,A07AA
+ANTIEPILEPTICS,Antiepileptics,Nervous System,N,Antiepileptics,N03,Antiepileptics,N03A,ANTIEPILEPTICS,N03A
+ANTINEOPLASTIC AGENTS,Antineoplastic Agents,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,,,ANTINEOPLASTIC AGENTS,L01
+ANTIVIRALS FOR SYSTEMIC USE,Antivirals For Systemic Use,Antiinfectives For Systemic Use,J,Antivirals For Systemic Use,J05,,,ANTIVIRALS FOR SYSTEMIC USE,J05
+APOREX,Aporex,Nervous System,N,Analgesics,N02,Opioids,N02A,Diphenylpropylamine Derivatives,N02AC
+APREPITANT,Aprepitant,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Other Antiemetics,A04AD
+ARGININE-SORBITOL,Arginine-Sorbitol,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solution Additives,B05X,Amino Acids,B05XB
+ARIPIPRAZOLE,Aripiprazole,Nervous System,N,Psycholeptics,N05,Antipsychotics,N05A,Other Antipsychotics,N05AX
+ARTICAINE HYDROCHLORIDE,Articaine Hydrochloride,Nervous System,N,Anesthetics,N01,"Anesthetics, Local",N01B,Amides,N01BB
+ASCORBIC ACID,Ascorbic Acid,Alimentary Tract And Metabolism,A,Vitamins,A11,"Ascorbic Acid (Vitamin C), Incl. Combinations",A11G,"Ascorbic Acid (Vitamin C), Plain",A11GA
+ASCORUTIN,Ascorutin,Cardiovascular System,C,Vasoprotectives,C05,Capillary Stabilizing Agents,C05C,Bioflavonoids,C05CA
+ASPARCAM,Asparcam,Alimentary Tract And Metabolism,A,Vitamins,A11,"Other Vitamin Products, Combinations",A11J,Vitamins With Minerals,A11JB
+ASPARTOFORT,Aspartofort,Alimentary Tract And Metabolism,A,Bile And Liver Therapy,A05,"Liver Therapy, Lipotropics",A05B,Liver Therapy,A05BA
+ATENOLOL,Atenolol,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Selective",C07AB
+ATORVASTATIN,Atorvastatin,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Hmg Coa Reductase Inhibitors,C10AA
+ATORVASTATIN CALCIUM,Atorvastatin Calcium,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Hmg Coa Reductase Inhibitors,C10AA
+ATRACURIUM BESILATE,Atracurium Besilate,Musculo-Skeletal System,M,Muscle Relaxants,M03,"Muscle Relaxants, Peripherally Acting Agents",M03A,Other Quaternary Ammonium Compounds,M03AC
+ATROPINE,Atropine,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,"Belladonna And Derivatives, Plain",A03B,"Belladonna Alkaloids, Tertiary Amines",A03BA
+ATROPINE SULFATE,Atropine Sulfate,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,"Belladonna And Derivatives, Plain",A03B,"Belladonna Alkaloids, Tertiary Amines",A03BA
+AUGMENTIN,Augmentin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,"Comb Of Penicillins, Incl. Beta-Lactamase Inhib.",J01CR
+AZITHROMYCIN,Azithromycin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Macrolides, Lincosamides And Streptogramins",J01F,Macrolides,J01FA
+BACLOFEN,Baclofen,Musculo-Skeletal System,M,Muscle Relaxants,M03,"Muscle Relaxants, Centrally Acting Agents",M03B,Other Centrally Acting Agents,M03BX
+BACTRIM,Bactrim,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Sulfonamides And Trimethoprim,J01E,Comb.Sulfonamides & Trimethoprim Incl. Derivatives,J01EE
+BARALGINA,Baralgina,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Antispasmodics In Combination With Analgesics,A03D,Synthetic Anticholin. Agents In Comb. W/Analgesics,A03DA
+BARIUM SULFATE,Barium Sulfate,Various,V,Contrast Media,V08,"X-Ray Contrast Media, Non-Iodinated",V08B,Barium Sulfate Containing X-Ray Contrast Media,V08BA
+BECLOMETASONE DIPROPIONATE,Beclometasone Dipropionate,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinflammatory Agents,A07E,Corticosteroids Acting Locally,A07EA
+BECOSULES,Becosules,Alimentary Tract And Metabolism,A,Vitamins,A11,"Multivitamins, Plain",A11B,"Multivitamins, Plain",A11BA
+BEFACT,Befact,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vit B1,Plain And In Comb With Vitamin B6 And B12",A11D,Vit B1 In Comb With Vitamin B6 And/Or Vitamin B12,A11DB
+BENAZEPRIL,Benazepril,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Plain",C09A,"Ace Inhibitors, Plain",C09AA
+BENAZEPRIL HYDROCHLORIDE,Benazepril Hydrochloride,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Plain",C09A,"Ace Inhibitors, Plain",C09AA
+BENZONATATE,Benzonatate,Respiratory System,R,Cough And Cold Preparations,R05,Cough Suppressants Excl. Comb. With Expectorants,R05D,Other Cough Suppressants,R05DB
+BENZYLPENICILLIN,Benzylpenicillin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,Beta-Lactamase Sensitive Penicillins,J01CE
+BETAMETHASONE,Betamethasone,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinflammatory Agents,A07E,Corticosteroids Acting Locally,A07EA
+BETAMETHASONE DIPROPIONATE,Betamethasone Dipropionate,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinflammatory Agents,A07E,Corticosteroids Acting Locally,A07EA
+BETAXOLOL HYDROCHLORIDE,Betaxolol Hydrochloride,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Selective",C07AB
+BISACODYL,Bisacodyl,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Contact Laxatives,A06AB
+BISELECT,Biselect,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents And Thiazides,C07B,"Beta Blocking Agents, Selective, And Thiazides",C07BB
+BISOPROLOL,Bisoprolol,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Selective",C07AB
+BISOPROLOL FUMARATE,Bisoprolol Fumarate,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Selective",C07AB
+BISULEPIN HYDROCHLORIDE,Bisulepin Hydrochloride,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Other Antihistamines For Systemic Use,R06AX
+BLOOD AND RELATED PRODUCTS,Blood And Related Products,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,Blood And Related Products,B05A,BLOOD AND RELATED PRODUCTS,B05A
+"BLOOD CELLS, PACKED HUMAN","Blood Cells, Packed Human",Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,Blood And Related Products,B05A,BLOOD AND RELATED PRODUCTS,B05A
+"BLOOD TRANSFUSION, AUXILIARY PRODUCTS","Blood Transfusion, Auxiliary Products",Various,V,All Other Non-Therapeutic Products,V07,All Other Non-Therapeutic Products,V07A,"Blood Transfusion, Auxiliary Products",V07AC
+BLOPRESS PLUS,Blopress Plus,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Angiotensin Ii Antagonists, Combinations",C09D,Angiotensin Ii Antagonists And Diuretics,C09DA
+BREVA,Breva,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Adrenergics, Inhalants",R03A,Adrenergics And Oth.Drugs For Obstruct.Airway Dis.,R03AK
+BROMAZEPAM,Bromazepam,Nervous System,N,Psycholeptics,N05,Anxiolytics,N05B,Benzodiazepine Derivatives,N05BA
+BROMHEXINE HYDROCHLORIDE,Bromhexine Hydrochloride,Respiratory System,R,Cough And Cold Preparations,R05,"Expectorants,Excl Combinations With Cough Suppr.",R05C,Mucolytics,R05CB
+BROTIZOLAM,Brotizolam,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Derivatives,N05CD
+BUDESONIDE,Budesonide,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinflammatory Agents,A07E,Corticosteroids Acting Locally,A07EA
+BUDESONIDE W/FORMOTEROL FUMARATE,Budesonide W/Formoterol Fumarate,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Adrenergics, Inhalants",R03A,Adrenergics And Oth.Drugs For Obstruct.Airway Dis.,R03AK
+BUMETANIDE,Bumetanide,Cardiovascular System,C,Diuretics,C03,High-Ceiling Diuretics,C03C,"Sulfonamides, Plain",C03CA
+BUPRENORPHINE,Buprenorphine,Nervous System,N,Analgesics,N02,Opioids,N02A,Oripavine Derivatives,N02AE
+BUPROPION,Bupropion,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Other Antidepressants,N06AX
+BUPROPION HYDROCHLORIDE,Bupropion Hydrochloride,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Other Antidepressants,N06AX
+BUSCOPAN COMP.,Buscopan Comp.,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Antispasmodics In Combination With Analgesics,A03D,Belladonna And Derivatives In Comb With Analgesics,A03DB
+CALAMINE,Calamine,Dermatologicals,D,Emollients And Protectives,D02,Emollients And Protectives,D02A,Zinc Products,D02AB
+CALCIUM,Calcium,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Calcium,A12A,Calcium,A12AA
+CALCIUM ACETATE,Calcium Acetate,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Calcium,A12A,Calcium,A12AA
+CALCIUM CARBONATE,Calcium Carbonate,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Antacids,A02A,Calcium Compounds,A02AC
+CALCIUM D3,Calcium D3,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Calcium,A12A,"Calcium, Combinations With Other Drugs",A12AX
+CALCIUM FOLINATE,Calcium Folinate,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Vitamin B12 And Folic Acid,B03B,Folic Acid And Derivatives,B03BB
+CALCIUM GLUCONATE,Calcium Gluconate,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Calcium,A12A,Calcium,A12AA
+CALCIUM LEVOFOLINATE,Calcium Levofolinate,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Vitamin B12 And Folic Acid,B03B,Folic Acid And Derivatives,B03BB
+CANDESARTAN,Candesartan,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Angiotensin Ii Antagonists, Plain",C09C,"Angiotensin Ii Antagonists, Plain",C09CA
+CAPECITABINE,Capecitabine,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Antimetabolites,L01B,Pyrimidine Analogues,L01BC
+CAPIVEN,Capiven,Cardiovascular System,C,Vasoprotectives,C05,Capillary Stabilizing Agents,C05C,Bioflavonoids,C05CA
+CAPTOPRIL,Captopril,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Plain",C09A,"Ace Inhibitors, Plain",C09AA
+CARBAMAZEPINE,Carbamazepine,Nervous System,N,Antiepileptics,N03,Antiepileptics,N03A,Carboxamide Derivatives,N03AF
+CARISOPRODOL,Carisoprodol,Musculo-Skeletal System,M,Muscle Relaxants,M03,"Muscle Relaxants, Centrally Acting Agents",M03B,Carbamic Acid Esters,M03BA
+CARTEOLOL,Carteolol,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Non-Selective",C07AA
+CARVEDILOL,Carvedilol,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,Alpha And Beta Blocking Agents,C07AG
+CEFALEXIN,Cefalexin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,First-Generation Cephalosporins,J01DB
+CEFAZOLIN,Cefazolin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,First-Generation Cephalosporins,J01DB
+CEFAZOLIN SODIUM,Cefazolin Sodium,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,First-Generation Cephalosporins,J01DB
+CEFDINIR,Cefdinir,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Third-Generation Cephalosporins,J01DD
+CEFOTAXIME,Cefotaxime,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Third-Generation Cephalosporins,J01DD
+CEFOTAXIME SODIUM,Cefotaxime Sodium,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Third-Generation Cephalosporins,J01DD
+CEFOXITIN SODIUM,Cefoxitin Sodium,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Second-Generation Cephalosporins,J01DC
+CEFTAZIDIME,Ceftazidime,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Third-Generation Cephalosporins,J01DD
+CEFTRIAXONE,Ceftriaxone,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Third-Generation Cephalosporins,J01DD
+CEFTRIAXONE SODIUM,Ceftriaxone Sodium,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Third-Generation Cephalosporins,J01DD
+CEFUROXIME AXETIL,Cefuroxime Axetil,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Second-Generation Cephalosporins,J01DC
+CELECOXIB,Celecoxib,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Other Antineoplastic Agents,L01X,Other Antineoplastic Agents,L01XX
+CERNEVIT,Cernevit,Alimentary Tract And Metabolism,A,Vitamins,A11,"Multivitamins, Plain",A11B,"Multivitamins, Plain",A11BA
+CETIRIZINE HYDROCHLORIDE,Cetirizine Hydrochloride,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Piperazine Derivatives,R06AE
+CHLORDIAZEPOXIDE HYDROCHLORIDE,Chlordiazepoxide Hydrochloride,Nervous System,N,Psycholeptics,N05,Anxiolytics,N05B,Benzodiazepine Derivatives,N05BA
+CHLOROPYRAMINE,Chloropyramine,Dermatologicals,D,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04A,Antihistamines For Topical Use,D04AA
+CHLOROPYRAMINE HYDROCHLORIDE,Chloropyramine Hydrochloride,Dermatologicals,D,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04A,Antihistamines For Topical Use,D04AA
+CHLORPHENAMINE,Chlorphenamine,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Substituted Alkylamines,R06AB
+CHLORPHENAMINE MALEATE,Chlorphenamine Maleate,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Substituted Alkylamines,R06AB
+CHLORPROMAZINE,Chlorpromazine,Nervous System,N,Psycholeptics,N05,Antipsychotics,N05A,Phenothiazines With Aliphatic Side-Chain,N05AA
+CHLORPROMAZINE HYDROCHLORIDE,Chlorpromazine Hydrochloride,Nervous System,N,Psycholeptics,N05,Antipsychotics,N05A,Phenothiazines With Aliphatic Side-Chain,N05AA
+CHLORTALIDONE,Chlortalidone,Cardiovascular System,C,Diuretics,C03,"Low-Ceiling Diuretics, Excl. Thiazides",C03B,"Sulfonamides, Plain",C03BA
+CHONDROITIN,Chondroitin,Genito Urinary System And Sex Hormones,G,Urologicals,G04,"Other Urologicals, Incl. Antispasmodics",G04B,Other Urologicals,G04BX
+CHONDROITIN SULFATE SODIUM,Chondroitin Sulfate Sodium,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,"Other Antiinfl./Antirheumatic Agents, Non-Steroids",M01AX
+CIBADREX,Cibadrex,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Combinations",C09B,Ace Inhibitors And Diuretics,C09BA
+CINNARIZINE,Cinnarizine,Nervous System,N,Other Nervous System Drugs,N07,Antivertigo Preparations,N07C,Antivertigo Preparations,N07CA
+CIPROFLOXACIN,Ciprofloxacin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Quinolone Antibacterials,J01M,Fluoroquinolones,J01MA
+CIPROFLOXACIN LACTATE,Ciprofloxacin Lactate,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Quinolone Antibacterials,J01M,Fluoroquinolones,J01MA
+CISATRACURIUM BESILATE,Cisatracurium Besilate,Musculo-Skeletal System,M,Muscle Relaxants,M03,"Muscle Relaxants, Peripherally Acting Agents",M03A,Other Quaternary Ammonium Compounds,M03AC
+CISPLATIN,Cisplatin,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Other Antineoplastic Agents,L01X,Platinum Compounds,L01XA
+CITALOPRAM,Citalopram,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Selective Serotonin Reuptake Inhibitors,N06AB
+CITALOPRAM HYDROBROMIDE,Citalopram Hydrobromide,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Selective Serotonin Reuptake Inhibitors,N06AB
+CLEMASTINE FUMARATE,Clemastine Fumarate,Dermatologicals,D,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04A,Antihistamines For Topical Use,D04AA
+CLINDAMYCIN,Clindamycin,Dermatologicals,D,Anti-Acne Preparations,D10,Anti-Acne Preparations For Topical Use,D10A,Antiinfectives For Treatment Of Acne,D10AF
+CLINOMEL,Clinomel,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions For Parenteral Nutrition,B05BA
+CLOBETASOL PROPIONATE,Clobetasol Propionate,Dermatologicals,D,"Corticosteroids, Dermatological Preparations",D07,"Corticosteroids, Plain",D07A,"Corticosteroids, Very Potent (Group Iv)",D07AD
+CLOFIBRATE,Clofibrate,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Fibrates,C10AB
+CLONAZEPAM,Clonazepam,Nervous System,N,Antiepileptics,N03,Antiepileptics,N03A,Benzodiazepine Derivatives,N03AE
+CLONIDINE,Clonidine,Cardiovascular System,C,Antihypertensives,C02,"Antiadrenergic Agents, Centrally Acting",C02A,Imidazoline Receptor Agonists,C02AC
+CLONIDINE HYDROCHLORIDE,Clonidine Hydrochloride,Cardiovascular System,C,Antihypertensives,C02,"Antiadrenergic Agents, Centrally Acting",C02A,Imidazoline Receptor Agonists,C02AC
+CLOPIDOGREL,Clopidogrel,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Platelet Aggregation Inhibitors Excl. Heparin,B01AC
+CLORAZEPATE DIPOTASSIUM,Clorazepate Dipotassium,Nervous System,N,Psycholeptics,N05,Anxiolytics,N05B,Benzodiazepine Derivatives,N05BA
+CO-TYLENOL,Co-Tylenol,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Anilides,N02BE
+COD-LIVER OIL,Cod-Liver Oil,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vitamin A And D, Incl. Combinations Of The Two",A11C,Vitamin A And D In Combination,A11CB
+CODEINE,Codeine,Respiratory System,R,Cough And Cold Preparations,R05,Cough Suppressants Excl. Comb. With Expectorants,R05D,Opium Alkaloids And Derivatives,R05DA
+CODEINE PHOSPHATE,Codeine Phosphate,Respiratory System,R,Cough And Cold Preparations,R05,Cough Suppressants Excl. Comb. With Expectorants,R05D,Opium Alkaloids And Derivatives,R05DA
+COLECALCIFEROL,Colecalciferol,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vitamin A And D, Incl. Combinations Of The Two",A11C,Vitamin D And Analogues,A11CC
+COLONY STIMULATING FACTORS,Colony Stimulating Factors,Antineoplastic And Immunomodulating Agents,L,Immunostimulants,L03,Immunostimulants,L03A,Colony Stimulating Factors,L03AA
+COMBICIN,Combicin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,Penicillins With Extended Spectrum,J01CA
+COMBIVENT,Combivent,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Adrenergics, Inhalants",R03A,Adrenergics And Oth.Drugs For Obstruct.Airway Dis.,R03AK
+CORDALIN,Cordalin,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,Oth.Systemic Drugs For Obstructive Airway Diseases,R03D,Xanthines,R03DA
+CORVALOL,Corvalol,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,"Barbiturates, Combinations",N05CB
+COSOPT,Cosopt,Sensory Organs,S,Ophthalmologicals,S01,Antiglaucoma Preparations And Miotics,S01E,Beta Blocking Agents,S01ED
+CRONOFERRIL,Cronoferril,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Iron Preparations,B03A,Iron In Other Combinations,B03AE
+CYPROHEPTADINE,Cyproheptadine,Alimentary Tract And Metabolism,A,Appetite Stimulants,A15,,,cyproheptadine ,R06AX02
+CYPROHEPTADINE HYDROCHLORIDE,Cyproheptadine Hydrochloride,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Other Antihistamines For Systemic Use,R06AX
+CYPROHEPTADINE PYRIDOXALPHOSPHATE,Cyproheptadine Pyridoxalphosphate,Alimentary Tract And Metabolism,A,Appetite Stimulants,A15,,,Other Antihistamines For Systemic Use,R06AX
+DALTEPARIN SODIUM,Dalteparin Sodium,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Heparin Group,B01AB
+DARBEPOETIN ALFA,Darbepoetin Alfa,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Other Antianemic Preparations,B03X,Other Antianemic Preparations,B03XA
+DARIFENACIN,Darifenacin,Genito Urinary System And Sex Hormones,G,Urologicals,G04,"Other Urologicals, Incl. Antispasmodics",G04B,Urinary Antispasmodics,G04BD
+DEANXIT,Deanxit,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Non-Selective Monoamine Reuptake Inhibitors,N06AA
+DESLORATADINE,Desloratadine,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Other Antihistamines For Systemic Use,R06AX
+DEXAMETHASONE,Dexamethasone,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Corticosteroids For Local Oral Treatment,A01AC
+DEXAMETHASONE SODIUM PHOSPHATE,Dexamethasone Sodium Phosphate,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Corticosteroids For Local Oral Treatment,A01AC
+DEXCHLORPHENIRAMINE MALEATE,Dexchlorpheniramine Maleate,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Substituted Alkylamines,R06AB
+DEXKETOPROFEN TROMETAMOL,Dexketoprofen Trometamol,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,Propionic Acid Derivatives,M01AE
+DEXPANTHENOL,Dexpanthenol,Alimentary Tract And Metabolism,A,Vitamins,A11,Other Plain Vitamin Preparations,A11H,Other Plain Vitamin Preparations,A11HA
+DEXTROMETHORPHAN HYDROBROMIDE,Dextromethorphan Hydrobromide,Respiratory System,R,Cough And Cold Preparations,R05,Cough Suppressants Excl. Comb. With Expectorants,R05D,Opium Alkaloids And Derivatives,R05DA
+DEXTROPROPOXYPHENE,Dextropropoxyphene,Nervous System,N,Analgesics,N02,Opioids,N02A,Diphenylpropylamine Derivatives,N02AC
+DEXTROPROPOXYPHENE HYDROCHLORIDE,Dextropropoxyphene Hydrochloride,Nervous System,N,Analgesics,N02,Opioids,N02A,Diphenylpropylamine Derivatives,N02AC
+DIAREN,Diaren,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinfectives,A07A,Other Intestinal Antiinfectives,A07AX
+DIAZEPAM,Diazepam,Nervous System,N,Psycholeptics,N05,Anxiolytics,N05B,Benzodiazepine Derivatives,N05BA
+DICHLOROACETIC ACID,Dichloroacetic Acid,Dermatologicals,D,Other Dermatological Preparations,D11,Other Dermatological Preparations,D11A,Wart And Anti-Corn Preparations,D11AF
+DICLOFENAC,Diclofenac,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Other Agents For Local Oral Treatment,A01AD
+DICLOFENAC POTASSIUM,Diclofenac Potassium,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,Acetic Acid Derivatives And Related Substances,M01AB
+DICLOFENAC SODIUM,Diclofenac Sodium,Dermatologicals,D,Other Dermatological Preparations,D11,Other Dermatological Preparations,D11A,Other Dermatologicals,D11AX
+DICYCLOVERINE HYDROCHLORIDE,Dicycloverine Hydrochloride,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,"Synt Anticholin,Esters With Tertiary Amino Group",A03AA
+DIGOXIN,Digoxin,Cardiovascular System,C,Cardiac Therapy,C01,Cardiac Glycosides,C01A,Digitalis Glycosides,C01AA
+DIHYDRALAZINE SULFATE,Dihydralazine Sulfate,Cardiovascular System,C,Antihypertensives,C02,"Arteriolar Smooth Muscle, Agents Acting On",C02D,Hydrazinophthalazine Derivatives,C02DB
+DIHYDROCODEINE,Dihydrocodeine,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+DIHYDROCODEINE BITARTRATE,Dihydrocodeine Bitartrate,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+DILTIAZEM,Diltiazem,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Direct Cardiac Eff,C08D,Benzothiazepine Derivatives,C08DB
+DILTIAZEM HYDROCHLORIDE,Diltiazem Hydrochloride,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Direct Cardiac Eff,C08D,Benzothiazepine Derivatives,C08DB
+DIMENHYDRINATE,Dimenhydrinate,Nervous System,N,Other Nervous System Drugs,N07,Antivertigo Preparations,N07C,Antivertigo Preparations,N07CA
+DIMETICONE,Dimeticone,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,Other Drugs For Functional Bowel Disorders,A03AX
+DIOSMIN,Diosmin,Cardiovascular System,C,Vasoprotectives,C05,Capillary Stabilizing Agents,C05C,Bioflavonoids,C05CA
+DIPHENHYDRAMINE,Diphenhydramine,Dermatologicals,D,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04A,Antihistamines For Topical Use,D04AA
+DIPHENHYDRAMINE HYDROCHLORIDE,Diphenhydramine Hydrochloride,Dermatologicals,D,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04A,Antihistamines For Topical Use,D04AA
+DIPHENOXYLATE HYDROCHLORIDE,Diphenoxylate Hydrochloride,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Antipropulsives,A07D,Antipropulsives,A07DA
+DIPROPHYLLINE,Diprophylline,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,Oth.Systemic Drugs For Obstructive Airway Diseases,R03D,Xanthines,R03DA
+DIPYRIDAMOLE,Dipyridamole,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Platelet Aggregation Inhibitors Excl. Heparin,B01AC
+DISTIGMINE BROMIDE,Distigmine Bromide,Nervous System,N,Other Nervous System Drugs,N07,Parasympathomimetics,N07A,Anticholinesterases,N07AA
+DIURETICS,Diuretics,Cardiovascular System,C,Diuretics,C03,,,DIURETICS,C03
+DOCETAXEL,Docetaxel,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Plant Alkaloids And Other Natural Products,L01C,Taxanes,L01CD
+DOCUSATE CALCIUM,Docusate Calcium,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,"Softeners, Emollients",A06AA
+DOCUSATE SODIUM,Docusate Sodium,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,"Softeners, Emollients",A06AA
+DOLASETRON MESILATE,Dolasetron Mesilate,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Serotonin (5Ht3) Antagonists,A04AA
+DOLVIRAN NAPA,Dolviran Napa,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+DOMPERIDONE,Domperidone,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Propulsives,A03F,Propulsives,A03FA
+DOXAZOSIN,Doxazosin,Cardiovascular System,C,Antihypertensives,C02,"Antiadrenergic Agents, Peripherally Acting",C02C,Alpha-Adrenoreceptor Antagonists,C02CA
+DOXAZOSIN MESILATE,Doxazosin Mesilate,Cardiovascular System,C,Antihypertensives,C02,"Antiadrenergic Agents, Peripherally Acting",C02C,Alpha-Adrenoreceptor Antagonists,C02CA
+DOXEPIN,Doxepin,Dermatologicals,D,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04A,Antihistamines For Topical Use,D04AA
+DOXYCYCLINE,Doxycycline,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Antiinfect. And Antisept. For Local Oral Treatment,A01AB
+DRONABINOL,Dronabinol,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Other Antiemetics,A04AD
+DROTAVERINE,Drotaverine,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,Papaverine And Derivatives,A03AD
+DROTAVERINE HYDROCHLORIDE,Drotaverine Hydrochloride,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,Papaverine And Derivatives,A03AD
+DULOXETINE HYDROCHLORIDE,Duloxetine Hydrochloride,Genito Urinary System And Sex Hormones,G,Urologicals,G04,"Other Urologicals, Incl. Antispasmodics",G04B,Other Urologicals,G04BX
+DUOVENT,Duovent,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Adrenergics, Inhalants",R03A,Adrenergics And Oth.Drugs For Obstruct.Airway Dis.,R03AK
+DUTASTERIDE,Dutasteride,Genito Urinary System And Sex Hormones,G,Urologicals,G04,Drugs Used In Benign Prostatic Hypertrophy,G04C,Testosterone-5-Alpha Reductase Inhibitors,G04CB
+DYAZIDE,Dyazide,Cardiovascular System,C,Diuretics,C03,Diuretics And Potassium-Sparing Agents In Comb,C03E,Low-Ceiling Diuretics And Potassium-Sparing Agents,C03EA
+DYNAMAG,Dynamag,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Other Mineral Supplements,A12C,Magnesium,A12CC
+EDUCTYL,Eductyl,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+ELECTROLYTE SOLUTIONS,Electrolyte Solutions,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solution Additives,B05X,Electrolyte Solutions,B05XA
+EMLA,Emla,Dermatologicals,D,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04,"Antipruritics,Incl Antihist,Anesthet,Etc.",D04A,Anesthetics For Topical Use,D04AB
+ENALAPRIL,Enalapril,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Plain",C09A,"Ace Inhibitors, Plain",C09AA
+ENALAPRIL MALEATE,Enalapril Maleate,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Plain",C09A,"Ace Inhibitors, Plain",C09AA
+ENEMAS,Enemas,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Enemas,A06AG
+ENOXAPARIN,Enoxaparin,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Heparin Group,B01AB
+ENOXAPARIN SODIUM,Enoxaparin Sodium,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Heparin Group,B01AB
+ENSURE,Ensure,Various,V,General Nutrients,V06,,,,V06
+EPINEPHRINE BITARTRATE,Epinephrine Bitartrate,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Other Agents For Local Oral Treatment,A01AD
+EPIRUBICIN,Epirubicin,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Cytotoxic Antibiotics And Related Substances,L01D,Anthracyclines And Related Substances,L01DB
+EPOETIN ALFA,Epoetin Alfa,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Other Antianemic Preparations,B03X,Other Antianemic Preparations,B03XA
+EPOETIN BETA,Epoetin Beta,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Other Antianemic Preparations,B03X,Other Antianemic Preparations,B03XA
+ERGOCALCIFEROL,Ergocalciferol,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vitamin A And D, Incl. Combinations Of The Two",A11C,Vitamin D And Analogues,A11CC
+ERLOTINIB,Erlotinib,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Other Antineoplastic Agents,L01X,Protein Kinase Inhibitors,L01XE
+ERYTHROMYCIN,Erythromycin,Dermatologicals,D,Antibiotics And Chemother. For Dermatological Use,D06,Antibiotics For Topical Use,D06A,Other Antibiotics For Topical Use,D06AX
+ERYTHROPOIETIN,Erythropoietin,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Other Antianemic Preparations,B03X,Other Antianemic Preparations,B03XA
+ESCITALOPRAM,Escitalopram,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Selective Serotonin Reuptake Inhibitors,N06AB
+ESCITALOPRAM OXALATE,Escitalopram Oxalate,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Selective Serotonin Reuptake Inhibitors,N06AB
+ESOMEPRAZOLE,Esomeprazole,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Proton Pump Inhibitors,A02BC
+ESOMEPRAZOLE MAGNESIUM,Esomeprazole Magnesium,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Proton Pump Inhibitors,A02BC
+ESSENTIALE,Essentiale,Alimentary Tract And Metabolism,A,Vitamins,A11,"Other Vitamin Products, Combinations",A11J,Combinations Of Vitamins,A11JA
+ESTAZOLAM,Estazolam,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Derivatives,N05CD
+ESTRADIOL,Estradiol,Dermatologicals,D,Other Dermatological Preparations,D11,Other Dermatological Preparations,D11A,Other Dermatologicals,D11AX
+ESTROGENS CONJUGATED,Estrogens Conjugated,Genito Urinary System And Sex Hormones,G,Sex Hormones And Modulators Of The Genital System,G03,Estrogens,G03C,"Natural And Semisynthetic Estrogens, Plain",G03CA
+ESZOPICLONE,Eszopiclone,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Related Drugs,N05CF
+ETAMSILATE,Etamsilate,Blood And Blood Forming Organs,B,Antihemorrhagics,B02,Vitamin K And Other Hemostatics,B02B,Other Systemic Hemostatics,B02BX
+ETILEFRINE HYDROCHLORIDE,Etilefrine Hydrochloride,Cardiovascular System,C,Cardiac Therapy,C01,Cardiac Stimulants Excl. Cardiac Glycosides,C01C,Adrenergic And Dopaminergic Agents,C01CA
+ETOMIDATE,Etomidate,Nervous System,N,Anesthetics,N01,"Anesthetics, General",N01A,Other General Anesthetics,N01AX
+ETORICOXIB,Etoricoxib,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,Coxibs,M01AH
+EXTENDRYL,Extendryl,Respiratory System,R,Nasal Preparations,R01,Nasal Decongestants For Systemic Use,R01B,Sympathomimetics,R01BA
+FAKTU,Faktu,Cardiovascular System,C,Vasoprotectives,C05,Ag.For Treatm.Of Hemorrh.And Anal Fiss.For Top.Use,C05A,Local Anesthetics,C05AD
+FAMOTIDINE,Famotidine,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,H2-Receptor Antagonists,A02BA
+FAT EMULSIONS,Fat Emulsions,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions For Parenteral Nutrition,B05BA
+FELODIPINE,Felodipine,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Mainly Vasc. Eff.,C08C,Dihydropyridine Derivatives,C08CA
+FEMODENE,Femodene,Genito Urinary System And Sex Hormones,G,Sex Hormones And Modulators Of The Genital System,G03,Hormonal Contraceptives For Systemic Use,G03A,"Progestogens And Estrogens, Fixed Combinations",G03AA
+FENOFIBRATE,Fenofibrate,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Fibrates,C10AB
+FENTANYL,Fentanyl,Nervous System,N,Anesthetics,N01,"Anesthetics, General",N01A,Opioid Anesthetics,N01AH
+FENTANYL CITRATE,Fentanyl Citrate,Nervous System,N,Anesthetics,N01,"Anesthetics, General",N01A,Opioid Anesthetics,N01AH
+FERRIC SODIUM GLUCONATE COMPLEX,Ferric Sodium Gluconate Complex,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Iron Preparations,B03A,"Iron Trivalent, Parenteral Preparations",B03AC
+FERRO-FOLGAMMA,Ferro-Folgamma,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Iron Preparations,B03A,Iron In Other Combinations,B03AE
+FERROUS SULFATE,Ferrous Sulfate,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Iron Preparations,B03A,"Iron Bivalent, Oral Preparations",B03AA
+FERROUS SULFATE EXSICCATED,Ferrous Sulfate Exsiccated,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Iron Preparations,B03A,"Iron Bivalent, Oral Preparations",B03AA
+FEXOFENADINE HYDROCHLORIDE,Fexofenadine Hydrochloride,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Other Antihistamines For Systemic Use,R06AX
+FILGRASTIM,Filgrastim,Antineoplastic And Immunomodulating Agents,L,Immunostimulants,L03,Immunostimulants,L03A,Colony Stimulating Factors,L03AA
+FINASTERIDE,Finasteride,Dermatologicals,D,Other Dermatological Preparations,D11,Other Dermatological Preparations,D11A,Other Dermatologicals,D11AX
+FISH OIL,Fish Oil,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Other Lipid Modifying Agents,C10AX
+FLEBOBAG RING LACT,Flebobag Ring Lact,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions Affecting The Electrolyte Balance,B05BB
+FLUCONAZOLE,Fluconazole,Dermatologicals,D,Antifungals For Dermatological Use,D01,Antifungals For Topical Use,D01A,Imidazole And Triazole Derivatives,D01AC
+FLUNISOLIDE,Flunisolide,Respiratory System,R,Nasal Preparations,R01,Decongestants And Other Nasal Prep.For Topical Use,R01A,Corticosteroids,R01AD
+FLUOCINOLONE ACETONIDE,Fluocinolone Acetonide,Cardiovascular System,C,Vasoprotectives,C05,Ag.For Treatm.Of Hemorrh.And Anal Fiss.For Top.Use,C05A,Corticosteroids,C05AA
+FLUOROURACIL,Fluorouracil,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Antimetabolites,L01B,Pyrimidine Analogues,L01BC
+FLUOROURACIL SODIUM,Fluorouracil Sodium,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Antimetabolites,L01B,Pyrimidine Analogues,L01BC
+FLUOXETINE,Fluoxetine,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Selective Serotonin Reuptake Inhibitors,N06AB
+FLUOXETINE HYDROCHLORIDE,Fluoxetine Hydrochloride,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Selective Serotonin Reuptake Inhibitors,N06AB
+FLUPIRTINE MALEATE,Flupirtine Maleate,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Other Analgesics And Antipyretics,N02BG
+FLUTICASONE PROPIONATE,Fluticasone Propionate,Dermatologicals,D,"Corticosteroids, Dermatological Preparations",D07,"Corticosteroids, Plain",D07A,"Corticosteroids, Potent (Group Iii)",D07AC
+FOLIC ACID,Folic Acid,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Vitamin B12 And Folic Acid,B03B,Folic Acid And Derivatives,B03BB
+FOLINIC ACID,Folinic Acid,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Vitamin B12 And Folic Acid,B03B,Folic Acid And Derivatives,B03BB
+FONDAPARINUX SODIUM,Fondaparinux Sodium,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Other Antithrombotic Agents,B01AX
+FORMOTEROL,Formoterol,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Adrenergics, Inhalants",R03A,Selective Beta-2-Adrenoreceptor Agonists,R03AC
+FORTRANS,Fortrans,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+FOSFOMYCIN TROMETAMOL,Fosfomycin Trometamol,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Antibacterials,J01X,Other Antibacterials,J01XX
+FUROSEMIDE,Furosemide,Cardiovascular System,C,Diuretics,C03,High-Ceiling Diuretics,C03C,"Sulfonamides, Plain",C03CA
+GABAPENTIN,Gabapentin,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Other Analgesics And Antipyretics,N02BG
+GALENIC /BISOPROLOL/HYDROCHLOROTHIAZIDE/,Galenic /Bisoprolol/Hydrochlorothiazide/,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents And Thiazides,C07B,"Beta Blocking Agents, Selective, And Thiazides",C07BB
+GALENIC /POTASSIUM CHLORIDE/GLUCOSE/,Galenic /Potassium Chloride/Glucose/,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions Affecting The Electrolyte Balance,B05BB
+GAVISCON,Gaviscon,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Other Drugs For Peptic Ulcer And Gord,A02BX
+GELOPLASMA,Geloplasma,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions For Parenteral Nutrition,B05BA
+GEMCITABINE,Gemcitabine,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Antimetabolites,L01B,Pyrimidine Analogues,L01BC
+GEMCITABINE HYDROCHLORIDE,Gemcitabine Hydrochloride,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Antimetabolites,L01B,Pyrimidine Analogues,L01BC
+GEMFIBROZIL,Gemfibrozil,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Fibrates,C10AB
+GENERAL NUTRIENTS,General Nutrients,Various,V,General Nutrients,V06,,,,V06
+GENTAMICIN,Gentamicin,Dermatologicals,D,Antibiotics And Chemother. For Dermatological Use,D06,Antibiotics For Topical Use,D06A,Other Antibiotics For Topical Use,D06AX
+GERITOL,Geritol,Alimentary Tract And Metabolism,A,Vitamins,A11,"Multivitamins, Plain",A11B,"Multivitamins, Plain",A11BA
+GINKGO BILOBA,Ginkgo Biloba,Various,V,Unspecified Herbal,V90,,,,V90
+GIVALEX,Givalex,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Antiinfect. And Antisept. For Local Oral Treatment,A01AB
+GLIBENCLAMIDE,Glibenclamide,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,"Sulfonamides, Urea Derivatives",A10BB
+GLIBOMET,Glibomet,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,Combinations Of Oral Blood Glucose Lowering Drugs,A10BD
+GLICLAZIDE,Gliclazide,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,"Sulfonamides, Urea Derivatives",A10BB
+GLIMEPIRIDE,Glimepiride,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,"Sulfonamides, Urea Derivatives",A10BB
+GLIPIZIDE,Glipizide,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,"Sulfonamides, Urea Derivatives",A10BB
+GLIQUIDONE,Gliquidone,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,"Sulfonamides, Urea Derivatives",A10BB
+GLUCAGON,Glucagon,"Systemic Hormonal Prep.,Excl.Sex Horm.And Insulin",H,Pancreatic Hormones,H04,Glycogenolytic Hormones,H04A,Glycogenolytic Hormones,H04AA
+GLUCOSAMINE,Glucosamine,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,"Other Antiinfl./Antirheumatic Agents, Non-Steroids",M01AX
+GLUCOSE,Glucose,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Other Drugs Used In Diabetes,A10X,,A10X
+GLUCOSE INJECTION,Glucose Injection,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions For Parenteral Nutrition,B05BA
+GLUTAMIC ACID,Glutamic Acid,Alimentary Tract And Metabolism,A,"Digestives, Incl. Enzymes",A09,"Digestives, Incl. Enzymes",A09A,Acid Preparations,A09AB
+GLUTATHIONE,Glutathione,Various,V,All Other Therapeutic Products,V03,All Other Therapeutic Products,V03A,Antidotes,V03AB
+GLUTATHIONE SODIUM,Glutathione Sodium,Various,V,All Other Therapeutic Products,V03,All Other Therapeutic Products,V03A,Antidotes,V03AB
+GLYCEROL,Glycerol,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Enemas,A06AG
+GLYCERYL TRINITRATE,Glyceryl Trinitrate,Cardiovascular System,C,Cardiac Therapy,C01,Vasodilators Used In Cardiac Diseases,C01D,Organic Nitrates,C01DA
+GLYCINE MAX SEED OIL,Glycine Max Seed Oil,Various,V,Unspecified Herbal,V90,,,,V90
+GRANISETRON,Granisetron,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Serotonin (5Ht3) Antagonists,A04AA
+GRANISETRON HYDROCHLORIDE,Granisetron Hydrochloride,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Serotonin (5Ht3) Antagonists,A04AA
+GUAIFENESIN,Guaifenesin,Respiratory System,R,Cough And Cold Preparations,R05,"Expectorants,Excl Combinations With Cough Suppr.",R05C,Expectorants,R05CA
+HALOPERIDOL,Haloperidol,Nervous System,N,Psycholeptics,N05,Antipsychotics,N05A,Butyrophenone Derivatives,N05AD
+HELICIDINE,Helicidine,Respiratory System,R,Cough And Cold Preparations,R05,"Expectorants,Excl Combinations With Cough Suppr.",R05C,,R05C
+HEPA MERZ,Hepa Merz,Alimentary Tract And Metabolism,A,Bile And Liver Therapy,A05,"Liver Therapy, Lipotropics",A05B,Liver Therapy,A05BA
+HEPARIN,Heparin,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Heparin Group,B01AB
+HEPARIN GROUP,Heparin Group,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Heparin Group,B01AB
+HEPARIN SODIUM,Heparin Sodium,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Heparin Group,B01AB
+"HEPARIN-FRACTION, SODIUM SALT","Heparin-Fraction, Sodium Salt",Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Heparin Group,B01AB
+HERBAL PREPARATION,Herbal Preparation,Various,V,Unspecified Herbal,V90,,,,V90
+HETASTARCH,Hetastarch,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,Blood And Related Products,B05A,Blood Substitutes And Plasma Protein Fractions,B05AA
+HUMAN MIXTARD,Human Mixtard,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,"Insulin/Anal.For Inj,Intem.-Act.,Comb.W/Fast Act.",A10AD
+HYDRALAZINE,Hydralazine,Cardiovascular System,C,Antihypertensives,C02,"Arteriolar Smooth Muscle, Agents Acting On",C02D,Hydrazinophthalazine Derivatives,C02DB
+HYDRAZINE SULFATE,Hydrazine Sulfate,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Other Antineoplastic Agents,L01X,Other Antineoplastic Agents,L01XX
+HYDROCHLOROTHIAZIDE,Hydrochlorothiazide,Cardiovascular System,C,Diuretics,C03,"Low-Ceiling Diuretics, Thiazides",C03A,"Thiazides, Plain",C03AA
+HYDROCHLOROTHIAZIDE W/LOSARTAN,Hydrochlorothiazide W/Losartan,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Angiotensin Ii Antagonists, Combinations",C09D,Angiotensin Ii Antagonists And Diuretics,C09DA
+HYDROCODONE,Hydrocodone,Respiratory System,R,Cough And Cold Preparations,R05,Cough Suppressants Excl. Comb. With Expectorants,R05D,Opium Alkaloids And Derivatives,R05DA
+HYDROCODONE BITARTRATE,Hydrocodone Bitartrate,Respiratory System,R,Cough And Cold Preparations,R05,Cough Suppressants Excl. Comb. With Expectorants,R05D,Opium Alkaloids And Derivatives,R05DA
+HYDROCORTISONE HYDROGEN SUCCINATE,Hydrocortisone Hydrogen Succinate,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinflammatory Agents,A07E,Corticosteroids Acting Locally,A07EA
+HYDROCORTISONE VALERATE,Hydrocortisone Valerate,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinflammatory Agents,A07E,Corticosteroids Acting Locally,A07EA
+HYDROMORPHONE,Hydromorphone,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+HYDROMORPHONE HYDROCHLORIDE,Hydromorphone Hydrochloride,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+HYDROXYZINE HYDROCHLORIDE,Hydroxyzine Hydrochloride,Nervous System,N,Psycholeptics,N05,Anxiolytics,N05B,Diphenylmethane Derivatives,N05BB
+HYOSCINE BUTYLBROMIDE,Hyoscine Butylbromide,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,"Belladonna And Derivatives, Plain",A03B,"Belladonna Alkaloids Semisynt,Quater Ammonium Comp",A03BB
+HYOSCYAMINE,Hyoscyamine,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,"Belladonna And Derivatives, Plain",A03B,"Belladonna Alkaloids, Tertiary Amines",A03BA
+HYOSCYAMINE SULFATE,Hyoscyamine Sulfate,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,"Belladonna And Derivatives, Plain",A03B,"Belladonna Alkaloids, Tertiary Amines",A03BA
+I.V. SOLUTIONS,I.V. Solutions,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,,B05B
+IBANDRONATE SODIUM,Ibandronate Sodium,Musculo-Skeletal System,M,Drugs For Treatment Of Bone Diseases,M05,Drugs Affecting Bone Structure And Mineralization,M05B,Bisphosphonates,M05BA
+IBUPROFEN,Ibuprofen,Cardiovascular System,C,Cardiac Therapy,C01,Other Cardiac Preparations,C01E,Other Cardiac Preparations,C01EB
+IMIPENEM,Imipenem,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Carbapenems,J01DH
+IMIPRAMINE HYDROCHLORIDE,Imipramine Hydrochloride,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Non-Selective Monoamine Reuptake Inhibitors,N06AA
+INDAPAMIDE,Indapamide,Cardiovascular System,C,Diuretics,C03,"Low-Ceiling Diuretics, Excl. Thiazides",C03B,"Sulfonamides, Plain",C03BA
+INDOMETACIN,Indometacin,Cardiovascular System,C,Cardiac Therapy,C01,Other Cardiac Preparations,C01E,Other Cardiac Preparations,C01EB
+INEGY,Inegy,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Combinations",C10B,Hmg Coa Reduct.Inhib.In Comb.With Oth.Lipid Modif.,C10BA
+INFLUENZA VACCINE,Influenza Vaccine,Antiinfectives For Systemic Use,J,Vaccines,J07,Viral Vaccines,J07B,Influenza Vaccines,J07BB
+INFLUENZA VIRUS VACCINE POLYVALENT,Influenza Virus Vaccine Polyvalent,Antiinfectives For Systemic Use,J,Vaccines,J07,Viral Vaccines,J07B,Influenza Vaccines,J07BB
+INOSINE,Inosine,Cardiovascular System,C,Cardiac Therapy,C01,Other Cardiac Preparations,C01E,Other Cardiac Preparations,C01EB
+INSULIN,Insulin,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,,A10A
+INSULIN ASPART,Insulin Aspart,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,"Insulins And Analogues For Injection, Fast-Acting",A10AB
+INSULIN DETEMIR,Insulin Detemir,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,,A10A
+INSULIN GLARGINE,Insulin Glargine,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,"Insulins And Analogues For Injection, Long-Acting",A10AE
+INSULIN HUMAN,Insulin Human,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,"Insulins And Analogues For Injection, Fast-Acting",A10AB
+"INSULIN HUMAN INJECTION, ISOPHANE","Insulin Human Injection, Isophane",Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,"Insulins And Analogues For Injection, Fast-Acting",A10AB
+"INSULIN INJECTION, ISOPHANE","Insulin Injection, Isophane",Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,"Insulins And Anal. For Inj., Interm.-Acting",A10AC
+INSULIN ISOPHANE HUMAN SEMISYNTHETIC,Insulin Isophane Human Semisynthetic,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,"Insulins And Anal. For Inj., Interm.-Acting",A10AC
+INSULIN LISPRO,Insulin Lispro,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,"Insulins And Analogues For Injection, Fast-Acting",A10AB
+INSULIN NOVOMIX,Insulin Novomix,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,"Insulin/Anal.For Inj,Intem.-Act.,Comb.W/Fast Act.",A10AD
+IPRATROPIUM,Ipratropium,Cardiovascular System,C,Cardiac Therapy,C01,"Antiarrhythmics, Class I And Iii",C01B,,C01B
+IPRATROPIUM BROMIDE,Ipratropium Bromide,Cardiovascular System,C,Cardiac Therapy,C01,"Antiarrhythmics, Class I And Iii",C01B,,C01B
+IRBESARTAN,Irbesartan,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Angiotensin Ii Antagonists, Plain",C09C,"Angiotensin Ii Antagonists, Plain",C09CA
+IRINOTECAN,Irinotecan,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Other Antineoplastic Agents,L01X,Other Antineoplastic Agents,L01XX
+IROCOPHAN,Irocophan,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Anilides,N02BE
+IRON,Iron,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Caries Prophylactic Agents,A01AA
+IRON IN OTHER COMBINATIONS,Iron In Other Combinations,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Iron Preparations,B03A,Iron In Other Combinations,B03AE
+IRON PREPARATIONS,Iron Preparations,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Iron Preparations,B03A,,B03A
+ISOLYTE,Isolyte,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions Affecting The Electrolyte Balance,B05BB
+ISOPHANE INSULIN,Isophane Insulin,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,,A10A
+ISOSORBIDE DINITRATE,Isosorbide Dinitrate,Cardiovascular System,C,Cardiac Therapy,C01,Vasodilators Used In Cardiac Diseases,C01D,Organic Nitrates,C01DA
+ISOSORBIDE MONONITRATE,Isosorbide Mononitrate,Cardiovascular System,C,Cardiac Therapy,C01,Vasodilators Used In Cardiac Diseases,C01D,Organic Nitrates,C01DA
+ISOTONIC SOLUTIONS,Isotonic Solutions,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,Peritoneal Dialytics,B05D,Isotonic Solutions,B05DA
+ITOPRIDE HYDROCHLORIDE,Itopride Hydrochloride,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Propulsives,A03F,Propulsives,A03FA
+ITRACONAZOLE,Itraconazole,Antiinfectives For Systemic Use,J,Antimycotics For Systemic Use,J02,Antimycotics For Systemic Use,J02A,Triazole Derivatives,J02AC
+IVABRADINE HYDROCHLORIDE,Ivabradine Hydrochloride,Cardiovascular System,C,Cardiac Therapy,C01,Other Cardiac Preparations,C01E,Other Cardiac Preparations,C01EB
+JANUMET,Janumet,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,Combinations Of Oral Blood Glucose Lowering Drugs,A10BD
+JONOSTERIL,Jonosteril,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions Affecting The Electrolyte Balance,B05BB
+KABIVEN,Kabiven,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions For Parenteral Nutrition,B05BA
+KETAMINE HYDROCHLORIDE,Ketamine Hydrochloride,Nervous System,N,Anesthetics,N01,"Anesthetics, General",N01A,Other General Anesthetics,N01AX
+KETOCONAZOLE,Ketoconazole,Dermatologicals,D,Antifungals For Dermatological Use,D01,Antifungals For Topical Use,D01A,Imidazole And Triazole Derivatives,D01AC
+KETOPROFEN,Ketoprofen,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Other Agents For Local Oral Treatment,A01AD
+KETOROLAC,Ketorolac,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,Acetic Acid Derivatives And Related Substances,M01AB
+KETOROLAC TROMETHAMINE,Ketorolac Tromethamine,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,Acetic Acid Derivatives And Related Substances,M01AB
+LABETALOL,Labetalol,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,Alpha And Beta Blocking Agents,C07AG
+LACTOBACILLUS RHAMNOSUS,Lactobacillus Rhamnosus,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Antidiarrheal Microorganisms,A07F,Antidiarrheal Microorganisms,A07FA
+LACTOSE,Lactose,Various,V,All Other Therapeutic Products,V03,All Other Therapeutic Products,V03A,Other Therapeutic Products,V03AX
+LACTULOSE,Lactulose,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+LANREOTIDE,Lanreotide,"Systemic Hormonal Prep.,Excl.Sex Horm.And Insulin",H,Pituitary And Hypothalamic Hormones And Analogues,H01,Hypothalamic Hormones,H01C,Antigrowth Hormone,H01CB
+LANSOPRAZOLE,Lansoprazole,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Proton Pump Inhibitors,A02BC
+LAROTAXEL,Larotaxel,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Plant Alkaloids And Other Natural Products,L01C,Taxanes,L01CD
+LAXATIVES,Laxatives,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,,A06A
+LAXBENE,Laxbene,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Contact Laxatives,A06AB
+LEKOVIT CA,Lekovit Ca,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Calcium,A12A,"Calcium, Combinations With Other Drugs",A12AX
+LENOGRASTIM,Lenograstim,Antineoplastic And Immunomodulating Agents,L,Immunostimulants,L03,Immunostimulants,L03A,Colony Stimulating Factors,L03AA
+LERCANIDIPINE,Lercanidipine,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Mainly Vasc. Eff.,C08C,Dihydropyridine Derivatives,C08CA
+LERCANIDIPINE HYDROCHLORIDE,Lercanidipine Hydrochloride,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Mainly Vasc. Eff.,C08C,Dihydropyridine Derivatives,C08CA
+LEVOCETIRIZINE DIHYDROCHLORIDE,Levocetirizine Dihydrochloride,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Piperazine Derivatives,R06AE
+LEVOFLOXACIN,Levofloxacin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Quinolone Antibacterials,J01M,Fluoroquinolones,J01MA
+LEVOMEPROMAZINE HYDROCHLORIDE,Levomepromazine Hydrochloride,Nervous System,N,Psycholeptics,N05,Antipsychotics,N05A,Phenothiazines With Aliphatic Side-Chain,N05AA
+LEVOSALBUTAMOL,Levosalbutamol,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Adrenergics, Inhalants",R03A,Selective Beta-2-Adrenoreceptor Agonists,R03AC
+LEVOSULPIRIDE,Levosulpiride,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Propulsives,A03F,Propulsives,A03FA
+LEVOTHYROXINE,Levothyroxine,"Systemic Hormonal Prep.,Excl.Sex Horm.And Insulin",H,Thyroid Therapy,H03,Thyroid Preparations,H03A,Thyroid Hormones,H03AA
+LEVOTHYROXINE SODIUM,Levothyroxine Sodium,"Systemic Hormonal Prep.,Excl.Sex Horm.And Insulin",H,Thyroid Therapy,H03,Thyroid Preparations,H03A,Thyroid Hormones,H03AA
+LIDOCAINE,Lidocaine,Cardiovascular System,C,Cardiac Therapy,C01,"Antiarrhythmics, Class I And Iii",C01B,"Antiarrhythmics, Class Ib",C01BB
+LIDOCAINE HYDROCHLORIDE,Lidocaine Hydrochloride,Cardiovascular System,C,Cardiac Therapy,C01,"Antiarrhythmics, Class I And Iii",C01B,"Antiarrhythmics, Class Ib",C01BB
+LINEZOLID,Linezolid,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Antibacterials,J01X,Other Antibacterials,J01XX
+LIPITAC,Lipitac,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Other Lipid Modifying Agents,C10AX
+LISINOPRIL,Lisinopril,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Plain",C09A,"Ace Inhibitors, Plain",C09AA
+LOPERAMIDE,Loperamide,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Antipropulsives,A07D,Antipropulsives,A07DA
+LOPERAMIDE HYDROCHLORIDE,Loperamide Hydrochloride,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Antipropulsives,A07D,Antipropulsives,A07DA
+LORATADINE,Loratadine,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Other Antihistamines For Systemic Use,R06AX
+LORAZEPAM,Lorazepam,Nervous System,N,Psycholeptics,N05,Anxiolytics,N05B,Benzodiazepine Derivatives,N05BA
+LORMETAZEPAM,Lormetazepam,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Derivatives,N05CD
+LORNOXICAM,Lornoxicam,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,Oxicams,M01AC
+LOSARTAN,Losartan,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Angiotensin Ii Antagonists, Plain",C09C,"Angiotensin Ii Antagonists, Plain",C09CA
+LOSARTAN POTASSIUM,Losartan Potassium,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Angiotensin Ii Antagonists, Plain",C09C,"Angiotensin Ii Antagonists, Plain",C09CA
+LOVASTATIN,Lovastatin,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Hmg Coa Reductase Inhibitors,C10AA
+LYSINE HYDROCHLORIDE,Lysine Hydrochloride,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solution Additives,B05X,Amino Acids,B05XB
+MACROGOL,Macrogol,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+MAG-LAX,Mag-Lax,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,"Softeners, Emollients",A06AA
+MAGALDRATE,Magaldrate,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Antacids,A02A,"Comb And Compl. Of Alumin., Calc. And Magnes. Comp",A02AD
+MAGNESIUM,Magnesium,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Antacids,A02A,Magnesium Compounds,A02AA
+MAGNESIUM CHLORIDE ANHYDROUS,Magnesium Chloride Anhydrous,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Other Mineral Supplements,A12C,Magnesium,A12CC
+MAGNESIUM CITRATE,Magnesium Citrate,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+MAGNESIUM HYDROXIDE,Magnesium Hydroxide,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Antacids,A02A,Magnesium Compounds,A02AA
+MAGNESIUM OXIDE,Magnesium Oxide,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Antacids,A02A,Magnesium Compounds,A02AA
+MAGNESIUM SULFATE,Magnesium Sulfate,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+MANNITOL,Mannitol,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+MAXITROL,Maxitrol,Sensory Organs,S,Ophthalmologicals,S01,Antiinflammatory Agents And Antiinfectives In Comb,S01C,Corticosteroids And Antiinfectives In Combination,S01CA
+MEBEVERINE,Mebeverine,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,"Synt Anticholin,Esters With Tertiary Amino Group",A03AA
+MEBEVERINE HYDROCHLORIDE,Mebeverine Hydrochloride,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,"Synt Anticholin,Esters With Tertiary Amino Group",A03AA
+MEDAZEPAM,Medazepam,Nervous System,N,Psycholeptics,N05,Anxiolytics,N05B,Benzodiazepine Derivatives,N05BA
+MEGESTROL,Megestrol,Alimentary Tract And Metabolism,A,Appetite Stimulants,A15,,,,A15
+MEGESTROL ACETATE,Megestrol Acetate,Alimentary Tract And Metabolism,A,Appetite Stimulants,A15,,,,A15
+MELOXICAM,Meloxicam,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,Oxicams,M01AC
+MENADIONE,Menadione,Blood And Blood Forming Organs,B,Antihemorrhagics,B02,Vitamin K And Other Hemostatics,B02B,Vitamin K,B02BA
+MENTALGINA,Mentalgina,Respiratory System,R,Throat Preparations,R02,Throat Preparations,R02A,Antiseptics,R02AA
+MEROPENEM,Meropenem,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Carbapenems,J01DH
+METAMIZOLE,Metamizole,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Pyrazolones,N02BB
+METAMIZOLE MAGNESIUM,Metamizole Magnesium,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Pyrazolones,N02BB
+METAMIZOLE SODIUM,Metamizole Sodium,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Pyrazolones,N02BB
+METEOSPASMYL,Meteospasmyl,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,Other Drugs For Functional Bowel Disorders,A03AX
+METFORMIN,Metformin,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,Biguanides,A10BA
+METFORMIN HYDROCHLORIDE,Metformin Hydrochloride,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,Biguanides,A10BA
+METHADONE,Methadone,Nervous System,N,Other Nervous System Drugs,N07,Drugs Used In Addictive Disorders,N07B,Drugs Used In Opioid Dependence,N07BC
+METHYLCELLULOSE,Methylcellulose,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Bulk Producers,A06AC
+METHYLPHENIDATE HYDROCHLORIDE,Methylphenidate Hydrochloride,Nervous System,N,Psychoanaleptics,N06,"Psychostim., Agents Used For Adhd And Nootropics",N06B,Centrally Acting Sympathomimetics,N06BA
+METHYLPREDNISOLONE,Methylprednisolone,Dermatologicals,D,"Corticosteroids, Dermatological Preparations",D07,"Corticosteroids, Plain",D07A,"Corticosteroids, Weak (Group I)",D07AA
+METHYLPREDNISOLONE SODIUM SUCCINATE,Methylprednisolone Sodium Succinate,Dermatologicals,D,"Corticosteroids, Dermatological Preparations",D07,"Corticosteroids, Plain",D07A,"Corticosteroids, Weak (Group I)",D07AA
+METHYLSULFONYLMETHANE,Methylsulfonylmethane,Musculo-Skeletal System,M,Topical Products For Joint And Muscular Pain,M02,Topical Products For Joint And Muscular Pain,M02A,"Antiinfl. Prep., Non-Steroids For Topical Use",M02AA
+METOCLOPRAMIDE,Metoclopramide,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Propulsives,A03F,Propulsives,A03FA
+METOCLOPRAMIDE HYDROCHLORIDE,Metoclopramide Hydrochloride,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Propulsives,A03F,Propulsives,A03FA
+METOPIMAZINE,Metopimazine,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Other Antiemetics,A04AD
+METOPROLOL,Metoprolol,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Selective",C07AB
+METOPROLOL SUCCINATE,Metoprolol Succinate,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Selective",C07AB
+METOPROLOL TARTRATE,Metoprolol Tartrate,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Selective",C07AB
+METRONIDAZOLE,Metronidazole,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Antiinfect. And Antisept. For Local Oral Treatment,A01AB
+MEXIDOL,Mexidol,Cardiovascular System,C,Peripheral Vasodilators,C04,Peripheral Vasodilators,C04A,Purine Derivatives,C04AD
+MIANSERIN HYDROCHLORIDE,Mianserin Hydrochloride,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Other Antidepressants,N06AX
+MICROLAX,Microlax,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Enemas,A06AG
+MIDAZOLAM,Midazolam,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Derivatives,N05CD
+MIDAZOLAM HYDROCHLORIDE,Midazolam Hydrochloride,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Derivatives,N05CD
+MINERAL OIL EMULSION,Mineral Oil Emulsion,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Contact Laxatives,A06AB
+MINERALS NOS,Minerals Nos,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,,,,A12
+MIRTAZAPINE,Mirtazapine,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Other Antidepressants,N06AX
+MITOMYCIN,Mitomycin,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Cytotoxic Antibiotics And Related Substances,L01D,Other Cytotoxic Antibiotics,L01DC
+MODILOC,Modiloc,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents And Other Antihypertensives,C07F,Beta Block. Selective And Other Antihypertensives,C07FB
+MODURETIC,Moduretic,Cardiovascular System,C,Diuretics,C03,Diuretics And Potassium-Sparing Agents In Comb,C03E,Low-Ceiling Diuretics And Potassium-Sparing Agents,C03EA
+MOLSIDOMINE,Molsidomine,Cardiovascular System,C,Cardiac Therapy,C01,Vasodilators Used In Cardiac Diseases,C01D,Other Vasodilators Used In Cardiac Diseases,C01DX
+MOMETASONE FUROATE,Mometasone Furoate,Dermatologicals,D,"Corticosteroids, Dermatological Preparations",D07,"Corticosteroids, Plain",D07A,"Corticosteroids, Potent (Group Iii)",D07AC
+MONTELUKAST SODIUM,Montelukast Sodium,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,Oth.Systemic Drugs For Obstructive Airway Diseases,R03D,Leukotriene Receptor Antagonists,R03DC
+MOPADAY,Mopaday,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,Combinations Of Oral Blood Glucose Lowering Drugs,A10BD
+MORPHINE,Morphine,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+MORPHINE HYDROCHLORIDE,Morphine Hydrochloride,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+MORPHINE SULFATE,Morphine Sulfate,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+MOVICOL,Movicol,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+MOXIFLOXACIN,Moxifloxacin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Quinolone Antibacterials,J01M,Fluoroquinolones,J01MA
+MOXIFLOXACIN HYDROCHLORIDE,Moxifloxacin Hydrochloride,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Quinolone Antibacterials,J01M,Fluoroquinolones,J01MA
+MOXONIDINE,Moxonidine,Cardiovascular System,C,Antihypertensives,C02,"Antiadrenergic Agents, Centrally Acting",C02A,Imidazoline Receptor Agonists,C02AC
+MULTIVITAMINS,Multivitamins,Alimentary Tract And Metabolism,A,Vitamins,A11,"Multivitamins, Combinations",A11A,"Multivitamins, Other Combinations",A11AB
+MULTIVITAMINS WITH MINERALS,Multivitamins With Minerals,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vitamin B-Complex, Incl. Combinations",A11E,"Vitamin B-Complex, Other Combinations",A11EX
+"MULTIVITAMINS, COMBINATIONS","Multivitamins, Combinations",Alimentary Tract And Metabolism,A,Vitamins,A11,"Multivitamins, Combinations",A11A,,A11A
+MUPIROCIN CALCIUM,Mupirocin Calcium,Dermatologicals,D,Antibiotics And Chemother. For Dermatological Use,D06,Antibiotics For Topical Use,D06A,Other Antibiotics For Topical Use,D06AX
+MYCOPHENOLATE SODIUM,Mycophenolate Sodium,Antineoplastic And Immunomodulating Agents,L,Immunosuppressants,L04,Immunosuppressants,L04A,Selective Immunosuppressants,L04AA
+NADOLOL,Nadolol,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Non-Selective",C07AA
+NADROPARIN,Nadroparin,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Heparin Group,B01AB
+NADROPARIN CALCIUM,Nadroparin Calcium,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Heparin Group,B01AB
+NAFTIDROFURYL OXALATE,Naftidrofuryl Oxalate,Cardiovascular System,C,Peripheral Vasodilators,C04,Peripheral Vasodilators,C04A,Other Peripheral Vasodilators,C04AX
+NALOXONE,Naloxone,Nervous System,N,Other Nervous System Drugs,N07,Drugs Used In Addictive Disorders,N07B,Drugs Used In Opioid Dependence,N07BC
+NANDROLONE DECANOATE,Nandrolone Decanoate,Alimentary Tract And Metabolism,A,Anabolic Agents For Systemic Use,A14,Anabolic Steroids,A14A,Estren Derivatives,A14AB
+NAPROXEN,Naproxen,Genito Urinary System And Sex Hormones,G,Other Gynecologicals,G02,Other Gynecologicals,G02C,Antiinflammatory Products For Vaginal Administrat.,G02CC
+NAPROXEN SODIUM,Naproxen Sodium,Genito Urinary System And Sex Hormones,G,Other Gynecologicals,G02,Other Gynecologicals,G02C,Antiinflammatory Products For Vaginal Administrat.,G02CC
+NEBIVOLOL HYDROCHLORIDE,Nebivolol Hydrochloride,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Selective",C07AB
+NEFOPAM HYDROCHLORIDE,Nefopam Hydrochloride,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Other Analgesics And Antipyretics,N02BG
+NEMBUDEINE,Nembudeine,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+NEOGENYL,Neogenyl,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Iron Preparations,B03A,Iron In Other Combinations,B03AE
+NEOGOLASEPTINE,Neogolaseptine,Respiratory System,R,Throat Preparations,R02,Throat Preparations,R02A,Antiseptics,R02AA
+NEONUTRIN TS + AG,Neonutrin Ts + Ag,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions For Parenteral Nutrition,B05BA
+NEOSTIGMINE BROMIDE,Neostigmine Bromide,Nervous System,N,Other Nervous System Drugs,N07,Parasympathomimetics,N07A,Anticholinesterases,N07AA
+NEUROBION,Neurobion,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vit B1,Plain And In Comb With Vitamin B6 And B12",A11D,Vit B1 In Comb With Vitamin B6 And/Or Vitamin B12,A11DB
+NICOFURANOSE,Nicofuranose,Cardiovascular System,C,Peripheral Vasodilators,C04,Peripheral Vasodilators,C04A,Nicotinic Acid And Derivatives,C04AC
+NICOTINAM. W/PYRIDOXI. HCL/RIBOFL./THIAM. HCL,Nicotinam. W/Pyridoxi. Hcl/Ribofl./Thiam. Hcl,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vitamin B-Complex, Incl. Combinations",A11E,"Vitamin B-Complex, Plain",A11EA
+NICOTINE,Nicotine,Nervous System,N,Other Nervous System Drugs,N07,Drugs Used In Addictive Disorders,N07B,Drugs Used In Nicotine Dependence,N07BA
+NIFEDIPINE,Nifedipine,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Mainly Vasc. Eff.,C08C,Dihydropyridine Derivatives,C08CA
+NIFLUMIC ACID,Niflumic Acid,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,"Other Antiinfl./Antirheumatic Agents, Non-Steroids",M01AX
+NIFUROXAZIDE,Nifuroxazide,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinfectives,A07A,Other Intestinal Antiinfectives,A07AX
+NIMESULIDE,Nimesulide,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,"Other Antiinfl./Antirheumatic Agents, Non-Steroids",M01AX
+NIMODIPINE,Nimodipine,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Mainly Vasc. Eff.,C08C,Dihydropyridine Derivatives,C08CA
+NISOLDIPINE,Nisoldipine,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Mainly Vasc. Eff.,C08C,Dihydropyridine Derivatives,C08CA
+NITRAZEPAM,Nitrazepam,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Derivatives,N05CD
+NITRENDIPINE,Nitrendipine,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Mainly Vasc. Eff.,C08C,Dihydropyridine Derivatives,C08CA
+NIZATIDINE,Nizatidine,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,H2-Receptor Antagonists,A02BA
+NOREPINEPHRINE BITARTRATE,Norepinephrine Bitartrate,Cardiovascular System,C,Cardiac Therapy,C01,Cardiac Stimulants Excl. Cardiac Glycosides,C01C,Adrenergic And Dopaminergic Agents,C01CA
+NORFLOXACIN,Norfloxacin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Quinolone Antibacterials,J01M,Fluoroquinolones,J01MA
+NORTRIPTYLINE,Nortriptyline,Genito Urinary System And Sex Hormones,G,Urologicals,G04,"Other Urologicals, Incl. Antispasmodics",G04B,Other Urologicals,G04BX
+NOVOMIX,Novomix,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,Insulins And Analogues,A10A,"Insulin/Anal.For Inj,Intem.-Act.,Comb.W/Fast Act.",A10AD
+NULYTELY,Nulytely,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+NYSTATIN,Nystatin,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Antiinfect. And Antisept. For Local Oral Treatment,A01AB
+OCTREOTIDE,Octreotide,"Systemic Hormonal Prep.,Excl.Sex Horm.And Insulin",H,Pituitary And Hypothalamic Hormones And Analogues,H01,Hypothalamic Hormones,H01C,Antigrowth Hormone,H01CB
+OFLOXACIN,Ofloxacin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Quinolone Antibacterials,J01M,Fluoroquinolones,J01MA
+OLANZAPINE,Olanzapine,Nervous System,N,Psycholeptics,N05,Antipsychotics,N05A,"Diazepines, Oxazepines And Thiazepines",N05AH
+OLMESARTAN MEDOXOMIL,Olmesartan Medoxomil,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Angiotensin Ii Antagonists, Plain",C09C,"Angiotensin Ii Antagonists, Plain",C09CA
+OMEGA-3 MARINE TRIGLYCERIDES,Omega-3 Marine Triglycerides,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Other Lipid Modifying Agents,C10AX
+OMEPRAZOLE,Omeprazole,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Proton Pump Inhibitors,A02BC
+OMEPRAZOLE MAGNESIUM,Omeprazole Magnesium,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Proton Pump Inhibitors,A02BC
+OMEPRAZOLE SODIUM,Omeprazole Sodium,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Proton Pump Inhibitors,A02BC
+ONDANSETRON,Ondansetron,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Serotonin (5Ht3) Antagonists,A04AA
+ONDANSETRON HYDROCHLORIDE,Ondansetron Hydrochloride,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Serotonin (5Ht3) Antagonists,A04AA
+OPIPRAMOL HYDROCHLORIDE,Opipramol Hydrochloride,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Non-Selective Monoamine Reuptake Inhibitors,N06AA
+OPIUM ALKALOIDS TOTAL,Opium Alkaloids Total,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Antipropulsives,A07D,Antipropulsives,A07DA
+ORGOTEIN,Orgotein,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,"Other Antiinfl./Antirheumatic Agents, Non-Steroids",M01AX
+OROFAR,Orofar,Respiratory System,R,Throat Preparations,R02,Throat Preparations,R02A,,R02A
+OSYROL-LASIX,Osyrol-Lasix,Cardiovascular System,C,Diuretics,C03,Diuretics And Potassium-Sparing Agents In Comb,C03E,High-Ceiling Diuretics And Potassium-Sparing Agent,C03EB
+OTHER COMBINATIONS OF NUTRIENTS,Other Combinations Of Nutrients,Various,V,General Nutrients,V06,Other Nutrients,V06D,Other Combinations Of Nutrients,V06DX
+OTHER NUTRIENTS,Other Nutrients,Various,V,General Nutrients,V06,Other Nutrients,V06D,,V06D
+OTILONIUM BROMIDE,Otilonium Bromide,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,"Synt Anticholinergics,Quaternary Ammonium Compound",A03AB
+OXALIPLATIN,Oxaliplatin,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Other Antineoplastic Agents,L01X,Platinum Compounds,L01XA
+OXAZEPAM,Oxazepam,Nervous System,N,Psycholeptics,N05,Anxiolytics,N05B,Benzodiazepine Derivatives,N05BA
+OXYCOCET,Oxycocet,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+OXYCODONE,Oxycodone,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+OXYCODONE HYDROCHLORIDE,Oxycodone Hydrochloride,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+OXYGEN,Oxygen,Respiratory System,R,Other Respiratory System Products,R07,Other Respiratory System Products,R07A,,R07A
+PALONOSETRON,Palonosetron,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Serotonin (5Ht3) Antagonists,A04AA
+PALONOSETRON HYDROCHLORIDE,Palonosetron Hydrochloride,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Serotonin (5Ht3) Antagonists,A04AA
+PAMIDRONATE DISODIUM,Pamidronate Disodium,Musculo-Skeletal System,M,Drugs For Treatment Of Bone Diseases,M05,Drugs Affecting Bone Structure And Mineralization,M05B,Bisphosphonates,M05BA
+PANADEINE CO,Panadeine Co,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+PANCREATIN,Pancreatin,Alimentary Tract And Metabolism,A,"Digestives, Incl. Enzymes",A09,"Digestives, Incl. Enzymes",A09A,Enzyme Preparations,A09AA
+PANCRELIPASE,Pancrelipase,Alimentary Tract And Metabolism,A,"Digestives, Incl. Enzymes",A09,"Digestives, Incl. Enzymes",A09A,Enzyme Preparations,A09AA
+PANTOPRAZOLE,Pantoprazole,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Proton Pump Inhibitors,A02BC
+PANTOPRAZOLE SODIUM,Pantoprazole Sodium,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Proton Pump Inhibitors,A02BC
+PARA-SELTZER,Para-Seltzer,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Anilides,N02BE
+PARACETAMOL,Paracetamol,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Anilides,N02BE
+PARAFFIN,Paraffin,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,"Softeners, Emollients",A06AA
+PARAFFIN SOFT,Paraffin Soft,Dermatologicals,D,Emollients And Protectives,D02,Emollients And Protectives,D02A,Other Emollients And Protectives,D02AX
+"PARAFFIN, LIQUID","Paraffin, Liquid",Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,"Softeners, Emollients",A06AA
+PARGEVERINE HYDROCHLORIDE,Pargeverine Hydrochloride,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,,,,A03
+PAROXETINE,Paroxetine,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Selective Serotonin Reuptake Inhibitors,N06AB
+PAROXETINE HYDROCHLORIDE,Paroxetine Hydrochloride,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Selective Serotonin Reuptake Inhibitors,N06AB
+PEGFILGRASTIM,Pegfilgrastim,Antineoplastic And Immunomodulating Agents,L,Immunostimulants,L03,Immunostimulants,L03A,Colony Stimulating Factors,L03AA
+PERCOCET-5,Percocet-5,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+PERI-COLACE,Peri-Colace,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Contact Laxatives,A06AB
+PERINDOPRIL,Perindopril,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Plain",C09A,"Ace Inhibitors, Plain",C09AA
+PERINDOPRIL ERBUMINE,Perindopril Erbumine,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Plain",C09A,"Ace Inhibitors, Plain",C09AA
+PETHIDINE HYDROCHLORIDE,Pethidine Hydrochloride,Nervous System,N,Analgesics,N02,Opioids,N02A,Phenylpiperidine Derivatives,N02AB
+PHENAZOPYRIDINE,Phenazopyridine,Genito Urinary System And Sex Hormones,G,Urologicals,G04,"Other Urologicals, Incl. Antispasmodics",G04B,Other Urologicals,G04BX
+PHENOBARBITAL,Phenobarbital,Nervous System,N,Antiepileptics,N03,Antiepileptics,N03A,Barbiturates And Derivatives,N03AA
+PHENOL,Phenol,Cardiovascular System,C,Vasoprotectives,C05,Antivaricose Therapy,C05B,Sclerosing Agents For Local Injection,C05BB
+PHENOLPHTHALEIN,Phenolphthalein,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Contact Laxatives,A06AB
+PHENOTHIAZINE,Phenothiazine,"Antiparasitic Products,Insecticides And Repellents",P,Anthelmintics,P02,,,,P02
+PHLOROGLUCINOL,Phloroglucinol,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,Other Drugs For Functional Bowel Disorders,A03AX
+PHTHALYLSULFATHIAZOLE,Phthalylsulfathiazole,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinfectives,A07A,Sulfonamides,A07AB
+PHYTOMENADIONE,Phytomenadione,Blood And Blood Forming Organs,B,Antihemorrhagics,B02,Vitamin K And Other Hemostatics,B02B,Vitamin K,B02BA
+PIOGLITAZONE HYDROCHLORIDE,Pioglitazone Hydrochloride,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,Thiazolidinediones,A10BG
+PIP/TAZO,Pip/Tazo,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,Penicillins With Extended Spectrum,J01CA
+PIPEMIDIC ACID,Pipemidic Acid,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Quinolone Antibacterials,J01M,Fluoroquinolones,J01MA
+PIPERACILLIN,Piperacillin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,Penicillins With Extended Spectrum,J01CA
+PIPERACILLIN SODIUM,Piperacillin Sodium,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,Penicillins With Extended Spectrum,J01CA
+PIRACETAM,Piracetam,Nervous System,N,Psychoanaleptics,N06,"Psychostim., Agents Used For Adhd And Nootropics",N06B,Other Psychostimulants And Nootropics,N06BX
+PIRITRAMIDE,Piritramide,Nervous System,N,Analgesics,N02,Opioids,N02A,Diphenylpropylamine Derivatives,N02AC
+PIROXICAM BETADEX,Piroxicam Betadex,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,Oxicams,M01AC
+PLASMA,Plasma,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,Blood And Related Products,B05A,Blood Substitutes And Plasma Protein Fractions,B05AA
+PLATELETS,Platelets,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,Blood And Related Products,B05A,,B05A
+POLYCARBOPHIL CALCIUM,Polycarbophil Calcium,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Bulk Producers,A06AC
+POLYGELINE,Polygeline,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,Blood And Related Products,B05A,Blood Substitutes And Plasma Protein Fractions,B05AA
+POLYSPORIN STERILE OPHTHALMIC,Polysporin Sterile Ophthalmic,Dermatologicals,D,Antibiotics And Chemother. For Dermatological Use,D06,Antibiotics For Topical Use,D06A,Other Antibiotics For Topical Use,D06AX
+POTASSIUM,Potassium,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,,A01A
+POTASSIUM CANRENOATE,Potassium Canrenoate,Cardiovascular System,C,Diuretics,C03,Potassium-Sparing Agents,C03D,Aldosterone Antagonists,C03DA
+POTASSIUM CHLORIDE,Potassium Chloride,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Potassium,A12B,Potassium,A12BA
+POTASSIUM CITRATE,Potassium Citrate,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Potassium,A12B,Potassium,A12BA
+POTASSIUM GLUCONATE,Potassium Gluconate,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Potassium,A12B,Potassium,A12BA
+POVIDONE-IODINE,Povidone-Iodine,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Antiinfect. And Antisept. For Local Oral Treatment,A01AB
+PRAMIPEXOLE DIHYDROCHLORIDE,Pramipexole Dihydrochloride,Nervous System,N,Anti-Parkinson Drugs,N04,Dopaminergic Agents,N04B,Dopamine Agonists,N04BC
+PRAVASTATIN,Pravastatin,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Hmg Coa Reductase Inhibitors,C10AA
+PRAVASTATIN SODIUM,Pravastatin Sodium,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Hmg Coa Reductase Inhibitors,C10AA
+PRAZEPAM,Prazepam,Nervous System,N,Psycholeptics,N05,Anxiolytics,N05B,Benzodiazepine Derivatives,N05BA
+PREDNISOLONE,Prednisolone,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Corticosteroids For Local Oral Treatment,A01AC
+PREDNISOLONE SODIUM SULFOBENZOATE,Prednisolone Sodium Sulfobenzoate,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinflammatory Agents,A07E,Corticosteroids Acting Locally,A07EA
+PREDNISONE,Prednisone,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinflammatory Agents,A07E,Corticosteroids Acting Locally,A07EA
+PREGABALIN,Pregabalin,Nervous System,N,Analgesics,N02,Other Analgesics And Antipyretics,N02B,Other Analgesics And Antipyretics,N02BG
+PRIMAXIN,Primaxin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Other Beta-Lactam Antibacterials,J01D,Carbapenems,J01DH
+PRINZIDE,Prinzide,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Combinations",C09B,Ace Inhibitors And Diuretics,C09BA
+PRITOR,Pritor,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Angiotensin Ii Antagonists, Combinations",C09D,Angiotensin Ii Antagonists And Diuretics,C09DA
+PROCAINE HYDROCHLORIDE,Procaine Hydrochloride,Cardiovascular System,C,Vasoprotectives,C05,Ag.For Treatm.Of Hemorrh.And Anal Fiss.For Top.Use,C05A,Local Anesthetics,C05AD
+PROCET,Procet,Respiratory System,R,Cough And Cold Preparations,R05,Cough Suppressants Excl. Comb. With Expectorants,R05D,Opium Alkaloids And Derivatives,R05DA
+PROCHLORPERAZINE,Prochlorperazine,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Other Antiemetics,A04AD
+PROCHLORPERAZINE MALEATE,Prochlorperazine Maleate,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Other Antiemetics,A04AD
+PROCTOSEDYL,Proctosedyl,Cardiovascular System,C,Vasoprotectives,C05,Ag.For Treatm.Of Hemorrh.And Anal Fiss.For Top.Use,C05A,Corticosteroids,C05AA
+PROGESTERONE,Progesterone,Genito Urinary System And Sex Hormones,G,Sex Hormones And Modulators Of The Genital System,G03,Progestogens,G03D,Pregnen (4) Derivatives,G03DA
+PROMETHAZINE,Promethazine,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Other Antiemetics,A04AD
+PROMETHAZINE HYDROCHLORIDE,Promethazine Hydrochloride,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Other Antiemetics,A04AD
+PROPACET,Propacet,Nervous System,N,Analgesics,N02,Opioids,N02A,Diphenylpropylamine Derivatives,N02AC
+PROPOFOL,Propofol,Nervous System,N,Anesthetics,N01,"Anesthetics, General",N01A,Other General Anesthetics,N01AX
+PROPOLIS,Propolis,Various,V,All Other Therapeutic Products,V03,All Other Therapeutic Products,V03A,,V03A
+PROPRANOLOL,Propranolol,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Non-Selective",C07AA
+PROTHIPENDYL,Prothipendyl,Nervous System,N,Psycholeptics,N05,Antipsychotics,N05A,Other Antipsychotics,N05AX
+PSYLLIUM HYDROPHILIC MUCILLOID,Psyllium Hydrophilic Mucilloid,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Bulk Producers,A06AC
+PYRIDOXINE,Pyridoxine,Alimentary Tract And Metabolism,A,Vitamins,A11,Other Plain Vitamin Preparations,A11H,Other Plain Vitamin Preparations,A11HA
+PYRIDOXINE HYDROCHLORIDE,Pyridoxine Hydrochloride,Alimentary Tract And Metabolism,A,Vitamins,A11,Other Plain Vitamin Preparations,A11H,Other Plain Vitamin Preparations,A11HA
+QUETIAPINE FUMARATE,Quetiapine Fumarate,Nervous System,N,Psycholeptics,N05,Antipsychotics,N05A,"Diazepines, Oxazepines And Thiazepines",N05AH
+QUINAPRIL,Quinapril,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Plain",C09A,"Ace Inhibitors, Plain",C09AA
+QUININE,Quinine,Musculo-Skeletal System,M,Other Drugs For Disord. Of The Musculo-Skelet.Syst,M09,Other Drugs For Disord. Of The Musculo-Skelet.Syst,M09A,Quinine And Derivatives,M09AA
+RABEPRAZOLE SODIUM,Rabeprazole Sodium,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Proton Pump Inhibitors,A02BC
+RAMIPRIL,Ramipril,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Plain",C09A,"Ace Inhibitors, Plain",C09AA
+RANITIDINE,Ranitidine,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,H2-Receptor Antagonists,A02BA
+RANITIDINE HYDROCHLORIDE,Ranitidine Hydrochloride,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,H2-Receptor Antagonists,A02BA
+RED BLOOD CELLS,Red Blood Cells,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,Blood And Related Products,B05A,,B05A
+REMIFENTANIL,Remifentanil,Nervous System,N,Anesthetics,N01,"Anesthetics, General",N01A,Opioid Anesthetics,N01AH
+REPAGLINIDE,Repaglinide,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,"Other Blood Glucose Lowering Drugs, Excl. Insulins",A10BX
+RESPAIRE-SR-120,Respaire-Sr-120,Respiratory System,R,Nasal Preparations,R01,Nasal Decongestants For Systemic Use,R01B,Sympathomimetics,R01BA
+RINGER,Ringer,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,Irrigating Solutions,B05C,Salt Solutions,B05CB
+RISEDRONATE SODIUM,Risedronate Sodium,Musculo-Skeletal System,M,Drugs For Treatment Of Bone Diseases,M05,Drugs Affecting Bone Structure And Mineralization,M05B,Bisphosphonates,M05BA
+RISPERIDONE,Risperidone,Nervous System,N,Psycholeptics,N05,Antipsychotics,N05A,Other Antipsychotics,N05AX
+ROSIGLITAZONE MALEATE,Rosiglitazone Maleate,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,Thiazolidinediones,A10BG
+ROSUVASTATIN CALCIUM,Rosuvastatin Calcium,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Hmg Coa Reductase Inhibitors,C10AA
+SACCHAROMYCES BOULARDII,Saccharomyces Boulardii,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Antidiarrheal Microorganisms,A07F,Antidiarrheal Microorganisms,A07FA
+SALACTOL,Salactol,Dermatologicals,D,Emollients And Protectives,D02,Emollients And Protectives,D02A,Salicylic Acid Preparations,D02AF
+SALBUTAMOL,Salbutamol,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Adrenergics, Inhalants",R03A,Selective Beta-2-Adrenoreceptor Agonists,R03AC
+SALICYLIC ACID,Salicylic Acid,Dermatologicals,D,Antifungals For Dermatological Use,D01,Antifungals For Topical Use,D01A,Other Antifungals For Topical Use,D01AE
+SALMETEROL,Salmeterol,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Adrenergics, Inhalants",R03A,Selective Beta-2-Adrenoreceptor Agonists,R03AC
+SALUTEC,Salutec,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Combinations",C09B,Ace Inhibitors And Diuretics,C09BA
+SENNA ALEXANDRINA LEAF,Senna Alexandrina Leaf,Various,V,Unspecified Herbal,V90,,,,V90
+SENNOSIDE A+B,Sennoside A+B,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Contact Laxatives,A06AB
+SENOKOT-S,Senokot-S,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Contact Laxatives,A06AB
+SERENOA REPENS,Serenoa Repens,Various,V,Unspecified Herbal,V90,,,,V90
+SERETIDE,Seretide,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Adrenergics, Inhalants",R03A,Adrenergics And Oth.Drugs For Obstruct.Airway Dis.,R03AK
+SERTRALINE HYDROCHLORIDE,Sertraline Hydrochloride,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Selective Serotonin Reuptake Inhibitors,N06AB
+SHARK CARTILAGE,Shark Cartilage,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,,,,L01
+SILYBUM MARIANUM,Silybum Marianum,Various,V,Unspecified Herbal,V90,,,,V90
+SIMETICONE,Simeticone,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,Other Drugs For Functional Bowel Disorders,A03AX
+SIMVASTATIN,Simvastatin,Cardiovascular System,C,Lipid Modifying Agents,C10,"Lipid Modifying Agents, Plain",C10A,Hmg Coa Reductase Inhibitors,C10AA
+SITAGLIPTIN PHOSPHATE,Sitagliptin Phosphate,Alimentary Tract And Metabolism,A,Drugs Used In Diabetes,A10,"Blood Glucose Lowering Drugs, Excl. Insulins",A10B,Dipeptidyl Peptidase 4 (Dpp-4) Inhibitors,A10BH
+SMECTITE,Smectite,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Antacids,A02A,"Comb And Compl. Of Alumin., Calc. And Magnes. Comp",A02AD
+SODIUM BICARBONATE,Sodium Bicarbonate,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Antacids,A02A,Antacids With Sodium Bicarbonate,A02AH
+SODIUM CHLORIDE,Sodium Chloride,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,,A06A
+SODIUM CHLORIDE COMPOUND INJECTION,Sodium Chloride Compound Injection,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Other Mineral Supplements,A12C,Sodium,A12CA
+SODIUM FOLINATE,Sodium Folinate,Blood And Blood Forming Organs,B,Antianemic Preparations,B03,Vitamin B12 And Folic Acid,B03B,Folic Acid And Derivatives,B03BB
+SODIUM PHOSPHATE,Sodium Phosphate,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+SODIUM PHOSPHATE MONOBASIC (ANHYDRATE),Sodium Phosphate Monobasic (Anhydrate),Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Osmotically Acting Laxatives,A06AD
+SODIUM PICOSULFATE,Sodium Picosulfate,Alimentary Tract And Metabolism,A,Laxatives,A06,Laxatives,A06A,Contact Laxatives,A06AB
+SOLUTIONS AFFECTING THE ELECTROLYTE BALANCE,Solutions Affecting The Electrolyte Balance,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions Affecting The Electrolyte Balance,B05BB
+SOLUTIONS FOR PARENTERAL NUTRITION,Solutions For Parenteral Nutrition,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions For Parenteral Nutrition,B05BA
+SOTALOL HYDROCHLORIDE,Sotalol Hydrochloride,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Non-Selective",C07AA
+SPASFON,Spasfon,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,Other Drugs For Functional Bowel Disorders,A03AX
+SPEKTRAMOX,Spektramox,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,"Comb Of Penicillins, Incl. Beta-Lactamase Inhib.",J01CR
+SPIRONOLACTONE,Spironolactone,Cardiovascular System,C,Diuretics,C03,Potassium-Sparing Agents,C03D,Aldosterone Antagonists,C03DA
+STEROFUNDIN,Sterofundin,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions Affecting The Electrolyte Balance,B05BB
+"STOMATOLOGICALS, MOUTH PREPARATIONS","Stomatologicals, Mouth Preparations",Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,,A01A
+STRUCTOKABIVEN,Structokabiven,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions For Parenteral Nutrition,B05BA
+SUCRALFATE,Sucralfate,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Other Drugs For Peptic Ulcer And Gord,A02BX
+SULFACETAMIDE,Sulfacetamide,Sensory Organs,S,Ophthalmologicals,S01,Antiinfectives,S01A,Sulfonamides,S01AB
+SULPERAZON,Sulperazon,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,Combinations Of Antibacterials,J01R,Combinations Of Antibacterials,J01RA
+SULPIRIDE,Sulpiride,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Other Drugs For Peptic Ulcer And Gord,A02BX
+SULTAMICILLIN TOSILATE,Sultamicillin Tosilate,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,"Comb Of Penicillins, Incl. Beta-Lactamase Inhib.",J01CR
+SUXAMETHONIUM CHLORIDE,Suxamethonium Chloride,Musculo-Skeletal System,M,Muscle Relaxants,M03,"Muscle Relaxants, Peripherally Acting Agents",M03A,Choline Derivatives,M03AB
+SWISS-KAL EFF,Swiss-Kal Eff,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Potassium,A12B,Potassium,A12BA
+SYNGEL,Syngel,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Antacids,A02A,"Antacids, Other Combinations",A02AX
+TAMSULOSIN,Tamsulosin,Genito Urinary System And Sex Hormones,G,Urologicals,G04,Drugs Used In Benign Prostatic Hypertrophy,G04C,Alpha-Adrenoreceptor Antagonists,G04CA
+TAMSULOSIN HYDROCHLORIDE,Tamsulosin Hydrochloride,Genito Urinary System And Sex Hormones,G,Urologicals,G04,Drugs Used In Benign Prostatic Hypertrophy,G04C,Alpha-Adrenoreceptor Antagonists,G04CA
+TAZOBACTAM,Tazobactam,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,Beta-Lactamase Inhibitors,J01CG
+TEGAFUR,Tegafur,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Antimetabolites,L01B,Pyrimidine Analogues,L01BC
+TELMISARTAN,Telmisartan,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Angiotensin Ii Antagonists, Plain",C09C,"Angiotensin Ii Antagonists, Plain",C09CA
+TEMAZEPAM,Temazepam,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Derivatives,N05CD
+TERAZOSIN,Terazosin,Cardiovascular System,C,Antihypertensives,C02,"Antiadrenergic Agents, Peripherally Acting",C02C,Alpha-Adrenoreceptor Antagonists,C02CA
+TESTOSTERONE,Testosterone,Genito Urinary System And Sex Hormones,G,Sex Hormones And Modulators Of The Genital System,G03,Androgens,G03B,3-Oxoandrosten (4) Derivatives,G03BA
+TETRACOSACTIDE,Tetracosactide,"Systemic Hormonal Prep.,Excl.Sex Horm.And Insulin",H,Pituitary And Hypothalamic Hormones And Analogues,H01,Anterior Pituitary Lobe Hormones And Analogues,H01A,Acth,H01AA
+TETRAZEPAM,Tetrazepam,Musculo-Skeletal System,M,Muscle Relaxants,M03,"Muscle Relaxants, Centrally Acting Agents",M03B,Other Centrally Acting Agents,M03BX
+THIAMINE,Thiamine,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vit B1,Plain And In Comb With Vitamin B6 And B12",A11D,"Vitamin B1, Plain",A11DA
+THIAMINE HYDROCHLORIDE,Thiamine Hydrochloride,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vit B1,Plain And In Comb With Vitamin B6 And B12",A11D,"Vitamin B1, Plain",A11DA
+THIETHYLPERAZINE,Thiethylperazine,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Phenothiazine Derivatives,R06AD
+THIETHYLPERAZINE MALEATE,Thiethylperazine Maleate,Respiratory System,R,Antihistamines For Systemic Use,R06,Antihistamines For Systemic Use,R06A,Phenothiazine Derivatives,R06AD
+TIAPRIDE HYDROCHLORIDE,Tiapride Hydrochloride,Nervous System,N,Psycholeptics,N05,Antipsychotics,N05A,Benzamides,N05AL
+TIAPROFENIC ACID,Tiaprofenic Acid,Musculo-Skeletal System,M,Antiinflammatory And Antirheumatic Products,M01,"Antiinflammatory/Antirheumatic Prod.,Non-Steroids",M01A,Propionic Acid Derivatives,M01AE
+TICLOPIDINE HYDROCHLORIDE,Ticlopidine Hydrochloride,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Platelet Aggregation Inhibitors Excl. Heparin,B01AC
+TIMENTIN,Timentin,Antiinfectives For Systemic Use,J,Antibacterials For Systemic Use,J01,"Beta-Lactam Antibacterials, Penicillins",J01C,"Comb Of Penicillins, Incl. Beta-Lactamase Inhib.",J01CR
+TIMOLOL,Timolol,Cardiovascular System,C,Beta Blocking Agents,C07,Beta Blocking Agents,C07A,"Beta Blocking Agents, Non-Selective",C07AA
+TIOTROPIUM,Tiotropium,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Oth.Drugs For Obstruc.Airway Diseases,Inhalants",R03B,Anticholinergics,R03BB
+TIOTROPIUM BROMIDE,Tiotropium Bromide,Respiratory System,R,Drugs For Obstructive Airway Diseases,R03,"Oth.Drugs For Obstruc.Airway Diseases,Inhalants",R03B,Anticholinergics,R03BB
+TIZANIDINE HYDROCHLORIDE,Tizanidine Hydrochloride,Musculo-Skeletal System,M,Muscle Relaxants,M03,"Muscle Relaxants, Centrally Acting Agents",M03B,Other Centrally Acting Agents,M03BX
+TOBRADEX,Tobradex,Sensory Organs,S,Ophthalmologicals,S01,Antiinflammatory Agents And Antiinfectives In Comb,S01C,Corticosteroids And Antiinfectives In Combination,S01CA
+TOCOPHERYL ACETATE,Tocopheryl Acetate,Alimentary Tract And Metabolism,A,Vitamins,A11,Other Plain Vitamin Preparations,A11H,Other Plain Vitamin Preparations,A11HA
+TOLPERISONE HYDROCHLORIDE,Tolperisone Hydrochloride,Musculo-Skeletal System,M,Muscle Relaxants,M03,"Muscle Relaxants, Centrally Acting Agents",M03B,Other Centrally Acting Agents,M03BX
+TORASEMIDE SODIUM,Torasemide Sodium,Cardiovascular System,C,Diuretics,C03,High-Ceiling Diuretics,C03C,"Sulfonamides, Plain",C03CA
+TRAMADOL,Tramadol,Nervous System,N,Analgesics,N02,Opioids,N02A,Other Opioids,N02AX
+TRAMADOL HYDROCHLORIDE,Tramadol Hydrochloride,Nervous System,N,Analgesics,N02,Opioids,N02A,Other Opioids,N02AX
+TRAVOPROST,Travoprost,Sensory Organs,S,Ophthalmologicals,S01,Antiglaucoma Preparations And Miotics,S01E,Prostaglandin Analogues,S01EE
+TRAZODONE,Trazodone,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Other Antidepressants,N06AX
+TRAZODONE HYDROCHLORIDE,Trazodone Hydrochloride,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Other Antidepressants,N06AX
+TRIAMCINOLONE,Triamcinolone,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Corticosteroids For Local Oral Treatment,A01AC
+TRIAMCINOLONE ACETONIDE,Triamcinolone Acetonide,Alimentary Tract And Metabolism,A,Stomatological Preparations,A01,Stomatological Preparations,A01A,Corticosteroids For Local Oral Treatment,A01AC
+TRILAC,Trilac,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Antidiarrheal Microorganisms,A07F,Antidiarrheal Microorganisms,A07FA
+TRIMEBUTINE,Trimebutine,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,"Synt Anticholin,Esters With Tertiary Amino Group",A03AA
+TRIMEBUTINE MALEATE,Trimebutine Maleate,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Drugs For Functional Bowel Disorders,A03A,"Synt Anticholin,Esters With Tertiary Amino Group",A03AA
+TRIMECAINE HYDROCHLORIDE,Trimecaine Hydrochloride,Nervous System,N,Anesthetics,N01,"Anesthetics, Local",N01B,Amides,N01BB
+TRIMEPERIDINE,Trimeperidine,Nervous System,N,Analgesics,N02,Opioids,N02A,Other Opioids,N02AX
+TROPISETRON HYDROCHLORIDE,Tropisetron Hydrochloride,Alimentary Tract And Metabolism,A,Antiemetics And Antinauseants,A04,Antiemetics And Antinauseants,A04A,Serotonin (5Ht3) Antagonists,A04AA
+TUSSIN DM,Tussin Dm,Respiratory System,R,Cough And Cold Preparations,R05,"Cough Suppressants And Expectorants, Combinations",R05F,Opium Derivatives And Expectorants,R05FA
+TYLOX,Tylox,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+ULTRACET,Ultracet,Nervous System,N,Analgesics,N02,Opioids,N02A,Other Opioids,N02AX
+URACIL,Uracil,Antineoplastic And Immunomodulating Agents,L,Antineoplastic Agents,L01,Antimetabolites,L01B,,L01B
+UREA,Urea,Blood And Blood Forming Organs,B,Blood Substitutes And Perfusion Solutions,B05,I.V. Solutions,B05B,Solutions Producing Osmotic Diuresis,B05BC
+URINARY ANTISPASMODICS,Urinary Antispasmodics,Genito Urinary System And Sex Hormones,G,Urologicals,G04,"Other Urologicals, Incl. Antispasmodics",G04B,Urinary Antispasmodics,G04BD
+URSODEOXYCHOLIC ACID,Ursodeoxycholic Acid,Alimentary Tract And Metabolism,A,Bile And Liver Therapy,A05,Bile Therapy,A05A,Bile Acid Preparations,A05AA
+VALPIN 50-PB,Valpin 50-Pb,Alimentary Tract And Metabolism,A,Drugs For Functional Gastrointestinal Disorders,A03,Antispasmodics In Combination With Analgesics,A03D,Belladonna And Derivatives In Comb With Analgesics,A03DB
+VALPROATE SEMISODIUM,Valproate Semisodium,Nervous System,N,Antiepileptics,N03,Antiepileptics,N03A,Fatty Acid Derivatives,N03AG
+VALSARTAN,Valsartan,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Angiotensin Ii Antagonists, Plain",C09C,"Angiotensin Ii Antagonists, Plain",C09CA
+VANCOMYCIN,Vancomycin,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinfectives,A07A,Antibiotics,A07AA
+VANCOMYCIN HYDROCHLORIDE,Vancomycin Hydrochloride,Alimentary Tract And Metabolism,A,"Antidiarr.,Intest. Antiinfl./Antiinfect. Agents",A07,Intestinal Antiinfectives,A07A,Antibiotics,A07AA
+VASERETIC,Vaseretic,Cardiovascular System,C,Agents Acting On The Renin-Angiotensin System,C09,"Ace Inhibitors, Combinations",C09B,Ace Inhibitors And Diuretics,C09BA
+VENLAFAXINE,Venlafaxine,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Other Antidepressants,N06AX
+VENLAFAXINE HYDROCHLORIDE,Venlafaxine Hydrochloride,Nervous System,N,Psychoanaleptics,N06,Antidepressants,N06A,Other Antidepressants,N06AX
+VERAPAMIL,Verapamil,Cardiovascular System,C,Calcium Channel Blockers,C08,Selective Calc.Channel Block. W/Direct Cardiac Eff,C08D,Phenylalkylamine Derivatives,C08DA
+VICODIN,Vicodin,Nervous System,N,Analgesics,N02,Opioids,N02A,Natural Opium Alkaloids,N02AA
+VINPOCETINE,Vinpocetine,Nervous System,N,Psychoanaleptics,N06,"Psychostim., Agents Used For Adhd And Nootropics",N06B,Other Psychostimulants And Nootropics,N06BX
+VITAMIN B1 AND B6,Vitamin B1 And B6,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vit B1,Plain And In Comb With Vitamin B6 And B12",A11D,Vit B1 In Comb With Vitamin B6 And/Or Vitamin B12,A11DB
+VITAMIN PREPARATION COMPOUND,Vitamin Preparation Compound,Alimentary Tract And Metabolism,A,Vitamins,A11,"Other Vitamin Products, Combinations",A11J,Combinations Of Vitamins,A11JA
+VITAMIN-B-KOMPLEX STANDARD,Vitamin-B-Komplex Standard,Alimentary Tract And Metabolism,A,Vitamins,A11,"Vitamin B-Complex, Incl. Combinations",A11E,"Vitamin B-Complex, Plain",A11EA
+VITAMINS WITH MINERALS,Vitamins With Minerals,Alimentary Tract And Metabolism,A,Vitamins,A11,"Other Vitamin Products, Combinations",A11J,Vitamins With Minerals,A11JB
+VORICONAZOLE,Voriconazole,Antiinfectives For Systemic Use,J,Antimycotics For Systemic Use,J02,Antimycotics For Systemic Use,J02A,Triazole Derivatives,J02AC
+WARFARIN,Warfarin,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Vitamin K Antagonists,B01AA
+WARFARIN SODIUM,Warfarin Sodium,Blood And Blood Forming Organs,B,Antithrombotic Agents,B01,Antithrombotic Agents,B01A,Vitamin K Antagonists,B01AA
+ZINC SULFATE,Zinc Sulfate,Alimentary Tract And Metabolism,A,Mineral Supplements,A12,Other Mineral Supplements,A12C,Zinc,A12CB
+ZOLEDRONIC ACID,Zoledronic Acid,Musculo-Skeletal System,M,Drugs For Treatment Of Bone Diseases,M05,Drugs Affecting Bone Structure And Mineralization,M05B,Bisphosphonates,M05BA
+ZOLPIDEM,Zolpidem,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Related Drugs,N05CF
+ZOLPIDEM TARTRATE,Zolpidem Tartrate,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Related Drugs,N05CF
+ZOPICLONE,Zopiclone,Nervous System,N,Psycholeptics,N05,Hypnotics And Sedatives,N05C,Benzodiazepine Related Drugs,N05CF
+ZOSEC,Zosec,Alimentary Tract And Metabolism,A,Drugs For Acid Related Disorders,A02,Drugs For Peptic Ulcer And Gord,A02B,Proton Pump Inhibitors,A02BC

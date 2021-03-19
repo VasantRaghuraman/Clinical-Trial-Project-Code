@@ -1,0 +1,11 @@
+﻿%macro check_exist(dsin, var);
+%let dsid = %sysfunc(open(&dsin));
+%if %sysfunc(varnum(&dsid, &var)) =0 %then %do;
+%put WARNING: Permissible variable %upcase(&var) does not exist in %upcase(&dsin);
+%end; 
+%else %do; 
+%put NOTE: Variable %upcase(&var) exists in %upcase(&dsin); 
+%end;
+%let rc = %sysfunc(close(&dsid)); 
+%mend check_exist;
+%check_exist(dm,rficdtc);

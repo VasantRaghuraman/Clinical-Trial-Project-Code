@@ -1,0 +1,130 @@
+CETERM,CELLT,CEDECOD,CEHLT,CEHLGT,CEBODSYS
+Abdomen scan,Abdominal scan NOS,Abdomen scan,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations
+Abdominal CAT,Abdominal CAT,Computerised tomogram abdomen,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations
+Abdominal X-ray,Abdominal X-ray NOS,Abdominal X-ray,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations
+Abdominocentesis,Abdominocentesis,Abdominal cavity drainage,Abdominal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Abscess drainage,Drainage of abscess NOS,Abscess drainage,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures
+Anal fistula excision,Fistula in ano excision,Anal fistula excision,Anorectal therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Angiogram,Angiogram NOS,Angiogram,Vascular imaging procedures NEC,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Angiogram pulmonary,Pulmonary angiogram,Angiogram pulmonary,Respiratory tract and thoracic imaging procedures,Respiratory and pulmonary investigations (excl blood gases),Investigations
+Ascites drainage,Ascites drainage,Abdominal cavity drainage,Abdominal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Bile duct stent insertion,Bile duct stent insertion,Bile duct stent insertion,Biliary tract and gallbladder therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures
+Biliary drainage,Gallbladder drainage,Biliary drainage,Biliary tract and gallbladder therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures
+Biopsy small intestine,Biopsy ileum,Biopsy small intestine,Gastrointestinal histopathology procedures,Gastrointestinal investigations,Investigations
+Blood culture,Culture blood,Blood culture,Microbiology and serology tests NEC,Microbiology and serology investigations,Investigations
+Blood transfusion,Blood transfusion,Transfusion,Blood and blood product treatment,Haematological and lymphoid tissue therapeutic procedures,Surgical and medical procedures
+Bone scan,Bone scan NOS,Bone scan,Musculoskeletal and soft tissue imaging procedures,Musculoskeletal and soft tissue investigations (excl enzyme tests),Investigations
+CT brain scan,CT brain scan,Computerised tomogram head,Central nervous system imaging procedures,"Neurological, special senses and psychiatric investigations",Investigations
+CT scan,CT scan,Computerised tomogram,Imaging procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+Carotid artery ultrasound,Carotid artery ultrasound,Ultrasound Doppler,Vascular imaging procedures NEC,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Catheterisation venous,Catheterization venous,Catheterisation venous,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures
+Central line placement,Central line placement,Central venous catheterisation,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures
+Central venous catheterization,Central venous catheterization,Central venous catheterisation,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures
+Chest X-ray,X-ray NOS chest,Chest X-ray,Respiratory tract and thoracic imaging procedures,Respiratory and pulmonary investigations (excl blood gases),Investigations
+Cholangiography,Cholangiography,Cholangiogram,Hepatobiliary imaging procedures,Hepatobiliary investigations,Investigations
+Cholecystostomy,Cholecystostomy,Cholecystostomy,Biliary tract and gallbladder therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures
+Colonoscopy,Colonoscopy,Colonoscopy,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations
+Colour doppler scan,Colour doppler scan,Ultrasound Doppler,Vascular imaging procedures NEC,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Computerised tomogram thorax,Computerized tomogram thorax,Computerised tomogram thorax,Respiratory tract and thoracic imaging procedures,Respiratory and pulmonary investigations (excl blood gases),Investigations
+Culture,Culture NOS,Culture,Microbiology and serology tests NEC,Microbiology and serology investigations,Investigations
+Culture throat,Throat swab,Culture throat,Microbiology and serology tests NEC,Microbiology and serology investigations,Investigations
+Culture urine,Urine culture,Culture urine,Microbiology and serology tests NEC,Microbiology and serology investigations,Investigations
+Doppler scan,Doppler scan,Ultrasound Doppler,Vascular imaging procedures NEC,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Doppler studies,Doppler studies,Ultrasound Doppler,Vascular imaging procedures NEC,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Doppler ultrasound,Doppler ultrasound,Ultrasound Doppler,Vascular imaging procedures NEC,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Duodenal operation,Duodenal operation NOS,Duodenal operation,Small intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+ECG,ECG,Electrocardiogram,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Investigations
+EMG,EMG,Electromyogram,Neurologic diagnostic procedures,"Neurological, special senses and psychiatric investigations",Investigations
+ERCP,ERCP,Endoscopic retrograde cholangiopancreatography,Hepatobiliary imaging procedures,Hepatobiliary investigations,Investigations
+Echocardiogram,Transthoracic echocardiogram,Echocardiogram,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Echocardiography,Echocardiography,Echocardiogram,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Echography,Echography,Ultrasound scan,Imaging procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+Electrocardiogram,ECG,Electrocardiogram,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Endoscopic retrograde cholangiopancreatography,ERCP,Endoscopic retrograde cholangiopancreatography,Hepatobiliary imaging procedures,Hepatobiliary investigations,Investigations
+Endoscopy,Endoscopy NOS,Endoscopy,Imaging procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+Esophageal motility test,Esophageal motility test,Oesophageal motility test,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations
+Esophagogastroduodenoscopy,Esophagogastroduodenoscopy,Oesophagogastroduodenoscopy,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations
+Explorative laparotomy,Exploratory celiotomy,Explorative laparotomy,Abdominal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Exploratory operation,Exploratory operation,Exploratory operation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures
+Feeding tube insertion,Feeding tube insertion,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Fibrin D dimer,Fragment D dimer,Fibrin D dimer,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Investigations
+Gastro-enterostomy,Gastroduodenostomy,Gastroenterostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Gastro-jejunostomy,Gastrojejunostomy,Gastroenterostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Gastroscopy,Gastroscopy,Endoscopy upper gastrointestinal tract,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations
+Hepaticojejunostomy,Hepaticojejunostomy,Hepatic therapeutic procedures,Hepatobiliary therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures
+Holter monitoring,Holter monitoring,Electrocardiogram ambulatory,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Intestinal anastomosis,Intestinal anastomosis revision,Intestinal anastomosis,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Intestinal stent insertion,Intestinal stent insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Intubation,Intubation,Endotracheal intubation,Tracheal therapeutic procedures,Respiratory tract therapeutic procedures,Surgical and medical procedures
+Jejunostomy,Jejunostomy tube insertion,Jejunostomy,Small intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Laboratory test,Lab test,Laboratory test,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+Laparotomy,Staging laparotomy,Laparotomy,Abdominal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Large intestine anastomosis,Large bowel anastomosis,Large intestine anastomosis,Large intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Liver biopsy,Liver biopsy,Biopsy liver,Hepatobiliary histopathology procedures,Hepatobiliary investigations,Investigations
+Liver operation,Liver operation NOS,Liver operation,Hepatic therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures
+Lower GI series,Lower GI series,X-ray with contrast lower gastrointestinal tract,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations
+Lumbar puncture,LP,Lumbar puncture,Neurologic diagnostic procedures,"Neurological, special senses and psychiatric investigations",Investigations
+MRI,MRI,Nuclear magnetic resonance imaging,Imaging procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+MRI brain,MRI brain,Nuclear magnetic resonance imaging brain,Central nervous system imaging procedures,"Neurological, special senses and psychiatric investigations",Investigations
+Mechanical ventilation,Assisted ventilation,Mechanical ventilation,Respiratory tract therapeutic procedures NEC,Respiratory tract therapeutic procedures,Surgical and medical procedures
+Myocardial perfusion scan,Myocardial perfusion scan,Scan myocardial perfusion,Cardiac imaging procedures,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Nasogastric tube insertion,Nasogastric tube insertion,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Needle biopsy NOS,Needle biopsy NOS,Diagnostic aspiration,Histopathology procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+Nerve block,Axillary nerve block,Nerve block,Anaesthesia and allied procedures,Therapeutic procedures and supportive care NEC,Surgical and medical procedures
+Neurological examination,Neurological examination,Physical examination procedures and organ system status,Physical examination procedures and organ system status,Physical examination and organ system status topics,Investigations
+Neurolysis,Neurolysis,Neurolysis,"Nervous system, skull and spine therapeutic procedures",Peripheral nerve therapeutic procedures,Surgical and medical procedures
+Non-surgical treatment,Non-surgical treatment,Therapeutic procedure,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures
+Nuclear magnetic resonance imaging brain,MRI brain,Nuclear magnetic resonance imaging brain,Central nervous system imaging procedures,"Neurological, special senses and psychiatric investigations",Investigations
+Oesophagogastroduodenoscopy,Esophagogastroduodenoscopy,Oesophagogastroduodenoscopy,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations
+Ovarian biopsy,Ovarian biopsy,Biopsy ovary,Reproductive organ and breast histopathology procedures,Reproductive organ and breast investigations (excl hormone analyses),Investigations
+Pancreatic sphincterotomy,Pancreatic sphincter operation,Pancreatic sphincterectomy,Pancreatic therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures
+Paracentesis,Paracentesis NOS,Paracentesis,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+Percutaneous transhepatic cholangiography,Percutaneous transhepatic cholangiography,Cholangiogram,Hepatobiliary imaging procedures,Hepatobiliary investigations,Investigations
+Physical examination,Physical examination NOS,Physical examination,Physical examination procedures and organ system status,Physical examination and organ system status topics,Investigations
+Pleural cavity drainage,Pleural cavity drainage,Thoracic cavity drainage,Chest wall and mediastinal therapeutic procedures,Respiratory tract therapeutic procedures,Surgical and medical procedures
+Portacath insertion,Portacath insertion,Central venous catheterisation,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures
+Prosthesis implantation,Prosthesis implantation,Prosthesis implantation,Therapeutic procedures and supportive care NEC,Therapeutic procedures NEC,Surgical and medical procedures
+Radiotherapy,Radiotherapy NOS,Radiotherapy,Radiotherapies site unspecified,Therapeutic procedures and supportive care NEC,Surgical and medical procedures
+Red blood cell scan,RBC scan,Red blood cell scan,Imaging procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+Regional nerve block,Regional nerve block,Nerve block,Anaesthesia and allied procedures,Therapeutic procedures and supportive care NEC,Surgical and medical procedures
+Scan,Scan NOS,Scan,Imaging procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+Scan brain,Brain scan NOS,Scan brain,Central nervous system imaging procedures,"Neurological, special senses and psychiatric investigations",Investigations
+Spinal operation,Spinal operation NOS,Spinal operation,Spine and spinal cord therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surgical and medical procedures
+Spiral CT,Spiral CT,Computerised tomogram,Imaging procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+Stent insertion NOS,Stent insertion NOS,Stent placement,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures
+Stent placement,Stent insertion NOS,Stent placement,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures
+Stool culture,Stool culture,Culture stool,Microbiology and serology tests NEC,Microbiology and serology investigations,Investigations
+Stress test,Stress test,Cardiac stress test,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Subclavian catheterization,Subclavian catheterization,Central venous catheterisation,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures
+Therapeutic procedure,Therapeutic procedure NOS,Therapeutic procedure,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures
+Thorax CAT,Thorax CAT,Computerised tomogram thorax,Respiratory tract and thoracic imaging procedures,Respiratory and pulmonary investigations (excl blood gases),Investigations
+Thorax X-ray,Thorax X-ray,Chest X-ray,Respiratory tract and thoracic imaging procedures,Respiratory and pulmonary investigations (excl blood gases),Investigations
+Tooth extraction,Tooth extraction NOS,Tooth extraction,Dental and gingival therapeutic procedures,Head and neck therapeutic procedures,Surgical and medical procedures
+Ultrasound abdomen,FAST ultrasound,Ultrasound abdomen,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations
+Ultrasound chest,Lung ultrasound,Ultrasound chest,Respiratory tract and thoracic imaging procedures,Respiratory and pulmonary investigations (excl blood gases),Investigations
+Ultrasound examination,Ultrasound examination,Ultrasound scan,Imaging procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+Ultrasound kidney,Ultrasound kidneys,Ultrasound kidney,Urinary tract imaging procedures,Renal and urinary tract investigations and urinalyses,Investigations
+Ultrasound liver,Ultrasound liver,Ultrasound liver,Hepatobiliary imaging procedures,Hepatobiliary investigations,Investigations
+Ultrasound scan vagina,Transvaginal ultrasound scan,Ultrasound scan vagina,Reproductive organ and breast imaging procedures,Reproductive organ and breast investigations (excl hormone analyses),Investigations
+Urinalysis,Urinalysis,Urine analysis,Urinalysis NEC,Renal and urinary tract investigations and urinalyses,Investigations
+Urine culture,Urine culture,Culture urine,Microbiology and serology tests NEC,Bacteria identification and serology (excl mycobacteria),Investigations
+Urological examination,Urological examination,Urological examination,Physical examination procedures and organ system status,Physical examination and organ system status topics,Investigations
+Vascular diagnostic procedure,Vascular diagnostic procedure,Vascular test,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Investigations
+Vascular imaging,Vascular imaging,Vascular imaging,Vascular imaging procedures NEC,Cardiac and vascular investigations (excl enzyme tests),Investigations
+Vascular ultrasound,Vascular ultrasound,Ultrasound Doppler,Vascular imaging procedures NEC,Cardiac and vascular investigations (excl enzyme tests),Investigations
+X-ray,X-ray NOS,X-ray,Imaging procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations
+X-ray of shoulder & upper arm,X-ray of shoulder & upper arm,X-ray limb,Musculoskeletal and soft tissue imaging procedures,Musculoskeletal and soft tissue investigations (excl enzyme tests),Investigations
+X-ray of thoracic spine,X-ray of thoracic spine,Spinal X-ray,Musculoskeletal and soft tissue imaging procedures,Musculoskeletal and soft tissue investigations (excl enzyme tests),Investigations
+ANGINA PECTORIS / UNSTABLE ANGINA / MYOCARDIAL INFARCTION,Anginal pain,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Cardiac disorders
+BILATERAL LEG EDEMA,Edema NOS,Oedema,Total fluid volume increased,Electrolyte and fluid balance conditions,Metabolism and nutrition disorders
+DEEP VENOUS THROMBOSIS,Deep venous thrombosis NOS,Deep vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vascular disorders
+INTRAABDOMINAL ARTERIAL THROMBOSIS,Arterial thrombosis NOS,Arterial thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vascular disorders
+LEG EDEMA,Leg Edema,Oedema peripheral,Total fluid volume increased,Electrolyte and fluid balance conditions,Metabolism and nutrition disorders
+PERIPHERAL ARTERIAL THROMBOSIS,Peripheral arterial ischaemia,Peripheral ischaemia,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders
+PHLEBITIS,Phlebitis NOS,Phlebitis,Cardiac and vascular procedural complications,Procedural related injuries and complications NEC,"Injury, poisoning and procedural complications"
+PORTAL VEIN THROMBOSIS,Thrombosis portal vein,Portal vein thrombosis,Hepatic and portal embolism and thrombosis,Embolism and thrombosis,Vascular disorders
+PULMONARY EMBOLISM,Embolism pulmonary,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,"Respiratory, thoracic and mediastinal disorders"
+STROKE / TRANSIENT ISCHEMIC ATTACK,Transient ischemic attack,Transient ischaemic attack,Cerebrovascular and spinal necrosis and vascular insufficiency,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders
+SUPERFICIAL PHLEBITIS,Superficial phlebitis of leg,Phlebitis superficial,Phlebitis NEC,Vascular inflammations,Vascular disorders
+SUPERFICIAL THROMBOPHLEBITIS,Superficial thrombophlebitis,Thrombophlebitis superficial,Peripheral embolism and thrombosis,Embolism and thrombosis,Vascular disorders
+SUPERFICIAL VENOUS THROMBOSIS RIGHT UPPER ARM,Superficial venous thrombosis of arm,Thrombophlebitis superficial,Peripheral embolism and thrombosis,Embolism and thrombosis,Vascular disorders

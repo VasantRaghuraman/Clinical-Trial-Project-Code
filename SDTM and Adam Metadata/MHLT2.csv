@@ -1,0 +1,653 @@
+MHTERM,Lowest_Level_Term,Preferred_Term,High_Level_Term,High_Level_Group_Term,Body_System_Or_Organ_Class,AESOC
+ALT increased,ALT increased,Alanine aminotransferase increased,Liver function analyses,Hepatobiliary investigations,Investigations,Investigations
+Abdominal aortic aneurysm,Aortic aneurysm,Aortic aneurysms and dissections,Aneurysms and artery dissections,Aneurysms and artery dissections,Vascular disorders,Vascular disorders
+Abdominal bloating,Abdominal bloating,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Abdominal distension,Distended abdomen,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Abdominal pain,Pain abdominal,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Abdominal pain NOS,Abdominal pain NOS,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Abdominal pain localized,Abdominal pain localized,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Abnormal glucose tolerance,Abnormal glucose tolerance,Glucose tolerance impaired,Hyperglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Abscess breast,Abscess breast,Breast abscess,Postpartum breast disorders,Postpartum and puerperal disorders,"Pregnancy, puerperium and perinatal conditions","Pregnancy, puerperium and perinatal conditions"
+Acne,Acne NOS,Acne,Acnes,Skin appendage conditions,Skin and subcutaneous tissue disorders,Skin and subcutaneous tissue disorders
+Acoustic neuroma,Acoustic neurinoma,Acoustic neuroma,Neuromas,Nervous system neoplasms benign,Nervous system disorders,Nervous system disorders
+Acute hepatitis A,Acute hepatitis A,Hepatitis A,Hepatitis viral infections,Viral infectious disorders,Infections and infestations,Infections and infestations
+Acute pancreatitis,Acute pancreatitis,Pancreatitis acute,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Adipositas,Adipositas,Obesity,General nutritional disorders NEC,Appetite and general nutritional disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Adnexectomy,Adnexectomy,Salpingo-oophorectomy,Fallopian tube therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Alcohol abuse,"Alcohol abuse, unspecified drinking behaviour",Alcohol abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psychiatric disorders,Psychiatric disorders
+Alcoholism,Alcohol addiction,Alcoholism,Substance related and addictive disorders,Psychiatric disorders NEC,Psychiatric disorders,Psychiatric disorders
+Alkaline phosphatase increased,Alkaline phosphatase increased,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Investigations,Investigations
+Allergic asthma,Allergic asthma,Asthma,Allergic conditions NEC,Allergic conditions,Immune system disorders,Immune system disorders
+Allergic reaction to antibiotics,Allergic reaction to antibiotics,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immune system disorders,Immune system disorders
+Allergic rhinitis,Allergic rhinitis,Rhinitis allergic,Atopic disorders,Allergic conditions,Immune system disorders,Immune system disorders
+Allergy,Allergy,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immune system disorders,Immune system disorders
+Allergy to intravenous contras,Allergy to intravenous contrast media,Contrast media allergy,Non-site specific procedural complications,Procedural related injuries and complications NEC,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Amylase increased,Blood amylase increased,Amylase increased,Digestive enzymes,Gastrointestinal investigations,Investigations,Investigations
+Anaemia,Anaemia NOS,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Anemia,Anemia,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Anemia of malignant disease,Anemia of malignant disease,Anaemia of malignant disease,Anaemias due to chronic disorders,Anaemias nonhaemolytic and marrow depression,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Aneurysm cerebral,Aneurysm cerebral,Intracranial aneurysm,Cerebrovascular aneurysms and dissections,Aneurysms and artery dissections,Vascular disorders,Vascular disorders
+Aneurysm of ascending aorta,Aneurysm of ascending aorta,Aortic aneurysm,Aortic aneurysms and dissections,Aneurysms and artery dissections,Vascular disorders,Vascular disorders
+Angina pectoris,Anginal pain,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Ankle edema,Ankle edema,Oedema peripheral,Total fluid volume increased,Electrolyte and fluid balance conditions,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Ankle fracture,Fracture of ankle,Ankle fracture,Limb fractures and dislocations,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Anorexia,Anorexia,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Anterior rectum resection,Anterior rectum resection,Proctectomy,Anorectal therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Anxiety,Apprehension,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psychiatric disorders,Psychiatric disorders
+Anxiodepressive syndrome,Anxiodepressive syndrome,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psychiatric disorders,Psychiatric disorders
+Aortic dilatation,Aortic ectasia,Aortic dilatation,Site specific vascular disorders NEC,Vascular disorders NEC,Vascular disorders,Vascular disorders
+Aortic sclerosis,Aortic sclerosis,Aortic arteriosclerosis,Aortic necrosis and vascular insufficiency,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Aortic stenosis,Aortic stricture,Aortic stenosis,Aortic necrosis and vascular insufficiency,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Appendectomy,Appendectomy,Appendicectomy,Large intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Appendicectomy,Appendectomy,Appendicectomy,Large intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Appendicitis,"Appendicitis, unqualified",Appendicitis,Intestinal infections,Gastrointestinal infections,Gastrointestinal disorders,Gastrointestinal disorders
+Appetite decreased NOS,Appetite decreased NOS,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Appetite lost,Appetite lost,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Arm fracture,Arm fracture,Upper limb fracture,Limb fractures and dislocations,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Arm operation,Arm operation,Limb operation,Limb therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Arrhythmia,Arrhythmia NOS,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Cardiac disorders,Cardiac disorders
+Arterial graft,Arterial graft NOS,Arterial graft,Arterial therapeutic procedures (excl aortic),Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Arterial thrombosis limb,Arterial thrombosis limb,Peripheral artery thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vascular disorders,Vascular disorders
+Arthralgia,Pain joint,Arthralgia,Joint related signs and symptoms,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Arthritis,Arthritis NOS,Arthritis,Arthropathies NEC,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Arthrodesis,Arthrodesis NOS,Arthrodesis,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Arthrosis,Arthrosis,Osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Arthrosis multiple,Arthrosis multiple,Osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Ascites,Peritoneal effusion,Ascites,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Ascites drainage,Ascites drainage,Abdominal cavity drainage,Abdominal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Asthenia,Weakness,Asthenia,Asthenic conditions,General system disorders NEC,General system disorders NEC,General system disorders NEC
+Asthma,"Asthma, unspecified",Asthma,Allergic conditions NEC,Allergic conditions,Immune system disorders,Immune system disorders
+Asthma bronchial,Asthma bronchial,Asthma,Allergic conditions NEC,Allergic conditions,Immune system disorders,Immune system disorders
+Atelectasis,Lobar collapse,Atelectasis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Atherosclerosis,Atherosclerosis,Arteriosclerosis,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Atherosclerosis of aorta,Atherosclerosis of aorta,Aortic arteriosclerosis,Aortic necrosis and vascular insufficiency,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Atherosclerotic cardiovascular disease,Atherosclerotic cardiovascular disease,Arteriosclerosis,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Atrial fibrillation,Fibrillation atrial,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Cardiac disorders,Cardiac disorders
+Atrophic gastritis,Atrophic gastritis,Chronic gastritis,Gastritis (excl infective),Gastrointestinal inflammatory conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Atrophy kidney,Atrophy kidney,Renal atrophy,Renal structural abnormalities and trauma,Renal disorders (excl nephropathies),Renal and urinary disorders,Renal and urinary disorders
+Autoimmune thyroiditis,Hashimoto's disease,Autoimmune thyroiditis,Endocrine autoimmune disorders,Autoimmune disorders,Immune system disorders,Immune system disorders
+BPH,BPH,Benign prostatic hyperplasia,Prostatic neoplasms and hypertrophy,Prostatic disorders (excl infections and inflammations),Reproductive system and breast disorders,Reproductive system and breast disorders
+Back injury,Back injury NOS,Back injury,Site specific injuries NEC,Injuries NEC,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Back pain,Pain back,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Back surgery,Back surgery,Spinal operation,Spine and spinal cord therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surgical and medical procedures,Surgical and medical procedures
+Barrett's esophagus,Barrett's esophagus,Barrett's oesophagus,Gastrointestinal mucosal dystrophies and secretion disorders,Gastrointestinal conditions NEC,Gastrointestinal disorders,Gastrointestinal disorders
+Barrett's oesophagitis,Barrett's oesophagitis,Barrett's oesophagus,Barrett's oesophagus,Gastrointestinal conditions NEC,Gastrointestinal disorders,Gastrointestinal disorders
+Basal cell carcinoma,Carcinoma basal cell,Basal cell carcinoma,Skin neoplasms malignant and unspecified (excl melanoma),Skin neoplasms malignant and unspecified,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Basal cell carcinoma excision,Basal cell carcinoma excision,Skin neoplasm excision,Skin lesion excisions,Skin and subcutaneous tissue therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Benign breast lump removal,Benign breast lump removal,Benign breast lump removal,Breast neoplasm removal,Breast therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Benign colonic polyp,Benign colonic polyp,Large intestine polyp,Lower gastrointestinal neoplasms benign,Gastrointestinal neoplasms benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Benign parotid tumor,Benign parotid tumor,Benign salivary gland neoplasm,Benign oral cavity neoplasms,Benign neoplasms gastrointestinal,Gastrointestinal disorders,Gastrointestinal disorders
+Benign prostatic hyperplasia,BPH,Benign prostatic hyperplasia,Prostatic neoplasms and hypertrophy,Prostatic disorders (excl infections and inflammations),Reproductive system and breast disorders,Reproductive system and breast disorders
+Benign prostatic hypertrophy,Benign prostatic hypertrophy,Benign prostatic hyperplasia,Prostatic neoplasms and hypertrophy,Prostatic disorders (excl infections and inflammations),Reproductive system and breast disorders,Reproductive system and breast disorders
+Benign thyroid nodule,Benign thyroid nodule,Benign neoplasm of thyroid gland,Thyroid neoplasms,Thyroid gland disorders,Endocrine disorders,Endocrine disorders
+Bile duct obstruction,Bile duct obstruction NOS,Bile duct obstruction,Obstructive bile duct disorders (excl neoplasms),Bile duct disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Bile duct stent insertion,Bile duct stent insertion,Bile duct stent insertion,Biliary tract and gallbladder therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Biliary drainage,Gallbladder drainage,Biliary drainage,Biliary tract and gallbladder therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Biliary sphincterotomy,Biliary sphincterotomy,Biliary sphincterotomy,Pancreatic therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Biliary tract disorder NOS,Biliary tract disorder NOS,Biliary tract disorder,Structural and other bile duct disorders,Bile duct disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Billroth's operation I,Billroth's operation I,Gastrectomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Billroth's operation II,Billroth's operation II,Gastrectomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Biopsy pancreas,Fine needle aspiration of pancreas,Biopsy pancreas,Gastrointestinal histopathology procedures,Gastrointestinal investigations,Investigations,Investigations
+Bipolar disorder,"Bipolar affective disorder, unspecified",Bipolar disorder,Bipolar disorders,Manic and bipolar mood disorders and disturbances,Psychiatric disorders,Psychiatric disorders
+Bladder operation,Bladder operation NOS,Bladder operation,Bladder therapeutic procedures,Renal and urinary tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Bladder suspension,Bladder suspension,Urinary bladder suspension,Bladder therapeutic procedures,Renal and urinary tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Bloating,Bloating,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Blood pressure high,Blood pressure high,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vascular disorders,Vascular disorders
+Blood pressure increased,Pressure blood increased,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Investigations,Investigations
+Blood transfusion,Blood transfusion,Transfusion,Blood and blood product treatment,Blood and blood product treatment,Surgical and medical procedures,Surgical and medical procedures
+Bone infection,Bone infection,Osteomyelitis,Bone and joint infections (excl arthritis),Bone disorders (excl congenital and fractures),Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Bone mineral content decreased,Bone mineral content decreased,Bone density decreased,Musculoskeletal and soft tissue imaging procedures,Musculoskeletal and soft tissue investigations (excl enzyme tests),Investigations,Investigations
+Bone operation,Bone operation NOS,Bone operation,Bone therapeutic procedures NEC,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Borrelia infection,Borrelia infection NOS,Borrelia infection,Borrelial infections,Bacterial infectious disorders,Infections and infestations,Infections and infestations
+Bowel obstruction,Bowel obstruction,Intestinal obstruction,Gastrointestinal stenosis and obstruction NEC,Gastrointestinal stenosis and obstruction,Gastrointestinal disorders,Gastrointestinal disorders
+Brachytherapy to prostate,Prostate implant brachytherapy,Brachytherapy to prostate,Prostatic radiotherapies,Male genital tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Breast cancer,Breast cancer NOS,Breast cancer,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Breast cancer stage I,Breast cancer NOS stage I,Breast cancer stage I,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Breast lump (benign),Breast lump (benign),Benign breast neoplasm,Breast and nipple neoplasms benign,Breast neoplasms benign (incl nipple),"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Breast lump removal,Breast lump removal,Breast conserving surgery,Mastectomies,Breast therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Breast operation,Breast operation NOS,Breast operation,Breast therapeutic procedures NEC,Breast therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Bronchiectasis,Bronchiectasis NOS,Bronchiectasis,Bronchial conditions NEC,Bronchial disorders (excl neoplasms),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Bronchitis chronic,Bronchitis chronic NOS,Bronchitis chronic,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Bulbitis of duodenum,Bulbitis of duodenum,Duodenitis,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastrointestinal disorders,Gastrointestinal disorders
+C-section,C-section,Caesarean section,Obstetric therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+COPD,COPD,Chronic obstructive pulmonary disease,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Cachexia,Wasting generalized,Cachexia,Asthenic conditions,General system disorders NEC,General disorders and administration site conditions,General disorders and administration site conditions
+Caesarean section,Cesarean section,Caesarean section,Obstetric therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Calcaneus fracture,Calcaneus fracture,Foot fracture,Limb fractures and dislocations,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Cancer pain,Metastatic pain,Cancer pain,Oncologic complications and emergencies,Neoplasm related morbidities,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Cardiac arrhythmia,Cardiac arrhythmia,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Cardiac disorders,Cardiac disorders
+Carotid arteriosclerosis,Carotid artery atheroma,Carotid arteriosclerosis,Cerebrovascular and spinal necrosis and vascular insufficiency,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Carpal tunnel release,Carpal tunnel release,Carpal tunnel decompression,Peripheral nerve therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surgical and medical procedures,Surgical and medical procedures
+Carpal tunnel syndrome,Unilateral carpal tunnel syndrome,Carpal tunnel syndrome,Mononeuropathies,Peripheral neuropathies,Nervous system disorders,Nervous system disorders
+Cataract,Cataract NOS,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye disorders,Eye disorders
+Cataract extraction,Cataract extraction,Cataract operation,Lens therapeutic procedures,Eye therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Cataract operation,Cataract extraction,Cataract operation,Lens therapeutic procedures,Eye therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Cataracts,Cataracts,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye disorders,Eye disorders
+Cecal polyp,Cecal polyp,Large intestine polyp,Lower gastrointestinal neoplasms benign,Gastrointestinal neoplasms benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Celiac disease,Celiac disease,Coeliac disease,Food malabsorption and intolerance syndromes (excl sugar intolerance),Food intolerance syndromes,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Celiac sprue,Celiac sprue,Coeliac disease,Food malabsorption and intolerance syndromes (excl sugar intolerance),Food intolerance syndromes,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Central line placement,Central line placement,Central venous catheterisation,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Central obesity,Truncal obesity,Central obesity,General nutritional disorders NEC,Appetite and general nutritional disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Central venous catheterization,Central venous catheterization,Central venous catheterisation,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Cerebral atherosclerosis,Cerebral atherosclerosis,Cerebral arteriosclerosis,Cerebrovascular and spinal necrosis and vascular insufficiency,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Cervical spondylosis,Cervical spondylosis,Spinal osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Cervix cautery,Cervical cautery,Cervix cautery,Cervix therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Cesarean section,Cesarean section,Caesarean section,Obstetric therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Chest pain (non-cardiac),Chest pain (non-cardiac),Non-cardiac chest pain,Respiratory signs and symptoms NEC,Respiratory tract signs and symptoms,"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Cholangiogram,Cholangiography,Cholangiogram,Hepatobiliary imaging procedures,Hepatobiliary investigations,Investigations,Investigations
+Cholangitis chronic,Cholangitis chronic NOS,Cholangitis chronic,Bile duct infections and inflammations,Bile duct disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Cholecystectomy,Cholecystectomy,Cholecystectomy,Biliary tract and gallbladder therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Cholecystitis,Cholecystitis NOS,Cholecystitis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Cholecystitis chronic,Cholecystitis chronic NOS,Cholecystitis chronic,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Cholecystolithiasis,Cholecystolithiasis,Cholelithiasis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Cholecystostomy,Cholecystostomy,Cholecystostomy,Biliary tract and gallbladder therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Choledochal cyst,Choledochal cyst,Choledochal cyst,Hepatobiliary abnormalities congenital,Hepatobiliary disorders congenital,"Congenital, familial and genetic disorders","Congenital, familial and genetic disorders"
+Choledochoduodenostomy,Choledochoduodenostomy,Choledochoenterostomy,Biliary tract and gallbladder therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Choledocholithiasis,Choledocholithiasis,Bile duct stone,Obstructive bile duct disorders (excl neoplasms),Bile duct disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Cholelithiasis,Cholelithiasis,Cholelithiasis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Choluria,Biliuria,Choluria,Urinary abnormalities,Urinary tract signs and symptoms,Renal and urinary disorders,Renal and urinary disorders
+Chronic abdominal pain,Chronic abdominal pain,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Chronic back pain,Chronic back pain,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Chronic bronchitis,Chronic bronchitis,Bronchitis chronic,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Chronic cystitis,Chronic cystitis,Cystitis,Bladder infections and inflammations,Bladder and bladder neck disorders (excl calculi),Renal and urinary disorders,Renal and urinary disorders
+Chronic enterocolitis,Chronic enterocolitis,Enterocolitis,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Chronic gastritis,Gastritis chronic,Chronic gastritis,Gastritis (excl infective),Gastrointestinal inflammatory conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Chronic headaches,Chronic headaches,Headache,Headaches NEC,Headaches,Nervous system disorders,Nervous system disorders
+"Chronic ischaemic heart disease, unspecified","Chronic ischaemic heart disease, unspecified",Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Chronic obstructive pulmonary disease,COPD,Chronic obstructive pulmonary disease,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Chronic pancreatitis,Chronic pancreatitis,Pancreatitis chronic,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Chronic prostatitis,Chronic prostatitis,Prostatitis,Prostate and seminal vesicles infections and inflammations,Male reproductive tract infections and inflammations,Reproductive system and breast disorders,Reproductive system and breast disorders
+Chronic pyelonephritis,Chronic pyelonephritis,Pyelonephritis chronic,Renal infections and inflammations (excl nephritis),Renal disorders (excl nephropathies),Renal and urinary disorders,Renal and urinary disorders
+Chronic venous insufficiency,Chronic venous insufficiency,Peripheral venous disease,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Claudication,Claudication,Intermittent claudication,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Clavicle fracture,Fracture of clavicle,Clavicle fracture,Limb fractures and dislocations,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Colectomy,Colectomy NOS,Colectomy,Large intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Colon polypectomy,Colon polypectomy,Large intestinal polypectomy,Large intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Colonic diverticulosis,Colonic diverticulosis,Diverticulum intestinal,Diverticula,Diverticular disorders,Gastrointestinal disorders,Gastrointestinal disorders
+Colonic polyp,Colonic polyp,Large intestine polyp,Lower gastrointestinal neoplasms benign,Gastrointestinal neoplasms benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Concussion,"Concussion, unspecified",Concussion,Cerebral injuries NEC,Injuries NEC,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Confusion,Confusion,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psychiatric disorders,Psychiatric disorders
+Congestive heart failure,Congestive heart failure,Cardiac failure congestive,Heart failures NEC,Heart failures,Cardiac disorders,Cardiac disorders
+Constipation,Absent bowel movement,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Constipation chronic,Constipation chronic,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Coronary artery bypass,Coronary artery bypass graft,Coronary artery bypass,Arterial therapeutic procedures (excl aortic),Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Coronary artery bypass graft,Coronary artery bypass graft,Coronary artery bypass,Arterial therapeutic procedures (excl aortic),Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Coronary artery disease,Coronary artery disease NOS,Coronary artery disease,Coronary artery disorders NEC,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Coronary atherosclerosis,Coronary atherosclerosis,Arteriosclerosis coronary artery,Coronary artery disorders NEC,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Coronary bypass,Coronary bypass,Coronary artery bypass,Arterial therapeutic procedures (excl aortic),Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Coronary heart disease,Coronary heart disease,Coronary artery disease,Coronary artery disorders NEC,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Coronary stent placement,Coronary stent placement,Coronary arterial stent insertion,Arterial therapeutic procedures (excl aortic),Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Cough,Coughing,Cough,Coughing and associated symptoms,Respiratory disorders NEC,"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Coxarthrosis,Coxarthrosis,Osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Cramps,Cramps,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Cyst,Cyst NOS,Cyst,Neoplasms benign site unspecified NEC,Miscellaneous and site unspecified neoplasms benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Cyst of kidney,Cyst of kidney,Renal cyst,Renal neoplasms benign,Renal and urinary tract neoplasms benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Cyst removal,Parasitic cyst removal,Cyst removal,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures,Surgical and medical procedures
+Cystocele repair,Cystocele repair,Cystocele repair,Bladder therapeutic procedures,Renal and urinary tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+D & C,D & C,Uterine dilation and curettage,Uterine therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Deafness,Deafness NOS,Deafness,Hearing losses,Hearing disorders,Ear and labyrinth disorders,Ear and labyrinth disorders
+Decubitus,Decubitus,Decubitus ulcer,Skin injuries and mechanical dermatoses,Epidermal and dermal conditions,Skin and subcutaneous tissue disorders,Skin and subcutaneous tissue disorders
+Deep vein thrombosis,Deep venous thrombosis NOS,Deep vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vascular disorders,Vascular disorders
+Deep vein thrombosis leg,Deep vein thrombosis leg,Deep vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vascular disorders,Vascular disorders
+Degenerative joint disease,Degenerative joint disease,Osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Denture wearer,Denture wearer,Denture wearer,Disability issues,Lifestyle issues,Social circumstances,Social circumstances
+Depressed mood,Mood depression,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psychiatric disorders,Psychiatric disorders
+Depression,Depression NOS,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psychiatric disorders,Psychiatric disorders
+Deviated nasal septum,Deviated nasal septum,Nasal septum deviation,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Diabetes,Diabetes,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Diabetes mellitus,Diabetes mellitus NOS,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Diabetes mellitus non-insulin-dependent,Diabetes mellitus non-insulin-dependent,Type 2 diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Diabetic neuropathy,Diabetes with neurological manifestations,Diabetic neuropathy,Diabetic complications neurological,Diabetic complications,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Diabetic polyneuropathy,Diabetic polyneuropathy,Diabetic neuropathy,Diabetic complications neurological,Diabetic complications,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Diaphragmalgia,Pain in diaphragm,Diaphragmalgia,Respiratory signs and symptoms NEC,Respiratory tract signs and symptoms,"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Diaphragmatic hernia,Diaphragmatic hernia NOS,Diaphragmatic hernia,Diaphragmatic hernias,Abdominal hernias and other abdominal wall conditions,,Gastrointestinal disorders
+Diarrhea,Diarrhea,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Diarrhoea,Diarrhea NOS,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Difficulty in micturition,Difficulty in micturition,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal and urinary disorders,Renal and urinary disorders
+Diverticulitis,Diverticulitis NOS,Diverticulitis,Diverticulum inflammations,Diverticular disorders,Gastrointestinal disorders,Gastrointestinal disorders
+Diverticulosis,Diverticulosis,Diverticulum,Diverticula,Diverticular disorders,Gastrointestinal disorders,Gastrointestinal disorders
+Dizziness,Light headedness,Dizziness,Neurological signs and symptoms NEC,,Neurological disorders NEC,Nervous system disorders
+Dolichocolon,Redundant colon,Dolichocolon,Large intestinal stenosis and obstruction,Gastrointestinal stenosis and obstruction,Gastrointestinal disorders,Gastrointestinal disorders
+Drug intolerance,Drug intolerance NOS,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),General disorders and administration site conditions,General disorders and administration site conditions
+Drug rash,Drug rash,Drug eruption,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin and subcutaneous tissue disorders,Skin and subcutaneous tissue disorders
+Duodenal ulcer,Ulcer duodenal,Duodenal ulcer,Duodenal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastrointestinal disorders,Gastrointestinal disorders
+Dyslipidemia,Dyslipidemia,Dyslipidaemia,Lipid metabolism and deposit disorders NEC,Lipid metabolism disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Dyspepsia,Indigestion,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Dysphagia,Swallowing difficult,Dysphagia,Gastrointestinal signs and symptoms NEC,,Gastrointestinal disorders,Gastrointestinal disorders
+Dyspnea,Dyspnea,Dyspnoea,Dyspnoeas,Cardiac disorder signs and symptoms,Cardiac disorders,Cardiac disorders
+ECG signs of myocardial ischae,ECG signs of myocardial ischemia,ECG signs of myocardial ischaemia,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Investigations,Investigations
+ERCP,ERCP,Endoscopic retrograde cholangiopancreatography,Hepatobiliary imaging procedures,Hepatobiliary investigations,Investigations,Investigations
+Ear injury,Open wound of ear,Ear injury,Ear disorders NEC,Aural disorders NEC,Ear and labyrinth disorders,Ear and labyrinth disorders
+Ectopic pregnancy,Extra-uterine pregnancy,Ectopic pregnancy,Maternal complications of pregnancy NEC,Maternal complications of pregnancy,"Pregnancy, puerperium and perinatal conditions","Pregnancy, puerperium and perinatal conditions"
+Ectopic pregnancy termination,Ectopic pregnancy termination,Ectopic pregnancy termination,Fallopian tube therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Elbow fracture,Elbow fracture,Upper limb fracture,Limb fractures and dislocations,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Electrocardiogram ST segment abnormal,Nonspecific ST segment change,Electrocardiogram ST segment abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Investigations,Investigations
+Elevated liver enzymes,Elevated liver enzymes,Hepatic enzyme increased,Liver function analyses,Hepatobiliary investigations,Investigations,Investigations
+Emphysema,Compensatory emphysema,Emphysema,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Emphysema pulmonary,Emphysema pulmonary,Emphysema,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Endometrial cancer,Endometrial cancer NOS,Endometrial cancer,Uterine neoplasms,"Uterine, pelvic and broad ligament disorders",Reproductive system and breast disorders,Reproductive system and breast disorders
+Endometrial carcinoma,Endometrial carcinoma,Endometrial cancer,Uterine neoplasms,"Uterine, pelvic and broad ligament disorders",Reproductive system and breast disorders,Reproductive system and breast disorders
+Endometrial hyperplasia,Hyperplasia endometrial,Endometrial hyperplasia,Uterine disorders NEC,"Uterine, pelvic and broad ligament disorders",Reproductive system and breast disorders,Reproductive system and breast disorders
+Endometriotic cyst,Endometriotic cyst,Endometriosis,Uterine disorders NEC,"Uterine, pelvic and broad ligament disorders",Reproductive system and breast disorders,Reproductive system and breast disorders
+Enlarged prostate,Enlarged prostate,Prostatomegaly,"Prostatic signs, symptoms and disorders NEC",Prostatic disorders (excl infections and inflammations),Reproductive system and breast disorders,Reproductive system and breast disorders
+Epigastralgia,Epigastralgia,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Epigastric pain,Epigastric pain,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Epistaxis,Haemorrhage nasal,Epistaxis,Haemorrhages NEC,Vascular haemorrhagic disorders,Vascular disorders,Vascular disorders
+Erysipelas,Erysipelas,Erysipelas,Skin and subcutaneous tissue bacterial infections,Skin and subcutaneous tissue infections and infestations,Skin and subcutaneous tissue disorders,Skin and subcutaneous tissue disorders
+Erythrocytosis,Erythrocytosis,Polycythaemia,Polycythaemia (excl rubra vera),Red blood cell disorders,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Esophageal hernia,Esophageal hernia,Hiatus hernia,Diaphragmatic hernias,Abdominal hernias and other abdominal wall conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Esophageal reflux,Esophageal reflux,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Esophageal ulceration,Esophageal ulceration,Oesophageal ulcer,Oesophageal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastrointestinal disorders,Gastrointestinal disorders
+Esophagitis,Esophagitis,Oesophagitis,Oesophagitis (excl infective),Gastrointestinal inflammatory conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Exertional dyspnea,Exertional dyspnea,Dyspnoea exertional,Dyspnoeas,Cardiac disorder signs and symptoms,Cardiac disorders,Cardiac disorders
+Eye operation,Eye operation NOS,Eye operation,Eye therapeutic procedures NEC,Eye therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Facial paresis,Facial weakness,Facial paresis,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nervous system disorders,Nervous system disorders
+Fatigue,Tiredness,Fatigue,Asthenic conditions,General system disorders NEC,General disorders and administration site conditions,General disorders and administration site conditions
+Fatty liver,Fatty liver,Hepatic steatosis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Febrile seizure,Febrile seizure,Febrile convulsion,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nervous system disorders,Nervous system disorders
+Femoral hernia,Femoral hernia NOS,Femoral hernia,Femoral hernias,Abdominal hernias and other abdominal wall conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Fever,Fever,Pyrexia,Febrile disorders,Body temperature conditions,General disorders and administration site conditions,General disorders and administration site conditions
+Fibrocystic disease of breast,Fibrocystic disease of breast,Fibrocystic breast disease,Breast and nipple neoplasms benign,Breast neoplasms benign (incl nipple),"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Fibroma,Fibroma NOS,Fibroma,Neoplasms benign site unspecified NEC,Miscellaneous and site unspecified neoplasms benign,Miscellaneous and site unspecified neoplasms benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Fistula repair,Fistula repair,Fistula repair,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures,Surgical and medical procedures
+Flank pain,Pain flank,Flank pain,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal and urinary disorders,Renal and urinary disorders
+Folliculitis,Scalp folliculitis,Folliculitis,Skin structures and soft tissue infections,Infections - pathogen unspecified,Infections and infestations,Infections and infestations
+Foot operation,Foot operation NOS,Foot operation,Limb therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Foot surgery,Foot surgery,Foot operation,Limb therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Fracture of ankle,Fracture of ankle,Ankle fracture,Limb fractures and dislocations,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Fractured wrist,Fractured wrist,Wrist fracture,Limb fractures and dislocations,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Frontal headache,Frontal headache,Headache,Headaches NEC,Headaches,Nervous system disorders,Nervous system disorders
+Fusion cervical spine,Fusion cervical spine,Spinal fusion surgery,Spine and spinal cord therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surgical and medical procedures,Surgical and medical procedures
+GERD,GERD,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+GI bleed,GI bleed,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastrointestinal disorders,Gastrointestinal disorders
+Gallbladder stones,Gallbladder stones,Cholelithiasis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Gallstones,Gallstones,Cholelithiasis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Gastric bypass,Gastric bypass NOS,Gastric bypass,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Gastric disorder,Gastric function disorder NOS,Gastric disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastrointestinal disorders,Gastrointestinal disorders
+Gastric polyps,Gastric gland polyp,Gastric polyps,Benign neoplasms gastrointestinal (excl oral cavity),Benign neoplasms gastrointestinal,Gastrointestinal disorders,Gastrointestinal disorders
+Gastric resection,Gastric resection,Gastrectomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Gastric ulcer,Ulcer gastric,Gastric ulcer,Gastric ulcers and perforation,Gastrointestinal ulceration and perforation,Gastrointestinal disorders,Gastrointestinal disorders
+Gastritis,Gastritis NOS,Gastritis,Gastritis (excl infective),Gastrointestinal inflammatory conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Gastritis erosive,Gastric erosions,Gastritis erosive,Gastric ulcers and perforation,Gastrointestinal ulceration and perforation,Gastrointestinal disorders,Gastrointestinal disorders
+Gastro-enterostomy,Gastroduodenostomy,Gastroenterostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Gastrocardiac syndrome,Roemheld syndrome,Gastrocardiac syndrome,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Gastroduodenal ulcer,Ulcer gastroduodenal,Gastroduodenal ulcer,Duodenal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastrointestinal disorders,Gastrointestinal disorders
+Gastroduodenitis,Gastroduodenitis,Gastroduodenitis,Gastritis (excl infective),Gastrointestinal inflammatory conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Gastroesophageal reflux,Gastroesophageal reflux,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,,Gastrointestinal disorders,Gastrointestinal disorders
+Gastroesophageal reflux disease,Gastroesophageal reflux disease,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Gastrointestinal discomfort,Gastrointestinal discomfort,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Gastrointestinal haemorrhage,Gastrointestinal haemorrhage NOS,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastrointestinal disorders,Gastrointestinal disorders
+Gastrointestinal tube insertion,Feeding tube insertion,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Gastrooesophageal reflux,Gastrooesophageal reflux,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Gastrooesophageal reflux disea,Gastroesophageal reflux disease,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Gastroparesis,Gastroparesis,Impaired gastric emptying,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Gastroscopy,Gastroscopy,Endoscopy upper gastrointestinal tract,Gastrointestinal and abdominal imaging procedures,Gastrointestinal investigations,Investigations,Investigations
+General body pain,General body pain,Pain,Pain and discomfort NEC,General system disorders NEC,General disorders and administration site conditions,General disorders and administration site conditions
+Genital prolapse,Genital prolapse NOS,Genital prolapse,Pelvic prolapse conditions,"Uterine, pelvic and broad ligament disorders",Reproductive system and breast disorders,Reproductive system and breast disorders
+Glandular fever,Glandular fever,Infectious mononucleosis,Epstein-Barr viral infections,Viral infectious disorders,Infections and infestations,Infections and infestations
+Glaucoma,Glaucoma NOS,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye disorders,Eye disorders
+Goiter nodular,Goiter nodular,Goitre,Thyroid disorders NEC,Thyroid gland disorders,Endocrine disorders,Endocrine disorders
+Gonarthrosis,Gonarthrosis,Osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Gout,Gout acute,Gout,Crystal arthropathic disorders,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Groin pain,Pain groin,Groin pain,Soft tissue disorders NEC,Musculoskeletal and connective tissue disorders NEC,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Gun shot wound,Gun shot wound,Gun shot wound,Non-site specific injuries NEC,Injuries NEC,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Headache,Headache NOS,Headache,Headaches NEC,Headaches,Nervous system disorders,Nervous system disorders
+Hearing loss,Hearing loss,Deafness,Hearing losses,Hearing disorders,Ear and labyrinth disorders,Ear and labyrinth disorders
+Hearing loss bilateral,Hearing loss bilateral,Deafness bilateral,Hearing losses,Hearing disorders,Ear and labyrinth disorders,Ear and labyrinth disorders
+Heartburn,Heartburn,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Helicobacter pylori gastritis,Helicobacter pylori gastritis,Helicobacter gastritis,Helicobacter infections,Bacterial infectious disorders,Infections and infestations,Infections and infestations
+Helicobacter pylori infection,Helicobacter pylori infection,Helicobacter infection,Helicobacter infections,Bacterial infectious disorders,Infections and infestations,Infections and infestations
+Hemangioma of liver,Hemangioma of liver,Haemangioma of liver,Hepatobiliary neoplasms benign,Hepatic and biliary neoplasms benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Hematoma evacuation,Hematoma evacuation,Haematoma evacuation,Vascular therapeutic procedures NEC,Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Hematuria,Hematuria,Haematuria,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Reproductive system and breast disorders,Reproductive system and breast disorders
+Hemithyroidectomy,Hemithyroidectomy,Thyroidectomy,Thyroid therapeutic procedures,Endocrine gland therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Hemorrhagic anemia,Hemorrhagic anemia,Haemorrhagic anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Hemorrhoidectomy,Hemorrhoidectomy,Haemorrhoid operation,Anorectal therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Hemorrhoids,Hemorrhoids,Haemorrhoids,Gastrointestinal varicosities and haemorrhoids,Venous varices,Vascular disorders,Vascular disorders
+Hepatectomy,Hepatectomy NOS,Hepatectomy,Hepatic therapeutic procedures,Hepatobiliary therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Hepatic cirrhosis,Hepatic cirrhosis NOS,Hepatic cirrhosis,Hepatic fibrosis and cirrhosis,Hepatic and hepatobiliary disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Hepatic cyst,Hepatic cyst NOS,Hepatic cyst,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Hepatic steatosis,Steatosis hepatic,Hepatic steatosis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Hepatitis,Hepatitis NOS,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Hepatitis A,Viral hepatitis A,Hepatitis A,Hepatitis viral infections,Viral infectious disorders,Infections and infestations,Infections and infestations
+Hepatitis B,Viral hepatitis B,Hepatitis B,Hepatitis viral infections,Viral infectious disorders,Infections and infestations,Infections and infestations
+Hepatitis C,Viral hepatitis C,Hepatitis C,Hepatitis viral infections,Viral infectious disorders,Infections and infestations,Infections and infestations
+Hepatomegaly,Liver enlargement,Hepatomegaly,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Hereditary hemochromatosis,Hereditary hemochromatosis,Hereditary haemochromatosis,Hepatobiliary abnormalities congenital,Hepatobiliary disorders congenital,"Congenital, familial and genetic disorders","Congenital, familial and genetic disorders"
+Hernia hiatal,Hernia hiatal,Hiatus hernia,Diaphragmatic hernias,Abdominal hernias and other abdominal wall conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Hernia repair,Hernia repair NOS,Hernia repair,Hernia repairs,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Herniated disc,Herniated disc,Intervertebral disc protrusion,Intervertebral disc disorders NEC,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Hiatal hernia,Hiatal hernia,Hiatus hernia,Diaphragmatic hernias,Abdominal hernias and other abdominal wall conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Hiatus hernia,Hiatal hernia,Hiatus hernia,Diaphragmatic hernias,Abdominal hernias and other abdominal wall conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Hip prosthesis insertion,Hip prosthesis insertion,Hip arthroplasty,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Hip replacement,Hip replacement,Hip arthroplasty,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Hip surgery,Hip operation NOS,Hip surgery,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Hoarseness,Hoarseness,Dysphonia,Speech articulation and rhythm disturbances,Communication disorders and disturbances,Psychiatric disorders,Psychiatric disorders
+Hodgkin's disease,Hodgkin's disease NOS,Hodgkin's disease,Hodgkin's disease NEC,Lymphomas Hodgkin's disease,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Horseshoe kidney,Horseshoe kidney,Renal fusion anomaly,Renal disorders congenital,Renal and urinary tract disorders congenital,"Congenital, familial and genetic disorders","Congenital, familial and genetic disorders"
+Hot flushes,Hot flushes,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vascular disorders,Vascular disorders
+Hydrocele,"Hydrocele, unspecified",Hydrocele,Scrotal disorders NEC,Penile and scrotal disorders (excl infections and inflammations),Reproductive system and breast disorders,Reproductive system and breast disorders
+Hydronephrosis,Bilateral hydronephrosis,Hydronephrosis,Renal obstructive disorders,Renal disorders (excl nephropathies),Renal and urinary disorders,Renal and urinary disorders
+Hypercalcaemia,Hypercalcemia,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Hypercalcemia,Hypercalcemia,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Hypercholesterolemia,Hypercholesterolemia,Hypercholesterolaemia,Elevated cholesterol,Lipid metabolism disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Hyperlipidemia,Hyperlipidemia,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Hyperlipoproteinemia,Hyperlipoproteinemia,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Hyperplasia adrenal,Hyperplasia adrenal,Hyperadrenalism,Metabolic disorders NEC,Metabolism disorders NEC,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Hyperplasia of prostate,Hyperplasia of prostate,Benign prostatic hyperplasia,Prostatic neoplasms and hypertrophy,Prostatic disorders (excl infections and inflammations),Reproductive system and breast disorders,Reproductive system and breast disorders
+Hypertension,Hypertension NOS,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vascular disorders,Vascular disorders
+Hypertension arterial,Hypertension arterial,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vascular disorders,Vascular disorders
+Hypertonia,Hypertonicity,Hypertonia,Muscle tone abnormalities,Muscle disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Hyperuricaemia,Hyperuricemia,Hyperuricaemia,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Hypoacusis,Hearing reduced,Hypoacusis,Hearing losses,Hearing disorders,Ear and labyrinth disorders,Ear and labyrinth disorders
+Hypochromic anemia,Hypochromic anemia,Hypochromic anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Hypokalemia,Hypokalemia,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Hyponatraemia,Hyponatremia,Hyponatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Hypothyroidism,Unspecified hypothyroidism,Hypothyroidism,Thyroid hypofunction disorders,Thyroid gland disorders,Endocrine disorders,Endocrine disorders
+Hysterectomy,Hysterectomy NOS,Hysterectomy,Uterine therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Hysterosalpingo-oophorectomy,Total abdominal hysterectomy with bilateral salpingo-oophorectomy,Hysterosalpingo-oophorectomy,Obstetric and gynaecological therapeutic procedures,,Surgical and medical procedures,Surgical and medical procedures
+Icterus,Icterus,Jaundice,Haemolyses NEC,Haemolyses and related conditions,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Idiopathic urticaria,Urticaria idiopathic,Idiopathic urticaria,Urticarias,Allergic conditions,Immune system disorders,Immune system disorders
+Ileostomy,Ileostomy NOS,Ileostomy,Small intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Iliac artery aneurysm,Iliac artery aneurysm,Peripheral artery aneurysm,Peripheral aneurysms and dissections,Aneurysms and artery dissections,Vascular disorders,Vascular disorders
+Inappetence,Inappetence,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Inappropriate ADH secretion,Inappropriate ADH secretion,Inappropriate antidiuretic hormone secretion,Posterior pituitary disorders,Hypothalamus and pituitary gland disorders,Endocrine disorders,Endocrine disorders
+Incision site infection,Incision site infection,Postoperative wound infection,Infections NEC,Infections - pathogen unspecified,Infections and infestations,Infections and infestations
+Incisional hernia repair,Incisional herniorrhaphy,Incisional hernia repair,Hernia repairs,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Indigestion,Indigestion,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Inguinal hernia,Inguinal hernia NOS,Inguinal hernia,Inguinal hernias,Abdominal hernias and other abdominal wall conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Inguinal hernia repair,Inguinal herniorrhaphy,Inguinal hernia repair,Hernia repairs,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Insomnia,Insomnia NOS,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psychiatric disorders,Psychiatric disorders
+Intervertebral disc degenerati,Intervertebral disc degeneration NOS,Intervertebral disc disorder,Intervertebral disc disorders NEC,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Intervertebral disc herniation,Intervertebral disc herniation,Intervertebral disc protrusion,Intervertebral disc disorders NEC,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Intervertebral disc operation,Surgery herniated nucleus pulposus,Intervertebral disc operation,Spine and spinal cord therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surgical and medical procedures,Surgical and medical procedures
+Intestinal movement disorder,Intestinal movement disorder,Gastrointestinal motility disorder,Gastrointestinal dyskinetic disorders,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Iodine allergy,Iodine allergy,Iodine allergy,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immune system disorders,Immune system disorders
+Irritable bowel syndrome,Irritable colon syndrome,Irritable bowel syndrome,Gastrointestinal spastic and hypermotility disorders,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Ischaemia coronary artery origin,Ischaemia coronary artery origin,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Ischaemic heart disease,Ischaemic heart disease,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Ischemic heart disease,Ischemic heart disease,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Jaundice,Jaundice NOS,Jaundice,Haemolyses NEC,Haemolyses and related conditions,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Joint pain,Joint pain,Arthralgia,Joint related signs and symptoms,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Keratotomy,Keratotomy,Keratotomy,Corneal and scleral therapeutic procedures,Eye therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Kidney malformation,Congenital renal anomaly NOS,Kidney malformation,Renal disorders congenital,Renal and urinary tract disorders congenital,"Congenital, familial and genetic disorders","Congenital, familial and genetic disorders"
+Kidney stone,Kidney stone,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal and urinary disorders,Renal and urinary disorders
+Kidney stones,Kidney stones,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal and urinary disorders,Renal and urinary disorders
+Knee injury,Knee injury,Joint injury,Joint related disorders NEC,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Knee ligament repair,Knee ligament repair,Ligament operation,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Knee operation,Knee surgery NOS,Knee operation,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Knee prosthesis insertion,Knee prosthesis insertion,Knee arthroplasty,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Laceration of arm,Laceration of arm,Laceration,Skin injuries NEC,Injuries NEC,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Lactose intolerance,Lactose intolerant,Lactose intolerance,Sugar intolerance (excl glucose intolerance),Food intolerance syndromes,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Laparotomy,Staging laparotomy,Laparotomy,Abdominal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Left bundle branch block,Left bundle branch block,Bundle branch block left,Cardiac conduction disorders,Cardiac arrhythmias,Cardiac disorders,Cardiac disorders
+Leg fracture,Leg fracture,Lower limb fracture,Limb fractures and dislocations,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Leiomyoma,Leiomyoma NOS,Leiomyoma,Musculoskeletal and connective tissue neoplasms NEC,Musculoskeletal and connective tissue neoplasms,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Leiomyosarcoma,Leiomyosarcoma NOS,Leiomyosarcoma,Leiomyosarcomas,Soft tissue neoplasms malignant and unspecified,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Lens implant,Lens implant,Intraocular lens implant,Lens therapeutic procedures,Eye therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Leukocytosis,Leucocytosis NOS,Leukocytosis,Acute febrile neutrophilic dermatosis,White blood cell disorders,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Lipoma excision,Lipoma buttock excision,Lipoma excision,Soft tissue therapeutic procedures NEC,Soft tissue therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Liver biopsy,Liver biopsy,Biopsy liver,Hepatobiliary histopathology procedures,Hepatobiliary investigations,Investigations,Investigations
+Loss of weight,Loss of weight,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Investigations,Investigations
+Low back pain,Low back pain,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Lumbar laminectomy,Lumbar laminectomy,Spinal laminectomy,Spine and spinal cord therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surgical and medical procedures,Surgical and medical procedures
+Lumbar pain,Lumbar pain,Atelectasis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Lumbar spondylosis,Lumbar spondylosis,Spinal osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Lung fibrosis,Lung fibrosis,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Lung lobectomy,Video-assisted thoracoscopic lung lobectomy,Lung lobectomy,Bronchial and pulmonary therapeutic procedures,Respiratory tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Lymphedema,Lymphedema,Lymphoedema,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Macrocytosis,Macrocytosis (excl anaemia),Macrocytosis,Red blood cell abnormal findings NEC,Red blood cell disorders,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Major depression,Major depressive disorder NOS,Major depression,Depressive disorders,Depressed mood disorders and disturbances,Psychiatric disorders,Psychiatric disorders
+Malignant ascites,Malignant peritoneal effusion,Malignant ascites,Oncologic complications and emergencies,Neoplasm related morbidities,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Malignant tumor excision,Malignant tumor excision,Cancer surgery,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures,Surgical and medical procedures
+Mastectomy,Mastectomy NOS,Mastectomy,Mastectomies,Breast therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Mastopathy,Mastopathy,Breast disorder,Breast disorders NEC,Breast disorders,Reproductive system and breast disorders,Reproductive system and breast disorders
+Meniere's disease,"Meniere's disease, unspecified",Meniere's disease,Inner ear disorders NEC,Inner ear and VIIIth cranial nerve disorders,Ear and labyrinth disorders,Ear and labyrinth disorders
+Meniscus operation,Meniscus operation,Meniscus operation,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Migraine,Migraine NOS,Migraine,Headaches,Migraine headaches,Nervous system disorders,Nervous system disorders
+Migraine headache,Migraine headache,Migraine,Migraine headaches,Headaches,Nervous system disorders,Nervous system disorders
+Mitral valve prolapse,Mitral valve prolapse,Mitral leaflet prolapse,Mitral valvular disorders,Cardiac valve disorders,Cardiac disorders,Cardiac disorders
+Mitral valve replacement,Mitral valve replacement,Mitral valve replacement,Cardiac therapeutic procedures,Cardiac valve therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Morton's neuroma,Morton's neuroma,Morton's neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nervous system disorders,Nervous system disorders
+Multiple fractures,Fracture multiple,Multiple fractures,Fractures and dislocations NEC,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Multiple sclerosis,Sclerosis multiple,Multiple sclerosis,Nervous system autoimmune disorders,Autoimmune disorders NEC,Immune system disorders,Immune system disorders
+Muscle fatigue,Muscle fatigue,Muscle fatigue,Muscle related signs and symptoms NEC,Muscle disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Musculoskeletal pain,Arthromyalgia,Musculoskeletal pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Myocardial fibrosis,Fibrosis myocardial,Myocardial fibrosis,Myocardial disorders NEC,Myocardial disorders,Cardiac disorders,Cardiac disorders
+Myocardial infarction,Infarct myocardial,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Myocardial ischemia,Myocardial ischemia,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Myocarditis,Myocarditis NOS,Myocarditis,Noninfectious myocarditis,Myocardial disorders,Cardiac disorders,Cardiac disorders
+Myotonia congenital,Myotonia congenital,Myotonia congenita,Hereditary muscle disorders,Congenital and peripartum neurological conditions,Nervous system disorders,Nervous system disorders
+Nasal operation,Nasal operation NOS,Nasal operation,Nasal therapeutic procedures,Head and neck therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Nasal polyps,Polyps nasal,Nasal polyps,Nasal and paranasal sinus neoplasms benign,Respiratory and mediastinal neoplasms benign (excl mesotheliomas),"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Nausea,Nauseous,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Neck pain,Pain neck,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Neck stiffness,Neck stiffness,Musculoskeletal stiffness,Musculoskeletal and connective tissue signs and symptoms NEC,Musculoskeletal and connective tissue disorders NEC,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Needle biopsy NOS,Needle biopsy NOS,Diagnostic aspiration,Histopathology procedures NEC,"Investigations, imaging and histopathology procedures NEC",Investigations,Investigations
+Nephrectomy,Radical nephrectomy,Nephrectomy,Renal therapeutic procedures,Renal and urinary tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Nephrolithiasis,Kidney stones,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal and urinary disorders,Renal and urinary disorders
+Nervousness,Nervous,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psychiatric disorders,Psychiatric disorders
+Neuropathy peripheral,Peripheral neuropathy NOS,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nervous system disorders,Nervous system disorders
+Night sweats,Nocturnal perspiration,Night sweats,General signs and symptoms NEC,General system disorders NEC,General disorders and administration site conditions,General disorders and administration site conditions
+Nocturia,Nocturnal urinary frequency,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal and urinary disorders,Renal and urinary disorders
+Non-alcoholic steatohepatitis,Non-alcoholic steatohepatitis,Non-alcoholic steatohepatitis,Hepatocellular damage and hepatitis NEC,Cholestasis and jaundice,Hepatobiliary disorders,Hepatobiliary disorders
+Nycturia,Nycturia,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal and urinary disorders,Renal and urinary disorders
+Obesity,"Obesity, unspecified",Obesity,General nutritional disorders NEC,Appetite and general nutritional disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Obstipation,Obstipation,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Obstructive chronic bronchitis,Obstructive chronic bronchitis,Bronchitis chronic,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Obstructive jaundice,Obstructive jaundice,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Oesophagitis,Oesophagitis NOS,Oesophagitis,Oesophagitis (excl infective),Gastrointestinal inflammatory conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Onychomycosis,Nail fungal infection NOS,Onychomycosis,Fungal infections NEC,Fungal infectious disorders,Infections and infestations,Infections and infestations
+Oophorectomy,Oophorectomy NOS,Oophorectomy,Ovarian therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Open reduction of fracture with internal fixation,Open reduction of fracture with internal fixation,,Open reduction of fracture,Fracture treatments (excl skull and spine),Bone and joint therapeutic procedures,Surgical and medical procedures
+Oral candidiasis,Candidiasis of mouth,Oral candidiasis,Oral soft tissue infections,Oral soft tissue conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Orchidopexy,Orchidopexy,Orchiopexy,Testicular and scrotal therapeutic procedures,Male genital tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Osteoarthritis,Osteoarthrosis,Osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Osteoarthritis of lumbar spine,Osteoarthritis of lumbar spine,Spinal osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Osteochondrosis,Osteochondral defects,Osteochondrosis,Cartilage disorders,"Tendon, ligament and cartilage disorders",Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Osteopenia,Osteopenia periarticular,Osteopenia,Metabolic bone disorders,Bone disorders (excl congenital and fractures),Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Osteoporosis,Osteoporosis NOS,Osteoporosis,Metabolic bone disorders,Bone disorders (excl congenital and fractures),Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Otalgia,Otalgia,Ear pain,Ear disorders NEC,Aural disorders NEC,Ear and labyrinth disorders,Ear and labyrinth disorders
+Other disorders of intestine,Other disorders of intestine,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastrointestinal disorders,Gastrointestinal disorders
+Ovarian cyst,Ovarian cyst NOS,Ovarian cyst,Ovarian and fallopian tube cysts and neoplasms,Ovarian and fallopian tube disorders,Reproductive system and breast disorders,Reproductive system and breast disorders
+Ovarian cystectomy,Ovarian cystectomy,Ovarian cystectomy,Ovarian therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Ovarian prolapse,Ovarian prolapse,Ovarian prolapse,Ovarian and fallopian tube disorders NEC,Ovarian and fallopian tube disorders,Reproductive system and breast disorders,Reproductive system and breast disorders
+Ovariectomy,Ovariectomy,Oophorectomy,Ovarian therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+PSA increased,PSA increased,Prostatic specific antigen increased,Cell marker analyses,Cytogenetic investigations,Investigations,Investigations
+Pain,Pain NOS,Pain,Pain and discomfort NEC,General system disorders NEC,General disorders and administration site conditions,General disorders and administration site conditions
+Pain in hip,Pain in hip,Arthralgia,Joint related signs and symptoms,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Painful respiration,Inspiratory pain,Painful respiration,Respiratory signs and symptoms NEC,Respiratory tract signs and symptoms,"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Palatal operation,Palatal operation,Palatal operation,Palatal therapeutic procedures,Head and neck therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Pancreatitis,Pancreatitis NOS,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Panic attack,Panic attack,Panic attacks,Panic attacks and disorders,Anxiety disorders and symptoms,Psychiatric disorders,Psychiatric disorders
+Panic attacks,Panic attacks,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psychiatric disorders,Psychiatric disorders
+Parathyroid adenoma,Parathyroid adenoma,Parathyroid tumour benign,Endocrine neoplasms benign NEC,Endocrine neoplasms benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Parathyroidectomy,Parathyroid gland excision,Parathyroidectomy,Parathyroid gland therapeutic procedures,Endocrine gland therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Paresthesia foot,Paresthesia foot,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nervous system disorders,Nervous system disorders
+Paroxysmal supraventricular tachycardia,Paroxysmal supraventricular tachycardia,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Cardiac disorders,Cardiac disorders
+Partial lung lobectomy,Partial lung lobectomy,Pulmonary resection,Bronchial and pulmonary therapeutic procedures,Respiratory tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Partial mastectomy,Partial mastectomy,Breast conserving surgery,Mastectomies,Breast therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Patellar tendinitis,Patellar tendinitis,Tendonitis,"Muscle, tendon and ligament injuries",Injuries NEC,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Pedal edema,Pedal edema,Oedema peripheral,Total fluid volume increased,Electrolyte and fluid balance conditions,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Penicillin allergy,Penicillin allergy,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immune system disorders,Immune system disorders
+Peptic ulcer,Ulcer peptic,Peptic ulcer,Peptic ulcers and perforation,Gastrointestinal ulceration and perforation,Gastrointestinal disorders,Gastrointestinal disorders
+Peptic ulcer disease,Peptic ulcer disease,Peptic ulcer,Peptic ulcers and perforation,Gastrointestinal ulceration and perforation,Gastrointestinal disorders,Gastrointestinal disorders
+Percutaneous transluminal coro,Percutaneous transluminal coronary angioplasty,Coronary angioplasty,Arterial therapeutic procedures (excl aortic),Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Pericardial effusion,Effusion pericardial,Pericardial effusion,Pericardial disorders NEC,Pericardial disorders,Cardiac disorders,Cardiac disorders
+Periodontitis,Periodontosis,Periodontitis,Dental and oral soft tissue infections,Infections - pathogen unspecified,Infections and infestations,Infections and infestations
+Peripheral arterial occlusive,Peripheral arterial disease,Peripheral arterial occlusive disease,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Peripheral edema,Peripheral oedema,Oedema peripheral,Total fluid volume increased,Electrolyte and fluid balance conditions,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Peripheral sensory neuropathy,Sensory peripheral neuropathy,Peripheral sensory neuropathy,Peripheral neuropathies NEC,Peripheral neuropathies,Nervous system disorders,Nervous system disorders
+Peritoneal metastases,Peritoneal metastases,Metastases to peritoneum,Malignant miscellaneous gastrointestinal neoplasms,Malignant and unspecified neoplasms gastrointestinal NEC,Gastrointestinal disorders,Gastrointestinal disorders
+Piles,Piles,Haemorrhoids,Gastrointestinal varicosities and haemorrhoids,Venous varices,Vascular disorders,Vascular disorders
+Pilonidal cyst excision,Pilonidal cyst excision,Pilonidal sinus repair,Skin and subcutaneous tissue therapeutic procedures NEC,Skin and subcutaneous tissue therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Plantar fasciitis,Fasciitis plantar,Plantar fasciitis,Musculoskeletal and connective tissue infections and inflammations NEC,Musculoskeletal and connective tissue disorders NEC,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Pleural effusion,Effusion pleural,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Pleurisy,Pleurisy (excl TB),Pleurisy,Pleural infections and inflammations,Pleural disorders,"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Pleuritis,Pleuritis,Pleurisy,Pleural infections and inflammations,Pleural disorders,"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Pneumobilia,Pneumobilia,Pneumobilia,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Pneumonia,Pneumonia NOS,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infections and infestations,Infections and infestations
+Podagra,Podagra,Gout,Crystal arthropathic disorders,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Polyarthralgia,Polyarthralgia,Arthralgia,Joint related signs and symptoms,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+"Polycystic kidney, autosomal dominant","Polycystic kidney, autosomal dominant",Congenital cystic kidney disease,Renal disorders congenital,Renal and urinary tract disorders congenital,"Congenital, familial and genetic disorders","Congenital, familial and genetic disorders"
+Poor dental condition,Poor dental condition,Poor dental condition,Dental disorders NEC,Dental and gingival conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Portal hypertension,Hypertension portal,Portal hypertension,Portal hypertensions,Vascular hypertensive disorders,Vascular disorders,Vascular disorders
+Post procedural hypothyroidism,Hypothyroidism postoperative,Post procedural hypothyroidism,Thyroid hypofunction disorders,Thyroid gland disorders,Endocrine disorders,Endocrine disorders
+Post procedural pain,Post procedural pain,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Prolapse repair,Prolapse repair NOS,Prolapse repair,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures,Surgical and medical procedures
+Prolapsed disc repair,Prolapsed disc repair,Intervertebral disc operation,Spine and spinal cord therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surgical and medical procedures,Surgical and medical procedures
+Prolapsed lumbar disc,Prolapsed lumbar disc,Intervertebral disc protrusion,Intervertebral disc disorders NEC,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Prostate adenoma,Prostate adenoma,Prostatic adenoma,Prostatic neoplasms benign,Reproductive neoplasms male benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Prostate cancer,Prostate cancer NOS,Prostate cancer,Prostatic neoplasms and hypertrophy,Prostatic disorders (excl infections and inflammations),Reproductive system and breast disorders,Reproductive system and breast disorders
+Prostate carcinoma,Prostate carcinoma,Prostate cancer,Prostatic neoplasms and hypertrophy,Prostatic disorders (excl infections and inflammations),Reproductive system and breast disorders,Reproductive system and breast disorders
+Prostate transurethral resection,Prostate transurethral resection,Transurethral prostatectomy,Prostatic therapeutic procedures,Male genital tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Prostatic adenoma,Prostatic adenoma,Prostate adenoma,Prostatic neoplasms benign,Reproductive neoplasms male benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Prostatic hyperplasia,Prostatic hyperplasia,Benign prostatic hyperplasia,Prostatic neoplasms and hypertrophy,Prostatic disorders (excl infections and inflammations),Reproductive system and breast disorders,Reproductive system and breast disorders
+Prostatic hypertrophy,Prostatic hypertrophy,Benign prostatic hyperplasia,Prostatic neoplasms and hypertrophy,Prostatic disorders (excl infections and inflammations),Reproductive system and breast disorders,Reproductive system and breast disorders
+Prostatitis,"Prostatitis, unspecified",Prostatitis,Prostate and seminal vesicles infections and inflammations,Male reproductive tract infections and inflammations,Reproductive system and breast disorders,Reproductive system and breast disorders
+Pruritus,Pruritus NOS,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin and subcutaneous tissue disorders,Skin and subcutaneous tissue disorders
+Pseudothrombocytopenia,Pseudothrombocytopenia,False positive investigation result,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Investigations,Investigations
+Psoriasis,Psoriasis flare-up,Psoriasis,Immune and associated conditions NEC,Immune disorders NEC,Immune system disorders,Immune system disorders
+Pulmonary embolism,Embolism pulmonary,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Pulmonary granulomatosis,Pulmonary granulomatosis,Pulmonary granuloma,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Pulmonary sclerosis,Pulmonary sclerosis,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Pulmonary tuberculosis,Pulmonary TB,,Pulmonary tuberculosis,Bacterial lower respiratory tract infections,Respiratory tract infections,
+Pyrosis,Pyrosis,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Quadriplegia,"Quadriplegia, unspecified",Quadriplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nervous system disorders,Nervous system disorders
+RUQ pain,RUQ pain,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Radical prostatectomy,Prostatovesiculectomy,Radical prostatectomy,Prostatic therapeutic procedures,Male genital tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Radiotherapy,Radiotherapy NOS,Radiotherapy,Radiotherapies site unspecified,Therapeutic procedures and supportive care NEC,Surgical and medical procedures,Surgical and medical procedures
+Radiotherapy to breast,Radiotherapy to breast NOS,Radiotherapy to breast,Breast radiotherapies,Breast therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Radiotherapy to joint,Radiotherapy to joint,Radiotherapy to joint,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Radius fracture,Fractured radial head,Radius fracture,Limb fractures and dislocations,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Reactive depression,Reactive depression,Adjustment disorder with depressed mood,Adjustment disorders,Adjustment disorders (incl subtypes),Psychiatric disorders,Psychiatric disorders
+Rectal adenocarcinoma,Rectal adenocarcinoma stage unspecified,Rectal adenocarcinoma,Colorectal neoplasms malignant,Gastrointestinal neoplasms malignant and unspecified,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Rectal fistula repair,Rectal fistula repair,Rectal fistula repair,Anorectal therapeutic procedures,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Rectal tenesmus,Ineffective straining at stool,Rectal tenesmus,Muscle related signs and symptoms NEC,Muscle disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Recurrent urinary tract infection,Recurrent urinary tract infection,Urinary tract infection,Genitourinary tract infections and inflammations NEC,Genitourinary tract disorders NEC,Renal and urinary disorders,Renal and urinary disorders
+Renal calculi,Renal calculi,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal and urinary disorders,Renal and urinary disorders
+Renal calculus,Renal calculus,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal and urinary disorders,Renal and urinary disorders
+Renal cell carcinoma,Renal cell carcinoma NOS,Renal cell carcinoma,Renal neoplasms malignant,Renal and urinary tract neoplasms malignant and unspecified,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Renal colic,Colic renal,Renal colic,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal and urinary disorders,Renal and urinary disorders
+Renal cyst,Renal cyst NOS,Renal cyst,Renal neoplasms benign,Renal and urinary tract neoplasms benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Renal surgery,Kidney operation NOS,Renal surgery,Renal therapeutic procedures,Renal and urinary tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Respiratory failure,Failure respiratory,Respiratory failure,Respiratory acidoses,Acid-base disorders,Metabolism and nutrition disorders,Metabolism and nutrition disorders
+Retinopathy,Retinopathy NOS,Retinopathy,Ocular vascular disorders NEC,Vascular disorders NEC,Vascular disorders,Vascular disorders
+Rheumatic fever,Acute rheumatism,Rheumatic fever,Immune and associated conditions NEC,Immune disorders NEC,Immune system disorders,Immune system disorders
+Rheumatics,Rheumatics,Rheumatic disorder,Immune and associated conditions NEC,Immune disorders NEC,Immune system disorders,Immune system disorders
+Rheumatoid arthritis,Arthritis rheumatoid,Rheumatoid arthritis,Rheumatoid arthritis and associated conditions,Autoimmune disorders,Immune system disorders,Immune system disorders
+Right upper quadrant pain,Right upper quadrant pain,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Rotator cuff injury,Rotator cuff injury,Rotator cuff syndrome,Joint related disorders NEC,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Saphenectomy,Saphenectomy,Phlebectomy,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Sarcoma,Sarcoma NOS,Sarcoma,Malignant musculoskeletal and connective tissue neoplasms,Musculoskeletal and connective tissue neoplasms,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Scar pain,Scar pain,Scar pain,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin and subcutaneous tissue disorders,Skin and subcutaneous tissue disorders
+Seasonal allergic rhinitis,Seasonal allergic rhinitis,Seasonal allergy,Atopic disorders,Allergic conditions,Immune system disorders,Immune system disorders
+Seasonal allergy,Rhinitis seasonal,Seasonal allergy,Atopic disorders,Allergic conditions,Immune system disorders,Immune system disorders
+Septicemia,Septicemia,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infections and infestations,Infections and infestations
+Shellfish allergy,Shellfish allergy,Food allergy,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immune system disorders,Immune system disorders
+Shingles,Shingles,Herpes zoster,Herpes viral infections,Viral infectious disorders,Infections and infestations,Infections and infestations
+Shortness of breath,Shortness of breath,Dyspnoea,Dyspnoeas,Cardiac disorder signs and symptoms,Cardiac disorders,Cardiac disorders
+Shoulder operation,Shoulder operation NOS,Shoulder operation,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Sick sinus syndrome,Sick sinus syndrome,Sinus node dysfunction,Supraventricular arrhythmias,Cardiac arrhythmias,Cardiac disorders,Cardiac disorders
+Sigmoid polyp,Sigmoid polyp,Large intestine polyp,Lower gastrointestinal neoplasms benign,Gastrointestinal neoplasms benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Silicosis,Anthracosilicosis,Silicosis,Occupational parenchymal lung disorders,Lower respiratory tract disorders (excl obstruction and infection),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Sinus arrhythmia,Arrhythmia sinus,Sinus arrhythmia,Supraventricular arrhythmias,Cardiac arrhythmias,Cardiac disorders,Cardiac disorders
+Sinus operation,Sinus operation NOS,Sinus operation,Paranasal therapeutic procedures,Head and neck therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Skin graft,Skin graft NOS,Skin graft,Skin grafts,Skin and subcutaneous tissue therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Skin neoplasm excision,Skin cancer excision,Skin neoplasm excision,Skin lesion excisions,Skin and subcutaneous tissue therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Sleep apnea,Sleep apnea,Sleep apnoea syndrome,Dyssomnias,Sleep disorders and disturbances,Psychiatric disorders,Psychiatric disorders
+Smoker,Smoker,Tobacco user,Tobacco use,Lifestyle issues,Social circumstances,Social circumstances
+Specific allergy (drug),Specific allergy (drug),Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immune system disorders,Immune system disorders
+Spinal laminectomy,Lumbar laminectomy,Spinal laminectomy,Spine and spinal cord therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surgical and medical procedures,Surgical and medical procedures
+Splenic vein thrombosis,Splenic vein thrombosis,Splenic vein thrombosis,Hepatic and portal embolism and thrombosis,Embolism and thrombosis,Vascular disorders,Vascular disorders
+Splenomegaly,Spleen enlarged,Splenomegaly,Spleen disorders,"Spleen, lymphatic and reticuloendothelial system disorders",Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Spondyloarthrosis,Spondyloarthrosis,Spinal osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Spondylosis,Spondylosis,Spinal osteoarthritis,Osteoarthropathies,Joint disorders,Musculoskeletal and connective tissue disorders,Musculoskeletal and connective tissue disorders
+Spontaneous abortion,Spontaneous abortion,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,"Pregnancy, puerperium and perinatal conditions","Pregnancy, puerperium and perinatal conditions"
+Steatosis hepatic,Steatosis hepatic,Hepatic steatosis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepatobiliary disorders,Hepatobiliary disorders
+Stent placement,Stent insertion NOS,Stent placement,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures,Surgical and medical procedures
+Sterilization,Sterilization,Sterilisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures,Surgical and medical procedures
+Stomach dilatation,Stomach dilatation,Gastric dilatation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Stomach pain,Stomach pain,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Stomach ulcer,Stomach ulcer,Gastric ulcer,Gastric ulcers and perforation,Gastrointestinal ulceration and perforation,Gastrointestinal disorders,Gastrointestinal disorders
+Strangulation ileus,Strangulation ileus,Mechanical ileus,Gastrointestinal stenosis and obstruction NEC,Gastrointestinal stenosis and obstruction,Gastrointestinal disorders,Gastrointestinal disorders
+Stroke,Stroke,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nervous system disorders,Nervous system disorders
+Substance abuse,Polysubstance abuse,Substance abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psychiatric disorders,Psychiatric disorders
+Subtotal hysterectomy,Subtotal hysterectomy,Hysterectomy,Uterine therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Suicidal ideation,Suicidal plans,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psychiatric disorders,Psychiatric disorders
+Sulfonamide allergy,Sulfonamide allergy,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immune system disorders,Immune system disorders
+Superficial gastritis,Superficial gastritis,Chronic gastritis,Gastritis (excl infective),Gastrointestinal inflammatory conditions,Gastrointestinal disorders,Gastrointestinal disorders
+Supraventricular extrasystoles,Extrasystoles supraventricular,Supraventricular extrasystoles,Supraventricular arrhythmias,Cardiac arrhythmias,Cardiac disorders,Cardiac disorders
+Sweating,Sweating,Hyperhidrosis,General signs and symptoms NEC,General system disorders NEC,General disorders and administration site conditions,General disorders and administration site conditions
+Syncope,Fainting,Syncope,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vascular disorders,Vascular disorders
+Systolic ejection murmur,Systolic ejection murmur,Cardiac murmur,Cardiac auscultatory investigations,Cardiac and vascular investigations (excl enzyme tests),Investigations,Investigations
+Systolic murmur,Systolic murmur,Cardiac murmur,Cardiac auscultatory investigations,Cardiac and vascular investigations (excl enzyme tests),Investigations,Investigations
+TURP,TURP,Transurethral prostatectomy,Prostatic therapeutic procedures,Male genital tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Taste changed,Taste changed,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nervous system disorders,Nervous system disorders
+Taste metallic,Taste metallic,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nervous system disorders,Nervous system disorders
+Tendon operation,Tendon operation NOS,Tendon operation,Tendon therapeutic procedures,Soft tissue therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Thrombocytopenia,"Thrombocytopenia, unspecified",Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Thrombophilia,Thrombophilia,Hypercoagulation,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood and lymphatic system disorders,Blood and lymphatic system disorders
+Thyroid cancer,Thyroid carcinoma NOS,Thyroid cancer,Thyroid neoplasms,Thyroid gland disorders,Endocrine disorders,Endocrine disorders
+Thyroidectomy,Thyroidectomy NOS,Thyroidectomy,Thyroid therapeutic procedures,Endocrine gland therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Thyroidectomy partial,Thyroidectomy partial,Thyroidectomy,Thyroid therapeutic procedures,Endocrine gland therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Thyroiditis,Thyroiditis NOS,Thyroiditis,Acute and chronic thyroiditis,Thyroid gland disorders,Endocrine disorders,Endocrine disorders
+Thyrotoxicosis,Thyrotoxicosis,Hyperthyroidism,Thyroid hyperfunction disorders,Thyroid gland disorders,Endocrine disorders,Endocrine disorders
+Tibia fracture,Compound fracture - tibia,Tibia fracture,Limb fractures and dislocations,Bone and joint injuries,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Tinnitus,"Tinnitus, unspecified",Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear and labyrinth disorders,Ear and labyrinth disorders
+Tonsillectomy,Tonsillotomy,Tonsillectomy,Tonsillar therapeutic procedures,Head and neck therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Total abdominal hysterectomy,Total abdominal hysterectomy,Hysterectomy,Uterine therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Total hysterectomy,Total hysterectomy,Hysterectomy,Uterine therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Total knee replacement,Total knee replacement,Knee arthroplasty,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Transient ischaemic attack,Transient ischemic attack,Transient ischaemic attack,Cerebrovascular and spinal necrosis and vascular insufficiency,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Transurethral prostatectomy,Transurethral prostatectomy,Transurethral prostatectomy,Prostatic therapeutic procedures,Male genital tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Tubal ligation,Tubal ligation,Female sterilisation,Contraceptive methods female,Obstetric and gynaecological therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Tuberculosis,Tuberculosis NOS,Tuberculosis,Tuberculous infections,Mycobacterial infectious disorders,Infections and infestations,Infections and infestations
+Tumor associated fever,Tumor associated fever,Tumour associated fever,Oncologic complications and emergencies,Neoplasm related morbidities,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Tumor pain,Tumor pain,Tumour pain,Oncologic complications and emergencies,Neoplasm related morbidities,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Tumour excision,Tumour excision,Tumour excision,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surgical and medical procedures,Surgical and medical procedures
+Type II diabetes mellitus,Type II diabetes mellitus,Type 2 diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metabolism and nutrition disorders,Metabolism and nutrition disorders
+UTI,UTI,Urinary tract infection,Genitourinary tract infections and inflammations NEC,Genitourinary tract disorders NEC,Renal and urinary disorders,Renal and urinary disorders
+Ulcerative colitis,Ulcerative colitis,Colitis ulcerative,Immune and associated conditions NEC,Immune disorders NEC,Immune system disorders,Immune system disorders
+Ulcus ventriculi,Ulcus ventriculi,Gastric ulcer,Gastric ulcers and perforation,Gastrointestinal ulceration and perforation,Gastrointestinal disorders,Gastrointestinal disorders
+Umbilical hernia,Umbilical hernia,Umbilical hernia NOS,Umbilical hernia,Umbilical hernias,Abdominal hernias and other abdominal wall conditions,Gastrointestinal disorders
+Umbilical hernia repair,Umbilical herniorrhaphy,Umbilical hernia repair,Hernia repairs,Gastrointestinal therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Unstable angina,Unstable angina,Angina unstable,Ischaemic coronary artery disorders,Coronary artery disorders,Cardiac disorders,Cardiac disorders
+Upper abdominal discomfort,Upper abdominal discomfort,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Upper abdominal pain,Upper abdominal pain,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Ureteral calculus,Ureteral calculus,Ureterolithiasis,Urinary tract lithiasis (excl renal),Urolithiases,Renal and urinary disorders,Renal and urinary disorders
+Ureteric operation,Ureteric operation NOS,Ureteric operation,Ureteric therapeutic procedures,Renal and urinary tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Ureterohydronephrosis,Ureterohydronephrosis,Hydronephrosis,Renal obstructive disorders,Renal disorders (excl nephropathies),Renal and urinary disorders,Renal and urinary disorders
+Urethral dilation procedure,Urethral dilation procedure,Urethral dilation procedure,Urethral therapeutic procedures,Renal and urinary tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Urethral stent insertion,Urethral stent insertion,Urethral stent insertion,Urethral therapeutic procedures,Renal and urinary tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Urethritis,"Urethritis, unspecified",Urethritis,Urinary tract infections,Infections - pathogen unspecified,Infections and infestations,Infections and infestations
+Urinary calculus removal,Urinary calculus removal,Urinary calculus removal,Urinary tract therapeutic procedures NEC,Renal and urinary tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Urinary incontinence,Unspecified urinary incontinence,Urinary incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal and urinary disorders,Renal and urinary disorders
+Urinary infection,Urinary infection,Urinary tract infection,Genitourinary tract infections and inflammations NEC,Genitourinary tract disorders NEC,Renal and urinary disorders,Renal and urinary disorders
+Urinary tract infection,Urinary tract infection NOS,Urinary tract infection,Genitourinary tract infections and inflammations NEC,Genitourinary tract disorders NEC,Renal and urinary disorders,Renal and urinary disorders
+Urine discoloration,Urine discoloration,Chromaturia,Urinary abnormalities,Urinary tract signs and symptoms,Renal and urinary disorders,Renal and urinary disorders
+Urolithiasis,Urolithiasis,Calculus urinary,Urinary tract lithiasis (excl renal),Urolithiases,Renal and urinary disorders,Renal and urinary disorders
+Uterine fibroid,Uterine fibroid,Uterine leiomyoma,Uterine neoplasms benign,Reproductive neoplasms female benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Uterine myoma,Uterine myoma,Uterine leiomyoma,Uterine neoplasms benign,Reproductive neoplasms female benign,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+Vagotomy,Truncal vagotomy,Vagotomy,Autonomic nerve therapeutic procedures,Autonomic nerve therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surgical and medical procedures
+Varicose vein,Varicose veins NOS,Varicose vein,Varicose veins NEC,Venous varices,Vascular disorders,Vascular disorders
+Varicose vein operation,Varicose vein operation NOS,Varicose vein operation,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Varicose veins,Varicose veins,Varicose vein,Varicose veins NEC,Venous varices,Vascular disorders,Vascular disorders
+Varicose veins NOS,Varicose veins NOS,Varicose vein,Varicose veins NEC,Venous varices,Vascular disorders,Vascular disorders
+Varicose veins of lower extrem,Varicose veins of lower extremities,Varicose vein,Varicose veins NEC,Venous varices,Vascular disorders,Vascular disorders
+Varicosity,Varicosity,Varicose vein,Varicose veins NEC,Venous varices,Vascular disorders,Vascular disorders
+Vascular atheroma,Vascular atheroma,Arteriosclerosis,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Vascular stent insertion,Vascular stent insertion,Vascular stent insertion,Vascular therapeutic procedures NEC,Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Vasectomy,Vasectomy NOS,Vasectomy,Male genital tract therapeutic procedures NEC,Male genital tract therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Venous ligation,Varicose veins ligation,Venous ligation,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Venous stent insertion,Vena cava stent insertion,Venous stent insertion,Venous therapeutic procedures,Vascular therapeutic procedures,Surgical and medical procedures,Surgical and medical procedures
+Vertebral injury,Vertebral injury,Spinal column injury,Site specific injuries NEC,Injuries NEC,"Injury, poisoning and procedural complications","Injury, poisoning and procedural complications"
+Vertebrobasilar insufficiency,Vertebral artery syndrome,Vertebrobasilar insufficiency,Cerebrovascular and spinal necrosis and vascular insufficiency,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vascular disorders,Vascular disorders
+Vertebroplasty,Spine and spinal cord therapeutic procedures,Vertebroplasty,Spine and spinal cord therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surgical and medical procedures,Surgical and medical procedures
+Visual disturbance,Visual disturbance,Visual impairment,Visual disorders NEC,Vision disorders,Eye disorders,Eye disorders
+Vocal cord disorder,Vocal cord disorder NOS,Vocal cord disorder,Laryngeal and adjacent sites disorders NEC (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),"Respiratory, thoracic and mediastinal disorders","Respiratory, thoracic and mediastinal disorders"
+Voice alteration,Voice alteration,Dysphonia,Speech articulation and rhythm disturbances,Communication disorders and disturbances,Psychiatric disorders,Psychiatric disorders
+Vomiting,Vomiting NOS,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastrointestinal disorders,Gastrointestinal disorders
+Weakness,Weakness,Asthenia,Asthenic conditions,General system disorders NEC,General disorders and administration site conditions,General disorders and administration site conditions
+Weakness generalized,Weakness generalized,Asthenia,Asthenic conditions,General system disorders NEC,General disorders and administration site conditions,General disorders and administration site conditions
+Weight loss,Weight loss,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Investigations,Investigations

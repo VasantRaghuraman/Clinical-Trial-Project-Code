@@ -1,0 +1,324 @@
+COMPUTATIONMETHODOID,LABEL,TYPE,COMPUTATIONMETHOD
+SETDOMAIN,Hardcode to assign domain,Computation,Hardcode to the name of the SDTM domain
+SETUSUBJID,Combine and format StudyID and SubjID,Computation,Append numeric portion of StudyID prior to the subject ID and format it with hyphens
+DM.RFSTDTC,Visit 1 From SV Dataset,Computation,Visit dates are extracted to SV dataset and Visit 1 is date is assigned to RFSTDTC
+DM.RFENDTC,Last Visit From SV Dataset,Computation,Visit dates are extracted to SV dataset and last visit date is assigned to RFENDTC
+DM.RFXSTDTC,Start date of Dosing From SV Dataset,Computation,Visit dates are extracted to SV dataset and first dosing date is assigned to RFXSTDTC
+DM.RFXENDTC,End Date of Dosing From SV Dataset,Computation,Visit dates are extracted to SV dataset and last dosing date is assigned to RFXSTDTC
+DM.RFPENDTC,End Date of Dosing From SV Dataset,Computation,Visit dates are extracted to SV dataset and protocol specified last contact date is assigned to RFPENDTC
+DM.DTHDTC,DTHDTC derivation,Computation,DTHDTC is  null if subject did not die and has death date from SV dataset in case subject died
+DM.AGE,Age,Computation,Age available from dm dataset
+DM.ACTARMCD,Code of Actual Arm Assigned,Computation,Code of Arm to which subject was assigned in SV Dataset
+DM.ACTARM,Actual Arm Assigned,Computation,Actual Arm to which subject was assigned
+DM.DMDTC,Date of Data Collection,Computation,Screening date Visit 0 considered as date of data collection as per CRF
+DM.DMDY,DMDY derivation,Computation,"If DMDTC is before RFSTDTC, then DMDY = DMDTC minus RFSTDTC. Otherwise, DMDY = DMDTC minus RFSTDTC plus 1."
+AE.AESEQ,AESEQ Assigned,Assignment,One record per adverse event per subject
+AE.AEELT,Lowest Level Term,Computation,Lowest Level Term Mapped from Meddra taken from reported term
+AE.AELLTCD,Lowest Level Term Code,Computation,Lowest Level Term Code Mapped from Meddra taken from reported term
+AE.AEDECOD,Dictionary Derived Term,Computation,Preferred Term Mapped from Meddra
+AE.AEPTCD,Dictionary Derived Term Code,Computation,Preferred Term Code Mapped from Meddra
+AE.AEHLT,High Level Term,Computation,High Level Term Term Mapped from Meddra
+AE.AEHLTCD,High Level Term Code,Computation,High Level Term Code Mapped from Meddra
+AE.AEHLGT,High Level Group Term,Computation,High Level Group Term Term Mapped from Meddra
+AE.AEHLGTCD,High Level Group Term Code,Computation,High Level Group Term Code Mapped from Meddra
+AE.AEBODSYS,Body System or Organ Class,Computation,Body System Term Mapped from Meddra
+AE.AEBDSCD,Body System or Organ Class Code,Computation,Body System Term Code Mapped from Meddra
+AE.AESOC,Primary System Organ Class,Computation,Primary System Organ Class Mapped from MedDra
+AE.AESOCCD,Primary System Organ Class Code,Computation,Primary System Organ Class Code Mapped from MedDra
+AE.AESTDY,AESTDY derivation,Computation,"If the date is before RFSTDTC, then --DY = this date minus RFSTDTC. Otherwise, --DY = this date minus RFSTDTC plus 1."
+AE.AEENDY,AEENDY derivation,Computation,"If the date is before RFSTDTC, then --DY = this date minus RFSTDTC. Otherwise, --DY = this date minus RFSTDTC plus 1."
+AE.AEDUR,Duration of AE Derivation,Computation,Enddate minus Startdate
+AE.AEENRF,End Relative to reference period,Computation,Mapped from STERRF Controlled Terminology relative to reference period
+AE.AEENTRTPT,End Relative to reference point,Computation,Mapped from STERRF Controlled Terminology relative to reference time point
+AE.AEENTPT,End Reference time point,Assignment,Description of end point for AEENTRTPT
+CE.CESEQ,Sequence Number for CE,Assignment,Sequentially assign numbers for each record per subject
+CE.CEDECOD,Dictionary Derived Term,Computation,Meddra 21.1 used to map Clinical event
+CE.CECAT,Category of CE,Assignment,Category of CE defined as Clinical Event or Other Procedures
+CE.CESCAT,Subcategory of CE,Assignment,SubCategory of CE defined as Clinical Event or Other Procedures
+CM.CMSEQ,Sequence Number for CM,Computation,Sequentially assign numbers for each record per subject
+CM.CMMODIFY,Modified Reported Name,Computation,Modified report name for coding
+CM.CDECOD,Dictionary Derived medication Name,Computation,Modified report name using WHODrug
+CM.CMCLAS,Medication Class,Computation,Obtained from WHO Drug Dictionary
+CM.CMCLASCD,Medication Class Code,Computation,Obtained from WHO Drug Dictionary
+CM.CMSTDY,CMSTDY derivation,Computation,"If the date is before RFSTDTC, then CMENDY = CMSTDTC minus RFSTDTC. Otherwise, CMENDY = CMSTDTC minus RFSTDTC plus 1."
+CM.CMENDY,CMENDY derivation,Computation,"If the date is before RFSTDTC, then CMENDY = CMSTDTC minus RFSTDTC. Otherwise, CMENDY = CMSTDTC minus RFSTDTC plus 1."
+METADATAENTRY,Manual entry,Computation,This variable consists of study level metadata that was manually entered
+VS.VSSEQ,Sequence Number for VS,Assignment,One record per vital sign measurement per time point per visit per subject
+VS.VSDRVFL,,,
+VS.VISITDY,VISITDY derivation,Computation,Same as TV.VISITDY
+VS.VSDY,VSDY derivation,Computation,"If the date is before RFSTDTC, then VSDY = VSDTC minus RFSTDTC. Otherwise, VSDY = VSDTC minus RFSTDTC plus 1."
+DS.DSSEQ,Sequence Number for DS event,Assignment,One record per disposition status or protocol milestone per subject Assigned sequentially
+DS.DSDECOD,Standardized Disposition term,Computation,Use NCOMPLT controlled terminology to map from CRF
+DS.DSSTDY,Actual Study day start of disposition event,Computation,"If the date is before RFSTDTC, then DSDY = DSSTDTC minus RFSTDTC. Otherwise, DSDY = DSSTDTC minus RFSTDTC plus 1."
+EX.EXSEQ,Sequence number for EX,Assignment,"Sequentially assign numbers One  per protocol-specified study treatment, constant-dosing interval, per subject"
+EX.EXSTDY,EXSTDY derivation,Computation,"If EXSTDTC is before RFSTDTC, then EXSTDY = EXSTDTC minus RFSTDTC. Otherwise, EXSTDY = EXSTDTC minus RFSTDTC plus 1."
+EX.ENDY,ENDY derivation,Computation,"If EXENDTC is before RFSTDTC, then ENDY = EXENDTC minus RFSTDTC. Otherwise, ENDY = EXENDTC minus RFSTDTC plus 1."
+IE.IESEQ,Sequence Number for IE,Assignment,Sequentially asign numbers One record per inclusion/exclusion criterion not met per subject
+IE.VISITDY,VISITDY derivation,Computation,Planned Study Day of Visit copied from TV domain
+IE.IEDY,IEDY derivation,Computation,"If IEDTC is before RFSTDTC, then IEDY = IEDTC minus RFSTDTC. Otherwise, IEDY = IEDTC minus RFSTDTC plus 1."
+EG.EGSEQ,Sequence number for EG,Assignment,Sequentially assign numbers to uniquely identify each record per ECG observation per time point per visit per subject
+EG.EGTESTCD,ECG Examination Short Name,Computation,EGTESTCD Controlled Terminology used to map EGTest Name to CDISC Code
+EG.EGSTRESC,Character Result in Standard Format,Computation,"If Character result, use controlled terminology to encode result. If numeric, then result  is converted to character result"
+EG.EGSTRESN,Numeric result in standard units,Computation,Copied from EGSTRESC in standard numeric format if result is numeric
+EG.EGBLFL,Baseline Flag,Computation,"Y if Baseline value, Null if not"
+EG.EGDRVFL,Derived Flag,Computation,"Y if derived record, not from CRF etc. else NULL"
+EG.VISIT,Visit Name,Computation,Planned Visit name copied from TV domain
+EG.EGDY,EGDY derivation,Computation,"If EGDTC is before RFSTDTC, then EGDY = EGDTC minus RFSTDTC. Otherwise, EGDY = EGDTC minus RFSTDTC plus 1."
+LB.LBSEQ,Sequence number for LB,Assignment,Sequentially assign numbers to uniquely identify One record per lab test per time point per visit per subject
+LB.LBTESTCD,Lab Test Short Name,Computation,LBTESTCD Controlled Terminology used to map LBTest Name to CDISC Code
+LB.LBNRIND,Reference Range Indicator,Computation,Use NRIND Controlled Terminology to define if result lies within specified range
+LB.LBBLFL,Baseline Flag,Computation,"Y if Baseline value, Null if not"
+LB.LBTOX,Toxicity,Computation,Toxicity mapped from CTCAE
+LB.LBTOXGR,Toxicity Grade,Computation,Toxicity Grade Mapped from CTCAE
+LB.VISITDY,VISITDY derivation,Computation,"If the date is before RFSTDTC, then --DY = this date minus RFSTDTC. Otherwise, --DY = this date minus RFSTDTC plus 1."
+LB.LBDTC,LBDTC derivation,Computation,Calculated from LBDY and VISIT in lb dataset
+LB.LBDY,LBDY derivation,Computation,"If LBDTC is before RFSTDTC, then LBDY = LBDTC minus RFSTDTC. Otherwise, LBDY = LBDTC minus RFSTDTC plus 1."
+MH.MHSEQ,Sequence Number for MH,Assignment,Sequentially Assign numbers  of One record per medical history event per subject
+PC.PCSEQ,Sequence Number for PC,Computation,Sequentially assign numbers as One record per sample characteristic or time-point concentration per reference time point or per analyte per subject
+PC.PCTESTCD,Pharmacokinetic Test Short Name,Computation,Copied from PC Dataset
+PC.PCSTRESC,Character Result/Finding in Standard Format,Computation,"If Character result, use controlled terminology to encode result. If numeric, then result  is converted to character result"
+PC.PCSTRESN,Numeric Result/Finding in Standard Units,Computation,Copied from PCSTRESC in standard numeric format if result is numeric
+PC.PCDRVFL,Derived Flag,Computation,"Y if derived record, not from CRF etc. else NULL"
+PC.PCLLOQ,Lower Limit of Quantitation,Computation,Indicates Lower Limit of Quantitation of assay. Copied from lb dataset
+PC.PCULOQ,Upper Limit of Quantitation,Computation,Indicates Lower Limit of Quantitation of assay. Not used.
+PC.VISITDY,VISITDY derivation,Computation,Planned Study Day of Visit copied from TV domain
+PE.PESEQ,Sequence Number for PE,Assignment,Sequentially assign numbers as One record per body system or abnormality per visit per subject
+PE.PETESTCD,Body System Examined Short Name,Assignment,Copied from pe dataset as controlled terminology
+PE.PEBODSYS,PEBODSYS,Computation,Mapped from MedDra System Organ Class
+PE.PESTRESC,Character Result/Finding in Standard Format,Computation,"If Character result, use controlled terminology to encode result. If numeric, then result  is converted to character result"
+PE.VISITDY,VISITDY derivation,Computation,Planned Study Day of Visit copied from TV domain
+PE.PEDY,PEDY derivation,Computation,"If PEDTC is before RFSTDTC, then PEDY = PEDTC minus RFSTDTC. Otherwise, PEDY = PEDTC minus RFSTDTC plus 1."
+QS.QSSEQ,Sequence Number for QS,Computation,Sequentially assign numbers as One record per questionnaire per question per time point per visit per subject
+QS.QSTESTCD,Question Short Name,Computation,QSTESTCD Controlled Terminology used to map QSTest Name to CDISC Code
+QS.QSSTRESC,Character Result/Finding in Standard Format,Computation,"If Character result, use controlled terminology to encode result. If numeric, then result  is converted to character result"
+QS.QSSTRESN,Numeric Result/Finding in Standard Units,Computation,Copied from QSSTRESC in standard numeric format if result is numeric
+QS.QSDRVFL,Derived Flag,Computation,"Y if derived record, not from CRF etc. else NULL"
+QS.VISITDY,VISITDY derivation,Computation,Planned Study Day of Visit copied from TV domain
+QS.QSDTC,QSDTC  derivation,Computation,obtained from QSDY
+TU.TUSEQ,Sequence Number for TU,Computation,Sequentially Assign Numbers as One record per identified tumor per subject per assessor
+TU.TUDY,Study Day of Tumor Identification,Computation,"If TUDTC is before RFSTDTC, then TUDY = TUDTC minus RFSTDTC. Otherwise, TUDY = TUDTC minus RFSTDTC plus 1."
+TR.TRSEQ,Sequence Number for TR,Computation,Sequentially Assign Numbers as One record per tumor measurement/assessment per visit per subject per assessor
+TR.TRTESTCD,Question Short Name,Computation,TRTESTCD Controlled Terminology used to map TRTEST Name to CDISC Code
+TR.TRSTRESC,Character Result/Finding in Standard Format,Computation,"If Character result, copied from TRORRES in standard format. If numeric, then result  is converted to character result"
+TR.VISITDY,VISITDY derivation,Computation,Planned Study Day of Visit copied from TV domain
+TR.EPOCH,EPOCH Derivation,Computation,Mapped from SV domian
+TR.TRDY,Study Day of Tumor Identification,Computation,"If TUDTC is before RFSTDTC, then TUDY = TUDTC minus RFSTDTC. Otherwise, TUDY = TUDTC minus RFSTDTC plus 1."
+RS.RSSEQ,Sequence Number for RS,Computation,Sequentially Assign Numbers as One record per response assessment per visit per subject per assessor
+RS.RSTESTCD,Response Assessment Short Name,Computation,RSTESTCD Controlled Terminology used to map RSTEST Name to CDISC Code
+FA.FASEQ,Sequence Number for FA,Computation,"Sequentially Assign Numbers as One record per finding, per object, per time point, per visit per subject"
+FA.FATESTCD,Findings About Test Short Name,Computation,FATESTCD Controlled Terminology used to map FATEST Name to CDISC Code
+FA.FASTRESC,Character Result/Finding in Standard Format,Computation,"If Character result, use controlled terminology to encode result. If numeric, then result  is converted to character result"
+FA.FASTRESN,Numeric Result/Finding in Standard Units,Computation,Copied from FASTRESC in standard numeric format if result is numeric
+FA.FABLFL,Baseline Flag,Computation,"Y if Baseline value, Null if not"
+FA.VISITDY,VISITDY derivation,Computation,Planned Study Day of Visit copied from TV domain
+FA.FADY,Study Day of Collection,Computation,"If FADTC is before RFSTDTC, then FADY = FADTC minus RFSTDTC. Otherwise, FADY = FADTC minus RFSTDTC plus 1."
+SETNULL,NULL Value,Computation,Set the value of variable to NULL
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

@@ -1,0 +1,12 @@
+OID,NAME,DATASETORDER,REPEATING,ISREFERENCEDATA,PURPOSE,LABEL,STRUCTURE,DOMAINKEYS,CLASS,ARCHIVELOCATIONID,COMMENTOID
+ADAE,ADAE,2,Yes,No,Analysis,Adverse Events Analysis Datasets,ADAE - One record per event per subject,"STUDYID, USUBJID, AEDECOD, ASTDT",Occurrence data structure,ADAE,COM.ADAE
+ADSL,ADSL,1,No,No,Analysis,Subject Level Analysis Dataset,ADSL - One record per subject,"STUDYID, USUBJID",Subject level analysis dataset,ADSL,COM.ADSL
+ADEF,ADEF,3,Yes,No,Analysis,Efficacy/Pain Scores Analysis Dataset,One record per subject per visit,"STUDYID, USUBJID, PARAMCD, AVISITN",Basic data structure,ADEF,COM.ADEF
+ADTTE,ADTTE,4,No,No,Analysis,Time-to-Pain Relief Analysis Dataset,One record per subject,"STUDYID, USUBJID",Basic data structure,ADTTE,COM.ADTTE
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

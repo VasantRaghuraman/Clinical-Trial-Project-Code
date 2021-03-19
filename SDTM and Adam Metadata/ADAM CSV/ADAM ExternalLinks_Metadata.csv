@@ -1,0 +1,11 @@
+LeafID,LeafRelPath,LeafPageRef,LeafPageRefType,Title,SupplementalDoc,AnnotatedCRF
+ADRG,reviewersguide.pdf,,,Analysis Data Reviewer's Guide,Y,
+SAP_Section_9.1.1,..\..\..\..\53-clin-stud-rep\535-rep-effic-safety-stud\5351-stud-rep-contr\studyxyz123\studyxyz123_csr.pdf,SAP_SEC_9.1.1,NamedDestination,SAP Section 9.1.1,,
+SAP_Section_9.2.1,..\..\..\..\53-clin-stud-rep\535-rep-effic-safety-stud\5351-stud-rep-contr\studyxyz123\studyxyz123_csr.pdf,SAP_SEC_9.2.1,NamedDestination,SAP Section 9.2.1,,
+SAP_Section_9.2.2,..\..\..\..\53-clin-stud-rep\535-rep-effic-safety-stud\5351-stud-rep-contr\studyxyz123\studyxyz123_csr.pdf,SAP_SEC_9.2.2,NamedDestination,SAP Section 9.2.2,,
+SAP_Section_9.3.1,..\..\..\..\53-clin-stud-rep\535-rep-effic-safety-stud\5351-stud-rep-contr\studyxyz123\studyxyz123_csr.pdf,SAP_SEC_9.3.1,NamedDestination,SAP Section 9.3.1,,
+Table_14.1.1,..\..\..\..\53-clin-stud-rep\535-rep-effic-safety-stud\5351-stud-rep-contr\studyxyz123\studyxyz123_csr.pdf,302,PhysicalRef,Table 14.1.1,,
+Table_14.2.1,..\..\..\..\53-clin-stud-rep\535-rep-effic-safety-stud\5351-stud-rep-contr\studyxyz123\studyxyz123_csr.pdf,352,PhysicalRef,Table 14.2.1,,
+Table_14.2.2,..\..\..\..\53-clin-stud-rep\535-rep-effic-safety-stud\5351-stud-rep-contr\studyxyz123\studyxyz123_csr.pdf,353,PhysicalRef,Table 14.2.2,,
+Figure_14.2.1,..\..\..\..\53-clin-stud-rep\535-rep-effic-safety-stud\5351-stud-rep-contr\studyxyz123\studyxyz123_csr.pdf,354,PhysicalRef,Figure 14.2.1,,
+ae-t14-3-02,ae-t14-3-02.sas,,,AE Analysis Program,,

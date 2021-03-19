@@ -1,0 +1,26 @@
+COMPUTATIONMETHODOID,LABEL,TYPE,COMPUTATIONMETHOD
+BASE,Baseline value derivation,Computation,Last non-missing value of AVAL prior to first dose
+CHANGEFROMBASELINE,Change from baseline calculation,Computation,AVAL-BASE
+RESPONDER,Responder derivation,Computation,IF (.Z<CHG<=-2) THEN CRIT1FL='Y' ELSE CRIT1FL='N'        
+TTPNRELF,Time to first pain relief without worsening derivation,Computation,Derived from ADEF.ADY (where PARAMCD=XPPAIN and ADY>1) or ADAE.ASDY where CQ01NAM=PAIN EVENT.  Value is the earliest day when ADEF.CHG<0 (for an event) or (ADEF.CHG>0 or ADAE.ASDY>0) (for subjects censored due to pain worsening) or the last record where ADEF.CHG=0 (for subjects censored due to no improvement or worsening by the time of the last assessment)
+TTPNRELF.CNSR,Censoring algorithm for Time to First Pain Relief,Computation,"if pain relief occurs before worsening, then CNSR=0; else if worsening from pain data, then CNSR=1; else if worsening from AE data, then CNSR=3; else if no relief and no worsening at time of last observation, then CNSR=4"
+TTPNRELF.EVNTDESC,Event descriptions for Time to First Pain Relief,Computation,"if CNSR=0, then EVNTDESC=PAIN RELIEF; if CNSR=1, then EVNTDESC=PAIN WORSENING PRIOR TO RELIEF; if CNSR=2, then EVNTDESC=PAIN ADVERSE EVENT PRIOR TO RELIEF; if CNSR=3, then EVNTDESC=NO RELIEF AND NO WORSENING AT LAST ASSESSMENT"
+TRTSDT,Date of first exposure to treatment derivation,Computation,"EX.EXSTDTC where EXSEQ=1, converted to a SAS date.  See SAP for missing or partial value imputations."
+TRTEDT,Date of last exposure to treatment derivation,Computation,EX.EXENDTC converted to a SAS date for the last record in EX.  See SAP for missing or partial value imputations.
+ITTFL,Intent-to-Treat flag derivation,Computation,"If ADSL.RANDDT ^= missing then Y, else Null"
+SAFFL,Safety population flag derivation,Computation,"If ADSL.TRTSDT^=missing then Y, else Null"
+RESPFL,Responder population flag derivation,Computation,"If XP.VISIT='Month 6' and XPSTRESN represents at least a two-point improvement from the baseline record then Y, else N"
+RANDDT,Randomization date derivation,Computation,"SUPPDM.QVAL where SUPPDM.QNAM=RANDDTC, converted to a SAS date"
+ABLFL,Analysis baseline record flag,Computation,Last visit with a non-missing record prior to first dose
+ADT,Analysis date calculation,Computation,XPDTC converted to a SAS date.  See SAP for missing or partial value imputations
+ADY,Analysis day calculation,Computation,ADT - ADSL.RANDDT + 1
+ADAE.ASTDT,Analysis start date calculation,Computation,AESTDTC converted to a SAS date.  See SAP for missing or partial value imputations
+ADAE.AENDT,Analysis end date calculation,Computation,AEENDTC converted to a SAS date.  See SAP for missing or partial value imputations
+ADAE.ASTDY,Analysis start day calculation,Computation,ASTDT - ADSL.TRTSDT + 1
+ADAE.AENDY,Analysis end day calculation,Computation,AENDT - ADSL.TRTEDT + 1
+ADTTE.SRCVAR,SRCVAR algorithm,Computation,SRCVAR = ADEF if first event is a negative pain score or if worsening occurs before an improvement.  SRCVAR = ADAE if ADAE.CQ01NAM is non-missing on a date prior to a pain improvement or worsening.  
+ADTTE.SRCSEQ,SRCSEQ algorithm,Computation,if SRCVAR=ADEF then SRCSEQ=ADEF.XPSEQ from the corresponding record; else if SRCVAR=ADAE then SRCSEQ=ADAE.AESEQ from the corresponding record.
+COMP.SEECODELIST,See codelist,Computation,See codelist
+COMP.SEEVALUELEVEL,See parameter value-level metadata ,Computation,See parameter value-level metadata 
+RELGR1,AE relatedness derivation,Computation,If AEREL=NOT RELATED  then NOT RELATED; Otherwise RELATED
+AGEGR1,Age group derivation,Computation,"If age<55 then ""<55 years""; else if age>=55 then "">=55 YEARS"""

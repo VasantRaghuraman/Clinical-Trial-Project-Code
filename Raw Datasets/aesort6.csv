@@ -1,0 +1,325 @@
+AELLT,AEDECOD
+Abdominal abscess,ABDOMINAL ABSCESS
+Stomach heaviness,ABDOMINAL DISCOMFORT
+Abdominal bloating,ABDOMINAL DISTENSION
+Abdominal pain,ABDOMINAL PAIN
+Lower abdominal pain,ABDOMINAL PAIN LOWER
+Epigastric pain,ABDOMINAL PAIN UPPER
+Upper abdominal tenderness,ABDOMINAL TENDERNESS
+Acute myocardial infarction,ACUTE MYOCARDIAL INFARCTION
+Emotional instability,AFFECT LABILITY
+ALT increased,ALANINE AMINOTRANSFERASE INCREASED
+Alopecia,ALOPECIA
+Anemia,ANAEMIA
+Anemia of malignant disease,ANAEMIA OF MALIGNANT DISEASE
+Anal abscess,ANAL ABSCESS
+Anaphylactic reaction,ANAPHYLACTIC REACTION
+Anxiety,ANXIETY
+Aphasia,APHASIA
+Oral aphthae,APHTHOUS STOMATITIS
+Arthralgia,ARTHRALGIA
+Ascites,ASCITES
+AST increased,ASPARTATE AMINOTRANSFERASE INCREASED
+Weakness,ASTHENIA
+Atelectasis,ATELECTASIS
+Lumbar pain,BACK PAIN
+Bacteraemia,BACTERAEMIA
+Bile duct obstruction,BILE DUCT OBSTRUCTION
+Bile duct stricture,BILE DUCT STENOSIS
+Biliary sepsis,BILIARY SEPSIS
+Alkaline phosphatase increased,BLOOD ALKALINE PHOSPHATASE INCREASED
+Bilirubin,BLOOD BILIRUBIN
+Bilirubin elevated,BLOOD BILIRUBIN INCREASED
+Blood glucose fluctuation,BLOOD GLUCOSE FLUCTUATION
+Prolactin abnormal NOS,BLOOD PROLACTIN ABNORMAL
+Pain in spine,BONE PAIN
+Breast inflammation,BREAST INFLAMMATION
+Bronchitis,BRONCHITIS
+Bronchopneumonia,BRONCHOPNEUMONIA
+Bursitis,BURSITIS
+Cachexia,CACHEXIA
+Cancer pain,CANCER PAIN
+Thrush,CANDIDIASIS
+Cellulitis,CELLULITIS
+Central line infection,CENTRAL LINE INFECTION
+CVA,CEREBROVASCULAR ACCIDENT
+Chest discomfort,CHEST DISCOMFORT
+Chest pain,CHEST PAIN
+Cheyne-Stokes respiration,CHEYNE-STOKES RESPIRATION
+Chills,CHILLS
+Cholangitis,CHOLANGITIS
+Cholangitis acute,CHOLANGITIS ACUTE
+Gangrenous cholecystitis,CHOLECYSTITIS INFECTIVE
+Cholelithiasis,CHOLELITHIASIS
+Chronic obstructive pulmonary disease,CHRONIC OBSTRUCTIVE PULMONARY DISEASE
+C.difficile colitis,CLOSTRIDIUM DIFFICILE COLITIS
+Coagulopathy,COAGULOPATHY
+Obstruction colon,COLONIC OBSTRUCTION
+Confusion,CONFUSIONAL STATE
+Hyposphagma,CONJUNCTIVAL HAEMORRHAGE
+Constipation,CONSTIPATION
+Contusion,CONTUSION
+Seizure,CONVULSION
+Cough,COUGH
+Hearing loss,DEAFNESS
+Unknown cause of death,DEATH
+Appetite lost,DECREASED APPETITE
+Pressure sore,DECUBITUS ULCER
+Deep vein thrombosis,DEEP VEIN THROMBOSIS
+Dehydration,DEHYDRATION
+Delusions,DELUSION
+Depressed level of consciousness,DEPRESSED LEVEL OF CONSCIOUSNESS
+Depressed mood,DEPRESSED MOOD
+Depression,DEPRESSION
+Allergic skin reaction,DERMATITIS ALLERGIC
+Diabetes mellitus,DIABETES MELLITUS
+Diarrhoea,DIARRHOEA
+Disease progression,DISEASE PROGRESSION
+Disseminated intravascular coagulation,DISSEMINATED INTRAVASCULAR COAGULATION
+Dizziness,DIZZINESS
+Drug rash,DRUG ERUPTION
+Allergic reaction to antibiotics,DRUG HYPERSENSITIVITY
+Drug intolerance,DRUG INTOLERANCE
+Dry eyes,DRY EYE
+Dry mouth,DRY MOUTH
+Dry skin,DRY SKIN
+Duodenal obstruction,DUODENAL OBSTRUCTION
+Duodenal stenosis,DUODENAL STENOSIS
+Taste bitter,DYSGEUSIA
+Heartburn,DYSPEPSIA
+Dysphagia,DYSPHAGIA
+Hypophonia,DYSPHONIA
+Dyspnea,DYSPNOEA
+Exertional dyspnea,DYSPNOEA EXERTIONAL
+Dysuria,DYSURIA
+Ear congestion,EAR CONGESTION
+Sensation of pressure in ear,EAR DISCOMFORT
+Ear infection fungal,EAR INFECTION FUNGAL
+Ecchymosis,ECCHYMOSIS
+Eczema,ECZEMA
+Epigastric discomfort,EPIGASTRIC DISCOMFORT
+Epistaxis,EPISTAXIS
+Belching,ERUCTATION
+Erysipelas,ERYSIPELAS
+Localized erythema,ERYTHEMA
+Escherichia coli bacteremia,ESCHERICHIA BACTERAEMIA
+Septicemia due to Escherichia coli (E. coli),ESCHERICHIA SEPSIS
+Burning eyes,EYE IRRITATION
+Pain eye,EYE PAIN
+Eyelid disorder,EYELID DISORDER
+Face edema,FACE OEDEMA
+Fall,FALL
+Fatigue,FATIGUE
+Febrile neutropenia,FEBRILE NEUTROPENIA
+Pain flank,FLANK PAIN
+Flatulence,FLATULENCE
+Folliculitis,FOLLICULITIS
+Food aversion,FOOD AVERSION
+Fungal oesophagitis,FUNGAL OESOPHAGITIS
+Gait instability,GAIT DISTURBANCE
+GGT increased,GAMMA-GLUTAMYLTRANSFERASE INCREASED
+Gastroenteritis,GASTROENTERITIS
+Gastrointestinal bleed,GASTROINTESTINAL HAEMORRHAGE
+Gastrointestinal ischemia,GASTROINTESTINAL ISCHAEMIA
+Alternation between constipation and diarrhea,GASTROINTESTINAL MOTILITY DISORDER
+Gastrointestinal obstruction,GASTROINTESTINAL OBSTRUCTION
+Intestinal edema,GASTROINTESTINAL OEDEMA
+Gastroesophageal reflux disease,GASTROOESOPHAGEAL REFLUX DISEASE
+General physical health deterioration,GENERAL PHYSICAL HEALTH DETERIORATION
+Anasarca,GENERALISED OEDEMA
+Burning tongue,GLOSSODYNIA
+Glucose urine increased,GLUCOSE URINE PRESENT
+Gout acute,GOUT
+Granulocytopenia,GRANULOCYTOPENIA
+Groin pain,GROIN PAIN
+Vomiting blood,HAEMATEMESIS
+Hematoma,HAEMATOMA
+Hematuria,HAEMATURIA
+Hemorrhoidal bleeding,HAEMORRHOIDAL HAEMORRHAGE
+Prolapsed hemorrhoid,HAEMORRHOIDS
+Head injury,HEAD INJURY
+Headache,HEADACHE
+Hepatic encephalopathy,HEPATIC ENCEPHALOPATHY
+Hepatic enzymes increased,HEPATIC ENZYME INCREASED
+Hepatic failure,HEPATIC FAILURE
+Hepatitis toxic,HEPATITIS TOXIC
+Hiccups,HICCUPS
+Hot flushes,HOT FLUSH
+Hyperbilirubinemia,HYPERBILIRUBINAEMIA
+Hypercalcemia,HYPERCALCAEMIA
+Sweating,HYPERHIDROSIS
+Allergic reaction,HYPERSENSITIVITY
+Hypertension,HYPERTENSION
+Hypoglycemia,HYPOGLYCAEMIA
+Hypomagnesemia,HYPOMAGNESAEMIA
+Hyponatremia,HYPONATRAEMIA
+Hypotension,HYPOTENSION
+Hypoxemia,HYPOXIA
+Ileus,ILEUS
+Increased bronchial secretion,INCREASED BRONCHIAL SECRETION
+Induration,INDURATION
+Infection,INFECTION
+Flu,INFLUENZA
+Flu-like symptoms,INFLUENZA LIKE ILLNESS
+Infusion related reaction,INFUSION RELATED REACTION
+Left inguinal hernia,INGUINAL HERNIA
+Injection site cellulitis,INJECTION SITE CELLULITIS
+Injection site reaction,INJECTION SITE REACTION
+Insomnia,INSOMNIA
+INR increased,INTERNATIONAL NORMALISED RATIO INCREASED
+Interstitial pneumonia,INTERSTITIAL LUNG DISEASE
+Lumbar disc degeneration,INTERVERTEBRAL DISC DEGENERATION
+Intestinal obstruction,INTESTINAL OBSTRUCTION
+Intracranial pressure increased,INTRACRANIAL PRESSURE INCREASED
+Ischaemic stroke,ISCHAEMIC STROKE
+Icterus,JAUNDICE
+Obstructive jaundice,JAUNDICE CHOLESTATIC
+Injury to shoulder NOS,JOINT INJURY
+Ankle sprain,JOINT SPRAIN
+Ankle swelling,JOINT SWELLING
+Jugular vein thrombosis,JUGULAR VEIN THROMBOSIS
+Klebsiella sepsis,KLEBSIELLA SEPSIS
+Laryngitis,LARYNGITIS
+Leucopenia,LEUKOPENIA
+Foot injury,LIMB INJURY
+Liver disorder,LIVER DISORDER
+Neck swelling,LOCAL SWELLING
+Loss of consciousness,LOSS OF CONSCIOUSNESS
+Lung infection,LUNG INFECTION
+Pulmonary infiltration,LUNG INFILTRATION
+Lymphedema,LYMPHOEDEMA
+Malignant ascites,MALIGNANT ASCITES
+Medical device pain,MEDICAL DEVICE PAIN
+Mental status changes,MENTAL STATUS CHANGES
+Migraine headache,MIGRAINE
+Leg paresis,MONOPARESIS
+Leg paralysis,MONOPLEGIA
+Mood altered,MOOD ALTERED
+Spasms,MUSCLE SPASMS
+Generalized muscle weakness,MUSCULAR WEAKNESS
+Costal pain,MUSCULOSKELETAL CHEST PAIN
+Back discomfort,MUSCULOSKELETAL DISCOMFORT
+Shoulder pain,MUSCULOSKELETAL PAIN
+Myalgia,MYALGIA
+Myositis,MYOSITIS
+Cold,NASOPHARYNGITIS
+Nausea,NAUSEA
+Neck pain,NECK PAIN
+Nephrotic syndrome,NEPHROTIC SYNDROME
+Neuralgia,NEURALGIA
+Neurogenic bladder,NEUROGENIC BLADDER
+Neutropenia,NEUTROPENIA
+Neutrophils,NEUTROPHIL COUNT
+Night sweats,NIGHT SWEATS
+Nocturia,NOCTURIA
+Chest pain (non-cardiac),NON-CARDIAC CHEST PAIN
+Fecal occult blood positive,OCCULT BLOOD POSITIVE
+Odynophagia,ODYNOPHAGIA
+Oedema,OEDEMA
+Peripheral edema,OEDEMA PERIPHERAL
+Oesophageal candidiasis,OESOPHAGEAL CANDIDIASIS
+Esophageal pain,OESOPHAGEAL PAIN
+Oesophagitis,OESOPHAGITIS
+Esophagitis hemorrhagic,OESOPHAGITIS HAEMORRHAGIC
+Brittle nails,ONYCHOCLASIS
+Oral candidiasis,ORAL CANDIDIASIS
+Fever blister,ORAL HERPES
+Pharyngolaryngeal pain,OROPHARYNGEAL PAIN
+Orthostatic hypotension,ORTHOSTATIC HYPOTENSION
+Drug overdose,OVERDOSE
+Pain,PAIN
+Pain of lower extremities,PAIN IN EXTREMITY
+Pale skin,PALLOR
+Palmar-plantar erythrodysesthesia syndrome,PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME
+Palpitation,PALPITATIONS
+Pancreatitis,PANCREATITIS
+Panic attacks,PANIC ATTACK
+Paraneoplastic syndrome,PARANEOPLASTIC SYNDROME
+Paraplegia,PARAPLEGIA
+Pericardial effusion,PERICARDIAL EFFUSION
+Cold extremities,PERIPHERAL COLDNESS
+Peripheral sensory neuropathy,PERIPHERAL SENSORY NEUROPATHY
+Footdrop,PERONEAL NERVE PALSY
+Pharyngitis,PHARYNGITIS
+Phlebitis superficial,PHLEBITIS SUPERFICIAL
+Pleuritic pain,PLEURITIC PAIN
+Pneumonia,PNEUMONIA
+Aspiration pneumonia,PNEUMONIA ASPIRATION
+Pneumonitis,PNEUMONITIS
+Pollakiuria,POLLAKIURIA
+Portal hypertension,PORTAL HYPERTENSION
+Portal vein thrombosis,PORTAL VEIN THROMBOSIS
+Perianal pain,PROCTALGIA
+Proteinuria,PROTEINURIA
+Pruritus,PRURITUS
+Pruritus allergic,PRURITUS ALLERGIC
+Pulmonary embolism,PULMONARY EMBOLISM
+Pyelonephritis,PYELONEPHRITIS
+Fever,PYREXIA
+Rash,RASH
+Erythematous rash,RASH ERYTHEMATOUS
+Generalised rash,RASH GENERALISED
+Pruritic rash,RASH PRURITIC
+Rectorrhagia,RECTAL HAEMORRHAGE
+Renal failure,RENAL FAILURE
+Acute renal failure,RENAL FAILURE ACUTE
+Renal pain,RENAL PAIN
+Respiratory failure,RESPIRATORY FAILURE
+Respiratory tract infection viral,RESPIRATORY TRACT INFECTION VIRAL
+Restlessness,RESTLESSNESS
+Reversible posterior leukoencephalopathy syndrome,REVERSIBLE POSTERIOR LEUKOENCEPHALOPATHY SYNDROME
+Rhinitis,RHINITIS
+Rhinorrhea,RHINORRHOEA
+Right ventricular dysfunction,RIGHT VENTRICULAR DYSFUNCTION
+Scar pain,SCAR PAIN
+Septicemia,SEPSIS
+Sinus bradycardia,SINUS BRADYCARDIA
+Sinus pain,SINUS HEADACHE
+Sinus tachycardia,SINUS TACHYCARDIA
+Sinus infection,SINUSITIS
+Hyperpigmentation skin,SKIN HYPERPIGMENTATION
+Skin injury,SKIN INJURY
+Skin lesion,SKIN LESION
+Sleep disorder,SLEEP DISORDER
+Small bowel obstruction,SMALL INTESTINAL OBSTRUCTION
+Somnolence,SOMNOLENCE
+Spinal cord compression,SPINAL CORD COMPRESSION
+Splenic infarction,SPLENIC INFARCTION
+Splenic vein thrombosis,SPLENIC VEIN THROMBOSIS
+Steatorrhea,STEATORRHOEA
+Biliary stent occlusion,STENT OCCLUSION
+Stent related infection,STENT RELATED INFECTION
+Stomatitis,STOMATITIS
+Paroxysmal supraventricular tachycardia,SUPRAVENTRICULAR TACHYCARDIA
+Facial puffiness,SWELLING FACE
+Tachycardia,TACHYCARDIA
+Tendonitis,TENDONITIS
+Testicular pain,TESTICULAR PAIN
+Thrombocytopenia,THROMBOCYTOPENIA
+Superficial thrombophlebitis,THROMBOPHLEBITIS SUPERFICIAL
+Thrombosis mesenteric vessel,THROMBOSIS MESENTERIC VESSEL
+Tinnitus,TINNITUS
+Tooth loss,TOOTH LOSS
+Toxicodermatosis,TOXIC SKIN ERUPTION
+Transaminases increased,TRANSAMINASES INCREASED
+Tumor associated fever,TUMOUR ASSOCIATED FEVER
+Tumor hemorrhage,TUMOUR HAEMORRHAGE
+Tumor pain,TUMOUR PAIN
+Umbilical hernia,UMBILICAL HERNIA
+Upper gastrointestinal hemorrhage,UPPER GASTROINTESTINAL HAEMORRHAGE
+Upper respiratory infection,UPPER RESPIRATORY TRACT INFECTION
+Ureter obstruction,URETERIC OBSTRUCTION
+Urinary retention,URINARY RETENTION
+Urinary infection,URINARY TRACT INFECTION
+Urinary tract pain,URINARY TRACT PAIN
+Urosepsis,UROSEPSIS
+Uterine myoma,UTERINE LEIOMYOMA
+Venous thrombosis limb,VENOUS THROMBOSIS LIMB
+Ventricular bigeminy,VENTRICULAR EXTRASYSTOLES
+Ventricular fibrillation,VENTRICULAR FIBRILLATION
+Vertigo,VERTIGO
+Blurred vision,VISION BLURRED
+Visual disturbance NOS,VISUAL IMPAIRMENT
+Vomiting,VOMITING
+Weight loss,WEIGHT DECREASED
+Wound dehiscence,WOUND DEHISCENCE
